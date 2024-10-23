@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - Enemy
+  - Helmet
+  - Path
+  - BombSpot
+  - Parameters
+  - WoodBox
+  - Trigger
+  - Door
+  - Grave
+  - WayPoint
+  - WayPoint_Tank
+  - minimap_camera
+  - NPC
+  - Ground
+  - Iron
+  - Test
+  - Fx
+  - TargetPlace
+  - FlyBullet
+  - explosion
+  - SceneRoot
+  - Prop
+  - Tech
+  - Drug
+  - Weapon
+  - New tag
+  - RacingObstacle
+  - RacingZombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - EnemyAttack
+  - Wall
+  - SpawnPoint
+  - SceneObject
+  - Camera
+  - Floor
+  - TransparentWall
+  - Sky
+  - DeadBody
+  - WoodBox
+  - Item
+  - PlayerPickUp
+  - EnemyManager
+  - CopBomB
+  - DropItem
+  - EnemyBullet
+  - Obstacle
+  - EliteEnemy
+  - EliteEnemyAttack
+  - PlayerAttack
+  - NPC
+  - Triggers
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LevelPassGiftDatas>
+	<LevelPassGiftData ID="1" Describe="LPG_DES_01" RequireLevel="10" AwardID="1,2,8203" AwardCount="500,15,10"/>
+	<LevelPassGiftData ID="2" Describe="LPG_DES_02" RequireLevel="20" AwardID="1,2,8208" AwardCount="2000,20,4"/>
+	<LevelPassGiftData ID="3" Describe="LPG_DES_03" RequireLevel="30" AwardID="1,2,3" AwardCount="8000,30,500"/>
+	<LevelPassGiftData ID="4" Describe="LPG_DES_04" RequireLevel="40" AwardID="1,2,3" AwardCount="20000,50,1000"/>
+	<LevelPassGiftData ID="5" Describe="LPG_DES_05" RequireLevel="50" AwardID="1,2,3" AwardCount="40000,100,2000"/>
+	<LevelPassGiftData ID="6" Describe="LPG_DES_06" RequireLevel="60" AwardID="1,2,3" AwardCount="50000,150,3000"/>
+</LevelPassGiftDatas>

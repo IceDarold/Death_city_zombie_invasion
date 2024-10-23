@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FactoryDatas>
+	<FactoryData Name="TECHTREE" Describe="NPC_DES_01" FactoryType="0" UpgradeCost="10,20,30,40,50,60,70,80,90" UpgradeTime="60,120,180,240,300,360,420,480,540"/>
+	<FactoryData Name="GUNSMITH" Describe="NPC_DES_02" FactoryType="1" UpgradeCost="10,20,30,40,50,60,70,80,90" UpgradeTime="60,20,20,240,300,360,420,480,540"/>
+	<FactoryData Name="ENGINEER" Describe="NPC_DES_03" FactoryType="2" UpgradeCost="10,20,30,40,50,60,70,80,90" UpgradeTime="60,120,180,240,300,360,420,480,540"/>
+	<FactoryData Name="MEDIC" Describe="NPC_DES_04" FactoryType="3" UpgradeCost="10,20,30,40,50,60,70,80,90" UpgradeTime="60,120,180,240,300,360,420,480,540"/>
+</FactoryDatas>

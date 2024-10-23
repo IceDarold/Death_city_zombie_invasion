@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1790397000334780130}
+  m_IsPrefabParent: 1
+--- !u!4 &1790397000385111779
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790397000334780130}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790397000334780130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1790397000385111779}
+  - component: {fileID: 1790397002230605540}
+  m_Layer: 0
+  m_Name: "ResourceConfigScript"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790397002230605540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790397000334780130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d141a94bba14baeb24b61f2a79a77a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitBlood_ref:
+    resName: "Guaiwushoushang_4"
+    resRef: {fileID: 0}
+  headShotBlood_ref:
+    resName: "Baotou_2"
+    resRef: {fileID: 0}
+  headShotEffect_ref:
+    resName: "Effect_HeadShot"
+    resRef: {fileID: 0}
+  deadBlood_ref:
+    resName: "ZhaXue"
+    resRef: {fileID: 0}
+  deadFoorblood_ref:
+    resName: "FloorBlood3"
+    resRef: {fileID: 0}
+  deadFoorblood2_ref:
+    resName: "FloorBlood3"
+    resRef: {fileID: 0}
+  hitparticles_ref:
+    resName: "SparkNew"
+    resRef: {fileID: 0}
+  boomerExplosion_ref:
+    resName: "YouTongBaoZha"
+    resRef: {fileID: 0}
+  fireline_ref:
+    resName: "FireLine"
+    resRef: {fileID: 0}
+  bullets_ref:
+    resName: "Bullet"
+    resRef: {fileID: 0}
+  woodExplode_ref:
+    resName: "dabaozha_youtong"
+    resRef: {fileID: 0}
+  headShootParticle_ref:
+    resName: "Baotou_2"
+    resRef: {fileID: 0}
+  spitterBullet_ref:
+    resName: "SpitterBullet"
+    resRef: {fileID: 0}
+  despotBullet_ref:
+    resName: "DespotBullet"
+    resRef: {fileID: 0}
+  bombParticle_ref:
+    resName: "MBDD_Zadi"
+    resRef: {fileID: 0}
+  GrenadeLauncherBullet_ref:
+    resName: "GrenadeLauncherBullet"
+    resRef: {fileID: 0}
+  EnemyComeOutParticle_ref:
+    resName: "Posui"
+    resRef: {fileID: 0}
+  Bomber2Explod_ref:
+    resName: "Jiangshizibao"
+    resRef: {fileID: 0}
+  Bomber2Screen_ref:
+    resName: "Jingtou_1"
+    resRef: {fileID: 0}
+  snipeNormalBullet_ref:
+    resName: "SnipeNormalBullet"
+    resRef: {fileID: 0}
+  snipeFinalBullet_ref:
+    resName: "SnipeFinalBullet"
+    resRef: {fileID: 0}
+  snipeLastShootGunFire_ref:
+    resName: "SnipeLastShootGunFire"
+    resRef: {fileID: 0}

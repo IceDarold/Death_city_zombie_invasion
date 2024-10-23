@@ -1,0 +1,1644 @@
+<LanguageDatas>
+  <LanguageData Keyword="CONFIRM" English="Confirm" Chinese="确认" />
+  <LanguageData Keyword="CANCEL" English="CANCEL" Chinese="取消" />
+  <LanguageData Keyword="BACK" English="BACK" Chinese="返回" />
+  <LanguageData Keyword="LEVEL" English="LV" Chinese="等级" />
+  <LanguageData Keyword="GOLD" English="GOLD COIN" Chinese="金币" />
+  <LanguageData Keyword="REVIVE_COIN" English="Defibrillator" Chinese="除颤器" />
+  <LanguageData Keyword="DNA" English="DNA" Chinese="DNA" />
+  <LanguageData Keyword="CARD" English="CARDS" Chinese="卡片" />
+  <LanguageData Keyword="REMIND" English="Surplus" Chinese="剩余" />
+  <LanguageData Keyword="OPENBOX" English="BLACK MARKET SUPPLY" Chinese="黑市物资" />
+  <LanguageData Keyword="WEAPONNPC" English="Daun" Chinese="道恩" />
+  <LanguageData Keyword="SHOP" English="SHOP" Chinese="商城" />
+  <LanguageData Keyword="EQUIPNPC" English="EQUIPMENT" Chinese="装备厂" />
+  <LanguageData Keyword="PROPNPC" English="FRANK" Chinese="弗兰克" />
+  <LanguageData Keyword="DIAMOND" English="DIAMOND" Chinese="钻石" />
+  <LanguageData Keyword="BUY" English="BUY" Chinese="购买" />
+  <LanguageData Keyword="CLOSE" English="CLOSE" Chinese="关闭" />
+  <LanguageData Keyword="DESCRIBE" English="DESCRIBE" Chinese="描述" />
+  <LanguageData Keyword="FIRE" English="FIRE:" Chinese="火力:" />
+  <LanguageData Keyword="NUMDESGIFT" English="Remaining:" Chinese="今日可购买次数:" />
+  <LanguageData Keyword="CHANGEROLE" English="CHANGE ROLE" Chinese="更换角色" />
+  <LanguageData Keyword="DEFINE" English="DEFINE" Chinese="坚韧" />
+  <LanguageData Keyword="FIREPOWER" English="POWER:" Chinese="火力:" />
+  <LanguageData Keyword="FIREPOWER_NOENOUGH" English="INSUFFICIENT FIREPOWER" Chinese="火力不足 建议升级" />
+  <LanguageData Keyword="FIREPOWER_CHANGE" English="REPLACE WEAPON" Chinese="火力不足 建议更换武器" />
+  <LanguageData Keyword="WEAPONTITLE" English="WEAPON SLOTS" Chinese="武器栏" />
+  <LanguageData Keyword="FIREPOWER2" English="FIREPOWER" Chinese="火力" />
+  <LanguageData Keyword="PROPTITLE" English="PROP SLOTS" Chinese="道具栏" />
+  <LanguageData Keyword="EQUIPTITLE" English="EQUIP SLOTS" Chinese="装备栏" />
+  <LanguageData Keyword="TOLENTITLE" English="TALENT SLOTS" Chinese="天赋" />
+  <LanguageData Keyword="ROLE" English="ROLE" Chinese="角色" />
+  <LanguageData Keyword="WEAPON" English="WEAPON" Chinese="武器" />
+  <LanguageData Keyword="EQUIP" English="EQUIP" Chinese="装备" />
+  <LanguageData Keyword="PROP" English="PROP" Chinese="道具" />
+  <LanguageData Keyword="USEING" English="USING" Chinese="使用中" />
+  <LanguageData Keyword="CHOOSE" English="SELECT" Chinese="选择" />
+  <LanguageData Keyword="GOTOBUY" English="GO TO BUY" Chinese="前往购买" />
+  <LanguageData Keyword="TALENT" English="TALENT" Chinese="天赋" />
+  <LanguageData Keyword="TALENT_TREE" English="Jennifer" Chinese="莫妮卡" />
+  <LanguageData Keyword="ADDITIONAL_GOLD" English="ADDITIONAL_GOLD" Chinese="金币附加卷" />
+  <LanguageData Keyword="ADDITIONAL_DIAMOND" English="ADDITIONAL_DIAMOND" Chinese="钻石附加卷" />
+  <LanguageData Keyword="ADDITIONAL_DNA" English="ADDITIONAL_DNA" Chinese="DNA附加卷" />
+  <LanguageData Keyword="RANDOMLEVEL" English="CLEANUP ACTION" Chinese="清理行动" />
+  <LanguageData Keyword="ROLE02_UNLOCK" English="Chapter 4 completes unlocking" Chinese="第四章完成解锁" />
+  <LanguageData Keyword="Vip_Day_Reward" English="VIP DAY REWARD" Chinese="VIP每日奖励" />
+  <LanguageData Keyword="Day_Reward" English="DAILY TASK COMPLETED" Chinese="每日任务完成" />
+  <LanguageData Keyword="NO_ENOUGH" English="NO ENOUGH " Chinese="没有足够的" />
+  <LanguageData Keyword="WILL_BUY" English="DO YOU WANT TO BUY " Chinese="是否购买" />
+  <LanguageData Keyword="WILL_COST" English="DO YOU WANT TO COST" Chinese="是否花费" />
+  <LanguageData Keyword="PRODUCTION_LINE_FULL" English="PRODUCTION LINES ARE FULL" Chinese="的生产队列已经满了" />
+  <LanguageData Keyword="IS_BUSY" English="IS BUSY" Chinese="正在忙碌中" />
+  <LanguageData Keyword="BUY_SUCCESS" English="BUY SUCCESS" Chinese="购买成功" />
+  <LanguageData Keyword="ALREADY_BUY" English="BOUGHT" Chinese="已购买" />
+  <LanguageData Keyword="NEXT_REFRESH" English="REFRESH TOMORROW" Chinese="次日刷新" />
+  <LanguageData Keyword="OPTION" English="OPTION" Chinese="设置" />
+  <LanguageData Keyword="MUSIC" English="MUSIC" Chinese="音乐" />
+  <LanguageData Keyword="SOUND" English="SOUND" Chinese="音效" />
+  <LanguageData Keyword="LANGUAGE" English="LANGUAGE" Chinese="语言" />
+  <LanguageData Keyword="SENSITIVITY" English="SENSITIVITY" Chinese="灵敏度" />
+  <LanguageData Keyword="ON" English="ON" Chinese="开" />
+  <LanguageData Keyword="OFF" English="OFF" Chinese="关" />
+  <LanguageData Keyword="START_TIP" English="TOUCH TO START GAME" Chinese="点击屏幕开始僵尸之旅" />
+  <LanguageData Keyword="LOADING" English="LOADING..." Chinese="加载中..." />
+  <LanguageData Keyword="LOGON_RECOMMEND" English="LOG IN FOR #day# DAYS, TO GET #award#" Chinese="登录#day#天赠送#award#" />
+  <LanguageData Keyword="TIP_01" English="Don't try to make zombies reasonable because they just want to eat." Chinese="不要试图和僵尸讲道理,因为他们只是想要吃的." />
+  <LanguageData Keyword="TIP_02" English="You can choose a partner to fight." Chinese="你可以选择伙伴进行战斗." />
+  <LanguageData Keyword="TIP_03" English="Monica is very good at killing targets with automatic rifles." Chinese="莫妮卡非常擅长使用自动步枪击杀目标." />
+  <LanguageData Keyword="TIP_04" English="Daun can cause more damage by using a shotgun." Chinese="道恩使用霰弹可以造成更多的伤害." />
+  <LanguageData Keyword="TIP_05" English="The black market supplies will sell a variety of weapons and equipment." Chinese="黑市物资会出售各种各样的武器和装备." />
+  <LanguageData Keyword="TIP_06" English="Gift bags sold in the mall are extremely low in price, with lots of diamonds and coins." Chinese="商城出售的礼包拥有超低的价格并获得大量的钻石和金币" />
+  <LanguageData Keyword="TIP_07" English="Want to expand the arsenal? Come and see the black market supplies!" Chinese="想要扩充武器库?来黑市物资看看吧!" />
+  <LanguageData Keyword="TIP_08" English="The battle pack has a lot of supplies to keep you logistical." Chinese="战斗包有大量的补给品,让你后勤无忧." />
+  <LanguageData Keyword="WORLD" English="WORLD" Chinese="世界" />
+  <LanguageData Keyword="EQUIPMENT" English="EQUIP" Chinese="装备" />
+  <LanguageData Keyword="FREE" English="FREE" Chinese="免费" />
+  <LanguageData Keyword="ENTER" English="ENTER" Chinese="进入" />
+  <LanguageData Keyword="TECHTREE" English="TECHTREE" Chinese="科技师" />
+  <LanguageData Keyword="MEDIC" English="MEDIC" Chinese="制药师" />
+  <LanguageData Keyword="ENGINEER" English="ENGINEER" Chinese="工程师" />
+  <LanguageData Keyword="GUNSMITH" English="GUNSMITH" Chinese="枪械师" />
+  <LanguageData Keyword="NEXT_UNLOCK" English="NEXT LEVEL UNLOCK" Chinese="升级后解锁" />
+  <LanguageData Keyword="UNLOCK" English="UNLOCK" Chinese="解锁" />
+  <LanguageData Keyword="UNIT" English="" Chinese="个" />
+  <LanguageData Keyword="INCOME_PROMOTION" English="INCOME PROMOTION" Chinese="收入增加" />
+  <LanguageData Keyword="ROLE_LIFE" English="LIFE" Chinese="生命" />
+  <LanguageData Keyword="ROLE_SPEED" English="SPEED" Chinese="速度" />
+  <LanguageData Keyword="DAMAGEES" English="DAMAGE" Chinese="伤害" />
+  <LanguageData Keyword="DAMAGE" English="DAMAGE" Chinese="伤害" />
+  <LanguageData Keyword="BULLETS" English="AMMUNITION" Chinese="携弹量" />
+  <LanguageData Keyword="GUN_RANGE" English="SHOOT RANGE" Chinese="射程" />
+  <LanguageData Keyword="SHOOTSPEED" English="SHOOT SPEED" Chinese="射速" />
+  <LanguageData Keyword="MAGAZINES" English="MAGAZINES" Chinese="弹匣" />
+  <LanguageData Keyword="RELOADINGTIME" English="RELOADINGTIME" Chinese="换弹时间" />
+  <LanguageData Keyword="PRECISE" English="PRECISE" Chinese="精准" />
+  <LanguageData Keyword="SCOPETIMES" English="SCOPETIMES" Chinese="倍镜" />
+  <LanguageData Keyword="GET" English="GET" Chinese="领取" />
+  <LanguageData Keyword="UPGRADE" English="UPGRADE" Chinese="升级" />
+  <LanguageData Keyword="SPEEDUP" English="SPEEDUP" Chinese="加速" />
+  <LanguageData Keyword="LEVELMAX" English="LEVELMAX" Chinese="已满级" />
+  <LanguageData Keyword="BUYDEBRIS" English="GETDEBRIS" Chinese="获取图纸" />
+  <LanguageData Keyword="COMPOSE" English="COMPOSE" Chinese="合成" />
+  <LanguageData Keyword="PRODUCE" English="PRODUCE" Chinese="制作" />
+  <LanguageData Keyword="AMOUNT" English="COUNT" Chinese="数量:" />
+  <LanguageData Keyword="NEED" English="NEED " Chinese="需要" />
+  <LanguageData Keyword="BLUEPRINT" English="BLUEPRINT" Chinese="蓝图" />
+  <LanguageData Keyword="UPGRADING" English="UPGRADING " Chinese="升级中" />
+  <LanguageData Keyword="PRODUCING" English="PRODUCING " Chinese="制作中" />
+  <LanguageData Keyword="OWN" English="OWN" Chinese="拥有" />
+  <LanguageData Keyword="HAVEEQUIP" English=" EQUIPPED" Chinese="已装备" />
+  <LanguageData Keyword="HAVEEQUIPMENT" English="(EQUIPPED)" Chinese="(已装备)" />
+  <LanguageData Keyword="HAVEGOT" English="HAVEGOT" Chinese="已拥有" />
+  <LanguageData Keyword="NOHAVE" English="NOHAVE" Chinese="未获得" />
+  <LanguageData Keyword="USING" English="USING" Chinese="使用中" />
+  <LanguageData Keyword="GAIN" English="GAIN" Chinese="获取" />
+  <LanguageData Keyword="RESET" English="RESET" Chinese="重置" />
+  <LanguageData Keyword="SOME_FULL" English="SOME FULL" Chinese="点满" />
+  <LanguageData Keyword="TIME" English="TIME" Chinese="次" />
+  <LanguageData Keyword="SKILL_NAME" English="SKILL NAME" Chinese="技能属性名" />
+  <LanguageData Keyword="MAX_EFFECT" English="MAX EFFECT" Chinese="满级效果" />
+  <LanguageData Keyword="REP_LIFE" English="REP LIFE" Chinese="恢复生命值" />
+  <LanguageData Keyword="CREATE" English="CREATE " Chinese="造成" />
+  <LanguageData Keyword="GOTOGAIN" English="GO TO GAIN" Chinese="前往获取" />
+  <LanguageData Keyword="NUM_FULL" English="NUM FULL" Chinese="数量已满" />
+  <LanguageData Keyword="HEAD" English="HEAD" Chinese="头盔" />
+  <LanguageData Keyword="CHEST" English="CHEST" Chinese="背包" />
+  <LanguageData Keyword="FOOT" English="GLOVE" Chinese="手套" />
+  <LanguageData Keyword="EQUIP_PROPERTY" English="EQUIP PROPERTY" Chinese="装备属性" />
+  <LanguageData Keyword="BONUS_STATS" English="BONUS STATS" Chinese="套装属性" />
+  <LanguageData Keyword="METERIAL_NOENOUGH" English="THE MATERIAL IS INSUFFICIENT, PLEASE CHOOSE THE WAY TO GET IT." Chinese="缺少图纸,请选择获取方式" />
+  <LanguageData Keyword="LEVEL_DROPDOWN" English=" GO MAP " Chinese=" 关卡掉落 " />
+  <LanguageData Keyword="TENACITY" English="TENACITY" Chinese="坚韧" />
+  <LanguageData Keyword="UPGRDE_COMPELET" English="LEVEL UP" Chinese="升级完成" />
+  <LanguageData Keyword="UPGRDE_REWARD" English="UPGRDE REWARD" Chinese="等级提升获得奖励" />
+  <LanguageData Keyword="ENDLESS" English="ENDLESS" Chinese="无尽模式" />
+  <LanguageData Keyword="BOSSLEVEL" English="BOSS CHALLENGE" Chinese="BOSS挑战" />
+  <LanguageData Keyword="CHALLENGE" English="CHALLENGE" Chinese="挑战" />
+  <LanguageData Keyword="REWARD" English="REWARD" Chinese="奖励" />
+  <LanguageData Keyword="START" English="START" Chinese="开始" />
+  <LanguageData Keyword="EASY" English="EASY" Chinese="简单" />
+  <LanguageData Keyword="HARD" English="HARD" Chinese="困难" />
+  <LanguageData Keyword="GIFT" English="GIFT" Chinese="礼包" />
+  <LanguageData Keyword="BEST_SCORE" English="BEST SCORE" Chinese="最佳纪录" />
+  <LanguageData Keyword="INTRODUCE" English="INTRODUCE" Chinese="说明" />
+  <LanguageData Keyword="SCORE_REWARD" English="SCORE REWARD" Chinese="得分奖励" />
+  <LanguageData Keyword="SCORE" English="SCORE" Chinese="得分" />
+  <LanguageData Keyword="END_TIME" English="END TIME" Chinese="结束时间" />
+  <LanguageData Keyword="END" English="END" Chinese="结束" />
+  <LanguageData Keyword="REVIVE" English="REVIVE" Chinese="复活" />
+  <LanguageData Keyword="FAILED" English="FAILED" Chinese="失败" />
+  <LanguageData Keyword="SUCCEED" English="SUCCESSFUL CLEARANCE" Chinese="闯关成功" />
+  <LanguageData Keyword="DOUBLE" English="DOUBLE" Chinese="双倍奖励" />
+  <LanguageData Keyword="TOTAL" English="TOTAL" Chinese="总分" />
+  <LanguageData Keyword="RETURN" English="RETURN" Chinese="返回" />
+  <LanguageData Keyword="CURRENT_MISSION" English="CURRENT MISSION" Chinese="当前任务" />
+  <LanguageData Keyword="EXIT" English="EXIT" Chinese="退出" />
+  <LanguageData Keyword="CONTINUE" English="CONTINUE" Chinese="继续" />
+  <LanguageData Keyword="RESTART" English="RESTART" Chinese="重新开始" />
+  <LanguageData Keyword="CAREER" English="CAREER" Chinese="生涯" />
+  <LanguageData Keyword="KILL_ZOMBIES" English="KILL ZOMBIES" Chinese="击杀僵尸" />
+  <LanguageData Keyword="PASS_CHECKPOINT" English="PASS CHECKPOINTS" Chinese="通过关卡" />
+  <LanguageData Keyword="GAME_TIME" English="GAME TIME" Chinese="游戏时长" />
+  <LanguageData Keyword="EARN_GOLDS" English="EARN GOLDS" Chinese="获得金币" />
+  <LanguageData Keyword="EARN_DIAMONDS" English="EARN DIAMONDS" Chinese="获得钻石" />
+  <LanguageData Keyword="EARN_DNA" English="EARN DNA" Chinese="获得DNA" />
+  <LanguageData Keyword="HIT_RATE" English="HIT RATE" Chinese="命中率" />
+  <LanguageData Keyword="HEADSHOT_RATE" English="HEADSHOT RATE" Chinese="爆头率" />
+  <LanguageData Keyword="COMPELETED" English="COMPELETED " Chinese="全部完成 " />
+  <LanguageData Keyword="GET_REWARD" English="GET" Chinese="获取奖励" />
+  <LanguageData Keyword="PUSH_TITLE" English="ARBITRARY CONSUMPTION" Chinese="任意消费" />
+  <LanguageData Keyword="Arbitrary_consumption" English="RECHARGE ANY AMOUNT TO GET 3 GOLD BOXES" Chinese="充值任何金额可获得3个金箱子" />
+  <LanguageData Keyword="GIVE_3_GOLDBOX" English="GIVE 3 GOLDBOX" Chinese="赠送3个金箱子" />
+  <LanguageData Keyword="BOOSTITLE" English="BOSS_CHALLENGE" Chinese="每日BOSS挑战" />
+  <LanguageData Keyword="COMPELET_REWARD" English="REWARD" Chinese="完成奖励" />
+  <LanguageData Keyword="CHALLENGE_TIME" English="TIME" Chinese="挑战时间" />
+  <LanguageData Keyword="GOLD_LEVEL_DES" English="WHY IS THE ZOMBIE SO RICH！" Chinese="这里的每个僵尸都非常“富有”！" />
+  <LanguageData Keyword="MORE_MONEY" English="MONEY CHALLENGE" Chinese="金币关" />
+  <LanguageData Keyword="ADD_BULLET" English="ADD_BULLETING " Chinese="装弹中 " />
+  <LanguageData Keyword="ADD_BULLET_FULL" English="BULLET FULL" Chinese="已装满" />
+  <LanguageData Keyword="STORE" English="STORE" Chinese="商城" />
+  <LanguageData Keyword="PISTOL" English="PISTOL" Chinese="手枪" />
+  <LanguageData Keyword="SHOTGUN" English="SHOTGUN" Chinese="霰弹" />
+  <LanguageData Keyword="SUBMACHINE_GUN" English="SUBMACHINE GUN" Chinese="冲锋枪" />
+  <LanguageData Keyword="AUTOMATIC_RIFLE" English="AUTOMATIC RIFLE" Chinese="自动步枪" />
+  <LanguageData Keyword="HEAVY_MACHINE_GUN" English="HEAVY MACHINE GUN" Chinese="重机枪" />
+  <LanguageData Keyword="WEAPON_TYPE_6" English="BOW AND ARROW" Chinese="弓箭" />
+  <LanguageData Keyword="GRENADE_LAUNCHER" English="GRENADE LAUNCHER" Chinese="榴弹发射器" />
+  <LanguageData Keyword="SPECIAL" English="SPECIAL" Chinese="特殊" />
+  <LanguageData Keyword="SNIPER_RIFLE" English="sniper rifle" Chinese="狙击步枪" />
+  <LanguageData Keyword="ADVICE" English="ADVICE" Chinese="建议" />
+  <LanguageData Keyword="FIVESTAR" English="If you like our game, please give a five-star rating!" Chinese="如果喜欢我们游戏,给一个五星好评吧!" />
+  <LanguageData Keyword="PARTICIPATION" English="Participation Evaluation" Chinese="参与评价" />
+  <LanguageData Keyword="SHARED_TODAY" English="I have already shared it today." Chinese="今天已经分享过了" />
+  <LanguageData Keyword="SHARE_FAILD" English="Sharing failure" Chinese="分享失败" />
+  <LanguageData Keyword="SEACHING" English=" SEACHING" Chinese=" 探索中" />
+  <LanguageData Keyword="DRAWING" English="DRAWING" Chinese="图纸" />
+  <LanguageData Keyword="BUY_FAILED" English="BUY FAILED" Chinese="购买失败" />
+  <LanguageData Keyword="GREAT_DEALS" English="GREAT DEALS" Chinese="超值优惠" />
+  <LanguageData Keyword="DOUBLE_GOLD" English="DOUBLE GOLD COIN" Chinese="双倍金币" />
+  <LanguageData Keyword="WARNING" English="PROMPT" Chinese="提示" />
+  <LanguageData Keyword="POWER_RECOMMEND" English="RECOMMENDED FIREPOWER" Chinese="推荐战力" />
+  <LanguageData Keyword="POWER_SELF" English="MY FIREPOWER" Chinese="我的战力" />
+  <LanguageData Keyword="POWER_SHORTAGE_TIP1" English="Insufficient combat power, entering will be very dangerous!" Chinese="战斗力不足,进入会十分的危险!" />
+  <LanguageData Keyword="POWER_SHORTAGE_TIP2" English="You need a more cool weapon!" Chinese="你需要一把更酷炫的武器!" />
+  <LanguageData Keyword="ENERGY_DOUBLE" English="VIP double physical strength" Chinese="VIP双倍体力" />
+  <LanguageData Keyword="ENERGY_TIP" English="Restore 1 point physical strength in 15 minutes" Chinese="15分钟恢复1点体力值" />
+  <LanguageData Keyword="ENERGY_SHORTAGE_TIP1" English="Insufficient physical strength!" Chinese="体力值不足" />
+  <LanguageData Keyword="ENERGY_SHORTAGE_TIP2" English="Full of physical strength" Chinese="体力值满了" />
+  <LanguageData Keyword="WEAPONLEVEL" English="FIREARMS TRIAL" Chinese="枪械试用" />
+  <LanguageData Keyword="LEVEL_PASS_AWARD" English="CHAPTER PACKAGE" Chinese="章节礼包" />
+  <LanguageData Keyword="ENERGY_RECOVERY" English="PHYSICAL RECOVERY" Chinese="恢复体力" />
+  <LanguageData Keyword="ONLY_ONE_CHANCE" English="GREAT VALUE, ONLY ONCE" Chinese="超值优惠,仅此一次" />
+  <LanguageData Keyword="LPG_DES_01" English="Earn rewards after completing 10 levels" Chinese="完成10关之后领取奖励" />
+  <LanguageData Keyword="LPG_DES_02" English="Earn rewards after completing 20 levels" Chinese="完成20关之后领取奖励" />
+  <LanguageData Keyword="LPG_DES_03" English="Earn rewards after completing 30 levels" Chinese="完成30关之后领取奖励" />
+  <LanguageData Keyword="LPG_DES_04" English="Earn rewards after completing 40 levels" Chinese="完成40关之后领取奖励" />
+  <LanguageData Keyword="LPG_DES_05" English="Earn rewards after completing 50 levels" Chinese="完成50关之后领取奖励" />
+  <LanguageData Keyword="PLAY_FAILED" English="Temporarily unable to play ads" Chinese="暂时无法播放广告" />
+  <LanguageData Keyword="NO_MORE_TIMES_TODAY" English="The number of times has been exhausted today." Chinese="今天的播放次数已经用完了" />
+  <LanguageData Keyword="PLEASE_TRY_TOMORROW" English="Please see it again tomorrow" Chinese="请明天再看" />
+  <LanguageData Keyword="PLEASE_WAIT" English="Wait a minute" Chinese="稍等一会" />
+  <LanguageData Keyword="SECONDS" English="SEC" Chinese="秒" />
+  <LanguageData Keyword="WEAPON_TRY_TITLE" English="AWESOME WEAPON" Chinese="令人向往的武器" />
+  <LanguageData Keyword="WEAPON_TRY_DESCRIBE" English="Maybe you should try this new &quot;guy&quot;!" Chinese="也许你该试试这把新家伙!" />
+  <LanguageData Keyword="NEED_TANLET_POINT" English="Need to get skill points" Chinese="需要获得技能点" />
+  <LanguageData Keyword="SHOOTING_MODE" English="SHOOTING MODE" Chinese="射击模式" />
+  <LanguageData Keyword="SHOOTING_MODE_AUTO" English="AUTOMATIC" Chinese="自动" />
+  <LanguageData Keyword="SHOOTING_MODE_MANUAL" English="MANUAL" Chinese="手动" />
+  <LanguageData Keyword="POWER_MAX" English="MAX FIREPOWER" Chinese="满级火力" />
+  <LanguageData Keyword="BOX_COPPER" English="WOODEN BOX" Chinese="木箱子" />
+  <LanguageData Keyword="BOX_SILVER" English="SILVER BOX" Chinese="银箱子" />
+  <LanguageData Keyword="BOX_GOLDEN" English="GOLD BOX" Chinese="金箱子" />
+  <LanguageData Keyword="MONTHLY_CARD_AWARD" English="DAILY SUPPLIES" Chinese="每日物资" />
+  <LanguageData Keyword="DOWNLOAD_TIP" English="Downloading..." Chinese="下载中..." />
+  <LanguageData Keyword="DOWNLOAD" English="DOWNLOAD" Chinese="点击下载" />
+  <LanguageData Keyword="CANCEL_DOWNLOAD_TIP" English="Whether to cancel the download?" Chinese="是否取消下载?" />
+  <LanguageData Keyword="DOWNLOAD_TITLE" English="DOWNLOAD GAME CONTENT" Chinese="请先下载游戏内容" />
+  <LanguageData Keyword="DOWNLOAD_COMPLETE" English="Download completed" Chinese="下载成功" />
+  <LanguageData Keyword="DOWNLOAD_FAILD" English="download failed" Chinese="下载失败" />
+  <LanguageData Keyword="PROGRESS" English="Progress" Chinese="进度" />
+  <LanguageData Keyword="LEVEL_AWARD_BUY_TIP" English="Finish the mission and get rich rewards!" Chinese="完成关卡将获得丰厚奖励！" />
+  <LanguageData Keyword="RECEIVED" English="RECEIVED" Chinese="已领取" />
+  <LanguageData Keyword="LEVEL_TAG" English="Level #value#" Chinese="第#value#关" />
+  <LanguageData Keyword="LEVEL_AWARD_BUY_DESCRIBE" English="You can earn a level reward after purchase. Do you need to buy it?" Chinese="购买之后即可领取过关奖励,是否购买?" />
+  <LanguageData Keyword="RECEIVE_AGAIN" English="Watching an ad can get rewards again, will you watch it?" Chinese="观看广告可以再次获得奖励,是否观看?" />
+  <LanguageData Keyword="SNIPER_LEVEL" English="SNIPER MODE" Chinese="狙击模式" />
+  <LanguageData Keyword="SNIPE_TEACH_DESCRIBE" English="SNIPER MPDE OPEN" Chinese="狙击模式 开启" />
+  <LanguageData Keyword="NEED_SNIPE_WEAPON" English="You need to equip with a sniper rifle to enter!" Chinese="您需要装备狙击枪才能进入!" />
+  <LanguageData Keyword="JUMP" English="JUMP" Chinese="前往" />
+  <LanguageData Keyword="REMOULD" English="REMOULD" Chinese="改造" />
+  <LanguageData Keyword="ADVERTISEMENT_PUSH_TIP" English="You have received a valuable reward!" Chinese="您获得了一份珍贵的奖励!" />
+  <LanguageData Keyword="WATCH" English="WATCH" Chinese="观看" />
+  <LanguageData Keyword="COME_TOMORROW" English="COME AGAIN TOMORROW" Chinese="明天再来" />
+  <LanguageData Keyword="NEW_WEAPON_TITLE" English="NEW WEAPONS" Chinese="获得新武器" />
+  <LanguageData Keyword="BASIC_FIGHTING" English="BASIC FIGHTING: " Chinese="初始火力: " />
+  <LanguageData Keyword="MAX_FIGHTING" English="MAX FIGHTING: " Chinese="最大火力: " />
+  <LanguageData Keyword="CHANGE" English="CHANGE" Chinese="更换武器" />
+  <LanguageData Keyword="BULLET" English="BULLET" Chinese="子弹" />
+  <LanguageData Keyword="BARREL" English="BARREL" Chinese="枪管" />
+  <LanguageData Keyword="GUNSIGHT" English="GUNSIGHT" Chinese="瞄准镜" />
+  <LanguageData Keyword="MAGAZINE" English="MAGAZINE" Chinese="弹匣" />
+  <LanguageData Keyword="GUNSTOCK" English="GUNSTOCK" Chinese="枪托" />
+  <LanguageData Keyword="BOLT" English="BOLT" Chinese="枪栓" />
+  <LanguageData Keyword="SILENCER" English="SILENCER" Chinese="消音器" />
+  <LanguageData Keyword="REMIND_WEAPON_TIP" English="Need a sniper rifle" Chinese="需要使用狙击枪" />
+  <LanguageData Keyword="GUIDE_AIM" English="Slide To &lt;color=red&gt;AIM&lt;/color&gt;" Chinese="向上&lt;color=red&gt;滑动瞄准&lt;/color&gt;" />
+  <LanguageData Keyword="TEST_1" English="成就标题" Chinese="成就标题" />
+  <LanguageData Keyword="ACHIEVEMENT_COMPLETE" English="TARGET COMPLETION" Chinese="成就完成" />
+  <LanguageData Keyword="ACHIEVEMENT" English="ACHIEVEMENT" Chinese="成就" />
+  <LanguageData Keyword="ACH_NAME_01" English="GAME MASTER" Chinese="闯关达人" />
+  <LanguageData Keyword="ACH_NAME_02" English="ZOMBIE KILLER" Chinese="僵尸杀手" />
+  <LanguageData Keyword="ACH_NAME_03" English="CRITICAL HIT" Chinese="致命一击" />
+  <LanguageData Keyword="ACH_NAME_04" English="BOMB MANIAC" Chinese="炸弹狂人" />
+  <LanguageData Keyword="ACH_NAME_05" English="INTERN DOCTOR" Chinese="见习医生" />
+  <LanguageData Keyword="ACH_NAME_06" English="ANATOMY EXPERT" Chinese="解剖专家" />
+  <LanguageData Keyword="ACH_NAME_07" English="EVOLUTIONARY ROAD" Chinese="进化之路" />
+  <LanguageData Keyword="ACH_NAME_08" English="RESISTANCE TO BEAT" Chinese="抗揍" />
+  <LanguageData Keyword="ACH_NAME_09" English="TAILOR" Chinese="裁缝专家" />
+  <LanguageData Keyword="ACH_NAME_10" English="FORTUNE FINDER" Chinese="寻宝者" />
+  <LanguageData Keyword="ACH_NAME_11" English="WEAPON MASTER" Chinese="武器大师" />
+  <LanguageData Keyword="ACH_NAME_12" English="FIREPOWER BOOST" Chinese="火力提升" />
+  <LanguageData Keyword="ACH_NAME_13" English="PISTOL EXPORT" Chinese="手枪专家" />
+  <LanguageData Keyword="ACH_NAME_14" English="MACHINE GUN EXPORT" Chinese="机枪专家" />
+  <LanguageData Keyword="ACH_NAME_15" English="SHOTGUN EXPORT" Chinese="霰弹专家" />
+  <LanguageData Keyword="ACH_NAME_16" English="GREAT ESCAPE" Chinese="大逃亡" />
+  <LanguageData Keyword="ACH_NAME_17" English="HOLD THE FIELD" Chinese="坚守阵地" />
+  <LanguageData Keyword="ACH_NAME_18" English="LIFELINE" Chinese="生命线" />
+  <LanguageData Keyword="ACH_NAME_19" English="BUTCHER" Chinese="屠夫" />
+  <LanguageData Keyword="ACH_NAME_20" English="FATTY KILLER" Chinese="胖子杀手" />
+  <LanguageData Keyword="ACH_NAME_21" English="SPITTER KILLER" Chinese="喷吐杀手" />
+  <LanguageData Keyword="ACH_NAME_22" English="COME CALL ME" Chinese="看准点再撞" />
+  <LanguageData Keyword="ACH_NAME_23" English="TALENT MASS" Chinese="人才聚集" />
+  <LanguageData Keyword="ACH_NAME_24" English="VERY RICH" Chinese="非常有钱" />
+  <LanguageData Keyword="ACH_NAME_25" English="WALL STREET ELITE" Chinese="华尔街精英" />
+  <LanguageData Keyword="ACH_NAME_26" English="SPOTS" Chinese="插播广告" />
+  <LanguageData Keyword="ACH_NAME_27" English="PERSEVERANCE" Chinese="坚持不懈" />
+  <LanguageData Keyword="TEST_2" English="成就说明" Chinese="成就说明" />
+  <LanguageData Keyword="ACH_DES_01" English="Arrive at designated level" Chinese="到达指定关卡" />
+  <LanguageData Keyword="ACH_DES_02" English="Kill zombies" Chinese="杀死僵尸" />
+  <LanguageData Keyword="ACH_DES_03" English="Complete a headshot attack" Chinese="完成爆头攻击" />
+  <LanguageData Keyword="ACH_DES_04" English="Use hand grenades to kill zombies" Chinese="使用手雷炸死僵尸" />
+  <LanguageData Keyword="ACH_DES_05" English="Use medicine in the game" Chinese="游戏中使用药品" />
+  <LanguageData Keyword="ACH_DES_06" English="Get a certain amount of DNA" Chinese="获取一定数量的DNA" />
+  <LanguageData Keyword="ACH_DES_07" English="Enhance uour gene" Chinese="强化自己的基因天赋" />
+  <LanguageData Keyword="ACH_DES_08" English="Get a certain amount of equipment" Chinese="获取一定数量的装备" />
+  <LanguageData Keyword="ACH_DES_09" English="Upgrade your equipments" Chinese="对装备进行升级" />
+  <LanguageData Keyword="ACH_DES_10" English="Open a certain number of boxes" Chinese="打开一定数量的箱子" />
+  <LanguageData Keyword="ACH_DES_11" English="Get more guns" Chinese="获取更多的枪械" />
+  <LanguageData Keyword="ACH_DES_12" English="Upgrade your guns" Chinese="升级你的枪械" />
+  <LanguageData Keyword="ACH_DES_13" English="Use pistol to kill zombies" Chinese="使用手枪杀死僵尸" />
+  <LanguageData Keyword="ACH_DES_14" English="Use machine gun to kill zombies" Chinese="使用机枪杀死僵尸" />
+  <LanguageData Keyword="ACH_DES_15" English="Use shotgun to kill zombies" Chinese="使用霰弹杀死僵尸" />
+  <LanguageData Keyword="ACH_DES_16" English="Complete the mission of escorting teammates" Chinese="完成护送队友任务" />
+  <LanguageData Keyword="ACH_DES_17" English="Complete the mission of defending the position" Chinese="完成炮台防守任务" />
+  <LanguageData Keyword="ACH_DES_18" English="Complete the mission of transporting goods" Chinese="完成运输货物任务" />
+  <LanguageData Keyword="ACH_DES_19" English="Complete the mission of killing zombies" Chinese="完成消灭僵尸任务" />
+  <LanguageData Keyword="ACH_DES_20" English="Kill fatty" Chinese="杀死胖子怪" />
+  <LanguageData Keyword="ACH_DES_21" English="Kill spitter" Chinese="杀死喷吐怪" />
+  <LanguageData Keyword="ACH_DES_22" English="Kill charger" Chinese="杀死冲撞怪" />
+  <LanguageData Keyword="ACH_DES_23" English="Get more roles" Chinese="获得更多的角色" />
+  <LanguageData Keyword="ACH_DES_24" English="Spend your golds" Chinese="花掉手中的金币" />
+  <LanguageData Keyword="ACH_DES_25" English="Spend your diamonds hard" Chinese="使劲花你的钻石" />
+  <LanguageData Keyword="ACH_DES_26" English="Watch advertisements" Chinese="观看广告" />
+  <LanguageData Keyword="ACH_DES_27" English="Shoot zombies every day" Chinese="每天都要打僵尸" />
+  <LanguageData Keyword="TEST_99" English="章节名称" Chinese="章节名称" />
+  <LanguageData Keyword="CHAPTERNAME_01" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CHAPTERNAME_02" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CHAPTERNAME_03" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CHAPTERNAME_04" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CHAPTERNAME_05" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CHAPTERNAME_06" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CHAPTERNAME_07" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CHAPTERNAME_08" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CHAPTERNAME_09" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CHAPTERNAME_10" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="TEST_3" English="关卡章节" Chinese="关卡章节" />
+  <LanguageData Keyword="CP_NAME_001" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_002" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_003" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_004" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_005" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_006" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_007" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_008" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_009" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_010" English="THE END OF THE WORLD" Chinese="末日来临" />
+  <LanguageData Keyword="CP_NAME_011" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_012" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_013" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_014" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_015" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_016" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_017" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_018" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_019" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_020" English="RUSH TIME" Chinese="急速时刻" />
+  <LanguageData Keyword="CP_NAME_021" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_022" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_023" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_024" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_025" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_026" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_027" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_028" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_029" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_030" English="OUT OF INFERNO" Chinese="逃出生天" />
+  <LanguageData Keyword="CP_NAME_031" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_032" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_033" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_034" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_035" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_036" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_037" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_038" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_039" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_040" English="FOREST DANGER" Chinese="丛林危机" />
+  <LanguageData Keyword="CP_NAME_041" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_042" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_043" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_044" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_045" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_046" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_047" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_048" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_049" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_050" English="BE FULL OF PERIL" Chinese="危险重重" />
+  <LanguageData Keyword="CP_NAME_051" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_052" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_053" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_054" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_055" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_056" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_057" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_058" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_059" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_060" English="One's way home" Chinese="归途" />
+  <LanguageData Keyword="CP_NAME_061" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_062" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_063" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_064" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_065" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_066" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_067" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_068" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_069" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_070" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_071" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_072" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_073" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_074" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_075" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_076" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_077" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_078" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_079" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_080" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_081" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_082" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_083" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_084" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_085" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_086" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_087" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_088" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_089" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_090" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_091" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_092" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_093" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_094" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_095" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_096" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_097" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_098" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_099" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_100" English="FAREWELL TO ZOMBIES AGAIN" Chinese="再别僵尸" />
+  <LanguageData Keyword="CP_NAME_1001" English="GOLD LEVEL" Chinese="金币关" />
+  <LanguageData Keyword="CP_NAME_2001" English="BOSS LEVEL" Chinese="BOSS关" />
+  <LanguageData Keyword="CP_NAME_2002" English="BOSS LEVEL" Chinese="BOSS关" />
+  <LanguageData Keyword="CP_NAME_2003" English="BOSS LEVEL" Chinese="BOSS关" />
+  <LanguageData Keyword="CP_NAME_2004" English="BOSS LEVEL" Chinese="BOSS关" />
+  <LanguageData Keyword="CP_NAME_2005" English="BOSS LEVEL" Chinese="BOSS关" />
+  <LanguageData Keyword="CP_NAME_2006" English="BOSS LEVEL" Chinese="BOSS关" />
+  <LanguageData Keyword="CP_NAME_3001" English="PURIFY ZOMBIES" Chinese="净化僵尸" />
+  <LanguageData Keyword="CP_NAME_5001" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5002" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5003" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5004" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5005" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5006" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5007" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5008" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5009" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5010" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5011" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5012" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5013" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5014" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5015" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5016" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5017" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5018" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5019" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5020" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5021" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5022" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5023" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5024" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5025" English="SNIPER MISSIONS" Chinese="狙击关" />
+  <LanguageData Keyword="CP_NAME_5026" English="SNIPER MISSIONS" Chinese="狙击任务" />
+  <LanguageData Keyword="CP_NAME_6001" English="ZOMBIE HUNTING GROUND" Chinese="新的枪械" />
+  <LanguageData Keyword="CP_NAME_6002" English="null" Chinese="新的枪械" />
+  <LanguageData Keyword="TEST_4" English="关卡任务" Chinese="关卡任务" />
+  <LanguageData Keyword="CP_MIS_001" English="Survey P City" Chinese="调查P城" />
+  <LanguageData Keyword="CP_MIS_002" English="Gray transaction" Chinese="灰色交易" />
+  <LanguageData Keyword="CP_MIS_003" English="Protective materials" Chinese="保护物资" />
+  <LanguageData Keyword="CP_MIS_004" English="Dowen" Chinese="相遇道恩" />
+  <LanguageData Keyword="CP_MIS_005" English="FIRST ENCOUNTER" Chinese="初遇强敌" />
+  <LanguageData Keyword="CP_MIS_006" English="Pathfinder" Chinese="探路" />
+  <LanguageData Keyword="CP_MIS_007" English="Alley fright" Chinese="小巷惊魂" />
+  <LanguageData Keyword="CP_MIS_008" English="Meet Dowen again" Chinese="再遇Dowen" />
+  <LanguageData Keyword="CP_MIS_009" English="Rescue" Chinese="救援" />
+  <LanguageData Keyword="CP_MIS_010" English="Recharge" Chinese="整备出发" />
+  <LanguageData Keyword="CP_MIS_011" English="WASTE UTILIZATION" Chinese="废物利用" />
+  <LanguageData Keyword="CP_MIS_012" English="NO MAN GUARD" Chinese="无人值守" />
+  <LanguageData Keyword="CP_MIS_013" English="START JOURNEY" Chinese="踏上旅途" />
+  <LanguageData Keyword="CP_MIS_014" English="TRAIN DEPARTURE" Chinese="列车出发" />
+  <LanguageData Keyword="CP_MIS_015" English="EXTREME SPEED" Chinese="生死极速" />
+  <LanguageData Keyword="CP_MIS_016" English="EMERGENCY REPAIR" Chinese="紧急维修" />
+  <LanguageData Keyword="CP_MIS_017" English="LETHAL TUNNEL" Chinese="死亡隧道" />
+  <LanguageData Keyword="CP_MIS_018" English="HORROR DEATH" Chinese="恐怖死神" />
+  <LanguageData Keyword="CP_MIS_019" English="DAWN IN SIGHT" Chinese="曙光在即" />
+  <LanguageData Keyword="CP_MIS_020" English="BACK TO GROUND" Chinese="回到地面" />
+  <LanguageData Keyword="CP_MIS_021" English="NEW SHELTER" Chinese="新避难所" />
+  <LanguageData Keyword="CP_MIS_022" English="MYSTERY MIST" Chinese="迷雾重重" />
+  <LanguageData Keyword="CP_MIS_023" English="BACKYARD CRISIS" Chinese="后院危机" />
+  <LanguageData Keyword="CP_MIS_024" English="MILITARY INSTRUCTION" Chinese="军方指令" />
+  <LanguageData Keyword="CP_MIS_025" English="ESCAPE PREPARATION" Chinese="逃亡准备" />
+  <LanguageData Keyword="CP_MIS_026" English="SEARCH FOR OIL" Chinese="搜刮油料" />
+  <LanguageData Keyword="CP_MIS_027" English="LAST CHANCE" Chinese="最后机会" />
+  <LanguageData Keyword="CP_MIS_028" English="EMERGENCY RESCUE" Chinese="紧急救援" />
+  <LanguageData Keyword="CP_MIS_029" English="SECRET REVEALED" Chinese="水落石出" />
+  <LanguageData Keyword="CP_MIS_030" English="LEAVE PALM" Chinese="离开棕榈" />
+  <LanguageData Keyword="CP_MIS_031" English="THE LINE" Chinese="一线生机" />
+  <LanguageData Keyword="CP_MIS_032" English="RETURN TO THE TOWN" Chinese="重回小镇" />
+  <LanguageData Keyword="CP_MIS_033" English="SEARCH FOR ARMS" Chinese="搜刮军火" />
+  <LanguageData Keyword="CP_MIS_034" English="SECRET GIFT" Chinese="神秘礼物" />
+  <LanguageData Keyword="CP_MIS_035" English="FIRE OF HOPE" Chinese="重拾希望" />
+  <LanguageData Keyword="CP_MIS_036" English="DANGER FROM SKY" Chinese="危机天降" />
+  <LanguageData Keyword="CP_MIS_037" English="BACK TO THE DARK" Chinese="重回地下" />
+  <LanguageData Keyword="CP_MIS_038" English="DOUBLE DEATH" Chinese="死神双生" />
+  <LanguageData Keyword="CP_MIS_039" English="RESTART THE TRAIN" Chinese="重启列车" />
+  <LanguageData Keyword="CP_MIS_040" English="ESCAPE FROM CRISIS" Chinese="亡命天涯" />
+  <LanguageData Keyword="CP_MIS_041" English="Investigate the hospital" Chinese="调查医院" />
+  <LanguageData Keyword="CP_MIS_042" English="View the hall" Chinese="查看大厅" />
+  <LanguageData Keyword="CP_MIS_043" English="Guard the room" Chinese="坚守房间" />
+  <LanguageData Keyword="CP_MIS_044" English="Guard the ward" Chinese="坚守病房" />
+  <LanguageData Keyword="CP_MIS_045" English="Investigate the lab" Chinese="调查实验室" />
+  <LanguageData Keyword="CP_MIS_046" English="Guard the operating room" Chinese="坚守手术室" />
+  <LanguageData Keyword="CP_MIS_047" English="Guard the storage" Chinese="坚守仓库" />
+  <LanguageData Keyword="CP_MIS_048" English="Go rescue allies" Chinese="前往营救" />
+  <LanguageData Keyword="CP_MIS_049" English="Blow up the hospital" Chinese="炸毁医院" />
+  <LanguageData Keyword="CP_MIS_050" English="Escape from the hospital" Chinese="逃离医院" />
+  <LanguageData Keyword="CP_MIS_051" English="The direction of going home" Chinese="回家的方向" />
+  <LanguageData Keyword="CP_MIS_052" English="Safe house" Chinese="前往安全屋" />
+  <LanguageData Keyword="CP_MIS_053" English="Move on alone" Chinese="兵分两路" />
+  <LanguageData Keyword="CP_MIS_054" English="Ambush" Chinese="埋伏" />
+  <LanguageData Keyword="CP_MIS_055" English="Enter the subway station" Chinese="进入地铁站" />
+  <LanguageData Keyword="CP_MIS_056" English="Conspiracy" Chinese="迷雾重重" />
+  <LanguageData Keyword="CP_MIS_057" English="Speed of life and death" Chinese="地铁惊魂" />
+  <LanguageData Keyword="CP_MIS_058" English="Circle of encirclement" Chinese="包围圈" />
+  <LanguageData Keyword="CP_MIS_059" English="Exit" Chinese="曙光" />
+  <LanguageData Keyword="CP_MIS_060" English="Protruding encirclement" Chinese="突出重围" />
+  <LanguageData Keyword="CP_MIS_061" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_062" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_063" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_064" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_065" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_066" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_067" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_068" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_069" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_070" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_071" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_072" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_073" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_074" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_075" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_076" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_077" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_078" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_079" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_080" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_081" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_082" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_083" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_084" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_085" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_086" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_087" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_088" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_089" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_090" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_091" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_092" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_093" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_094" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_095" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_096" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_097" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_098" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_099" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_100" English="KILL ZOMBIES" Chinese="杀死僵尸" />
+  <LanguageData Keyword="CP_MIS_1001" English="WALL STREET ZOMBIES" Chinese="华尔街僵尸" />
+  <LanguageData Keyword="CP_MIS_2001" English="HORROR MONSTER" Chinese="恐怖怪物" />
+  <LanguageData Keyword="CP_MIS_2002" English="HORROR MONSTER" Chinese="恐怖怪物" />
+  <LanguageData Keyword="CP_MIS_2003" English="HORROR MONSTER" Chinese="恐怖怪物" />
+  <LanguageData Keyword="CP_MIS_2004" English="HORROR MONSTER" Chinese="恐怖怪物" />
+  <LanguageData Keyword="CP_MIS_2005" English="HORROR MONSTER" Chinese="恐怖怪物" />
+  <LanguageData Keyword="CP_MIS_2006" English="HORROR MONSTER" Chinese="恐怖怪物" />
+  <LanguageData Keyword="CP_MIS_3001" English="ZOMBIE CLEANUP PLAN" Chinese="僵尸清理计划" />
+  <LanguageData Keyword="CP_MIS_5001" English="SNIPER LEVEL ONE" Chinese="狙杀僵尸 1" />
+  <LanguageData Keyword="CP_MIS_5002" English="SNIPER LEVEL TWO" Chinese="狙杀僵尸 2" />
+  <LanguageData Keyword="CP_MIS_5003" English="SNIPER LEVEL THREE" Chinese="狙杀僵尸 3" />
+  <LanguageData Keyword="CP_MIS_5007" English="SNIPER LEVEL FOUR" Chinese="狙杀僵尸 4" />
+  <LanguageData Keyword="CP_MIS_5015" English="SNIPER LEVEL FIVE" Chinese="狙杀僵尸 5" />
+  <LanguageData Keyword="CP_MIS_5016" English="SNIPER LEVEL SIX" Chinese="狙杀僵尸 6" />
+  <LanguageData Keyword="CP_MIS_5006" English="SNIPER LEVEL SEVEN" Chinese="狙杀僵尸 7" />
+  <LanguageData Keyword="CP_MIS_5008" English="SNIPER LEVEL EIGHT" Chinese="狙杀僵尸 8" />
+  <LanguageData Keyword="CP_MIS_5009" English="SNIPER LEVEL NINE" Chinese="狙杀僵尸 9" />
+  <LanguageData Keyword="CP_MIS_5010" English="SNIPER LEVEL TEN" Chinese="狙杀僵尸 10" />
+  <LanguageData Keyword="CP_MIS_5011" English="SNIPER LEVEL ELEVEN" Chinese="狙杀僵尸 11" />
+  <LanguageData Keyword="CP_MIS_5012" English="SNIPER LEVEL TWELVE" Chinese="狙杀僵尸 12" />
+  <LanguageData Keyword="CP_MIS_5013" English="SNIPER LEVEL THIRTEEN" Chinese="狙杀僵尸 13" />
+  <LanguageData Keyword="CP_MIS_5014" English="SNIPER LEVEL FOURTEEN" Chinese="狙杀僵尸 14" />
+  <LanguageData Keyword="CP_MIS_5005" English="SNIPER LEVEL FIFTEEN" Chinese="狙杀僵尸 15" />
+  <LanguageData Keyword="CP_MIS_5004" English="SNIPER LEVEL SIXTEEN" Chinese="狙杀僵尸 16" />
+  <LanguageData Keyword="CP_MIS_5017" English="SNIPER LEVEL SEVENTEEN" Chinese="狙杀僵尸 17" />
+  <LanguageData Keyword="CP_MIS_5018" English="SNIPER LEVEL EIGHTEEN" Chinese="狙杀僵尸 18" />
+  <LanguageData Keyword="CP_MIS_5019" English="SNIPER LEVEL NINETEEN" Chinese="狙杀僵尸 19" />
+  <LanguageData Keyword="CP_MIS_5020" English="SNIPER LEVEL TWENTY" Chinese="狙杀僵尸 20" />
+  <LanguageData Keyword="CP_MIS_5021" English="SNIPER LEVEL TWENTY-ONE" Chinese="狙杀僵尸 21" />
+  <LanguageData Keyword="CP_MIS_5022" English="SNIPER LEVEL TWENTY-TWO" Chinese="狙杀僵尸 22" />
+  <LanguageData Keyword="CP_MIS_5023" English="SNIPER LEVEL TWENTY-THREE" Chinese="狙杀僵尸 23" />
+  <LanguageData Keyword="CP_MIS_5024" English="SNIPER LEVEL TWENTY-FOUR" Chinese="狙杀僵尸 24" />
+  <LanguageData Keyword="CP_MIS_5025" English="SNIPER LEVEL TWENTY-FIVE" Chinese="狙杀僵尸 25" />
+  <LanguageData Keyword="CP_MIS_5026" English="SNIPER MISSIONS" Chinese="狙击任务" />
+  <LanguageData Keyword="CP_MIS_6001" English="WEAPON EXPERIMENT" Chinese="武器实验" />
+  <LanguageData Keyword="CP_MIS_6002" English="null" Chinese="武器实验" />
+  <LanguageData Keyword="TEST_5" English="关卡任务描述" Chinese="关卡任务描述" />
+  <LanguageData Keyword="CP_DES_001" English="Frank passing through P City, because of lack of supplies, he decided to go to town to find supplies." Chinese="Frank路过P城，因为缺少补给，他决定进城寻找补给。" />
+  <LanguageData Keyword="CP_DES_002" English="A black market businessman was surrounded by zombies, and Frank helped him." Chinese="Frank遇到正在和丧尸交火的黑市商人。黑市商人答应Frank帮忙的话送他一些枪支弹药。" />
+  <LanguageData Keyword="CP_DES_003" English="Frank followed Anthony to get supplies, but surrounded by zombies." Chinese="Frank跟随Anthony去拿物资，但却被僵尸包围。" />
+  <LanguageData Keyword="CP_DES_004" English="Frank and Anthony came to the warehouse. Frank went to search for supplies but was hijacked by mysterious people." Chinese="Frank和Anthony来到了仓库，Frank前去寻找物资却被神秘人劫持。" />
+  <LanguageData Keyword="CP_DES_005" English="After misunderstanding, Anthony and Dowen bid farewell to Frank, and Frank continued to explore P city." Chinese="误会解开后，Anthony和Dowen与Frank道别，Frank继续探索P城。" />
+  <LanguageData Keyword="CP_DES_006" English="Anthony and Dowen drove away." Chinese="Anthony和Dowen与Frank道别后驾车离开。" />
+  <LanguageData Keyword="CP_DES_007" English="The ruins blocked the road and could only be detour from the alley." Chinese="废墟挡住了道路，只能从小巷绕行。" />
+  <LanguageData Keyword="CP_DES_008" English="On the way to avoid difficulties, Frank heard gunshots." Chinese="在朝避难点前进的路上，Frank听到的枪声。" />
+  <LanguageData Keyword="CP_DES_009" English="Anthony was surrounded by a zombie and went to rescue him with Dowen." Chinese="Anthony被丧尸包围了，和Dowen前去营救他。" />
+  <LanguageData Keyword="CP_DES_010" English="After discussions with Anthony, they need to leave P city. First we have to prepare supplies." Chinese="和Anthony他们回合后商量了下需要离开P城，首先我们得去整备下物资。" />
+  <LanguageData Keyword="CP_DES_011" English="The explosion attracted a lot of zombies. Use the turret to protect Daun." Chinese="爆炸声吸引了大量僵尸，快用炮台保护道恩" />
+  <LanguageData Keyword="CP_DES_012" English="Install an automatic turret to strengthen the defense of the base." Chinese="安装自动炮台强化基地的防御" />
+  <LanguageData Keyword="CP_DES_013" English="You can avoid a lot of zombies by taking the metro train. The survival team is ready to go." Chinese="通过地铁能避过大量丧尸，求生小队整装待发" />
+  <LanguageData Keyword="CP_DES_014" English="The metro station was full of zombies. Just find a train to escape from the zombie siege." Chinese="地铁站满是丧尸，找到列车逃离围攻" />
+  <LanguageData Keyword="CP_DES_015" English="The train shook violently! Find the cause before the train derails." Chinese="列车发生剧烈摇晃，在列车脱轨前找到原因" />
+  <LanguageData Keyword="CP_DES_016" English="The train was damaged due to the explosion. Find parts to repair the train." Chinese="列车因为爆炸受损，找到零件修理列车" />
+  <LanguageData Keyword="CP_DES_017" English="The tunnel was blocked, the survival team can only move forward on foot." Chinese="隧道被阻挡，求生小队只能步行前进" />
+  <LanguageData Keyword="CP_DES_018" English="The squad lost its way in the tunnel. Finding the tunnel map is the only hope." Chinese="小队在隧道中迷失方向，找到隧道地图是唯一希望" />
+  <LanguageData Keyword="CP_DES_019" English="The squad finally reached the final platform after a long and arduous journey." Chinese="长途跋涉的小队终于到达最终的站台" />
+  <LanguageData Keyword="CP_DES_020" English="Use the turret to help Ailsa open the platform gate." Chinese="使用炮台保护艾尔莎打开站台大门" />
+  <LanguageData Keyword="CP_DES_021" English="Palm city was devastated. The survival team can only find a place to settle down first." Chinese="棕榈市满目疮痍，求生小队只能先找地方安顿下" />
+  <LanguageData Keyword="CP_DES_022" English="Tank wrecks were scattered in the city, and there may be traces of the army." Chinese="城市里散落着坦克残骸，里面可能有军队的踪迹" />
+  <LanguageData Keyword="CP_DES_023" English="The generator in the shelter was destroyed. Protect David when he tries to fix it." Chinese="避难所的发电机被破坏，在大卫修理时保护他" />
+  <LanguageData Keyword="CP_DES_024" English="A helicopter crashed. Obtain the data before zombies' coming." Chinese="有架武装直升机坠毁，在丧尸聚集前取得数据" />
+  <LanguageData Keyword="CP_DES_025" English="Daun is repairing the car for escape. Use the turret to cover him." Chinese="道恩在修理逃亡用的汽车，使用炮台掩护他" />
+  <LanguageData Keyword="CP_DES_026" English="Search nearby gas stations and transport the remaining gasoline back to the base." Chinese="搜索附近的加油站，将剩余的汽油运回基地" />
+  <LanguageData Keyword="CP_DES_027" English="Set smoke signals nearby so that survivors can see them." Chinese="在附近设置信号烟雾，希望幸存者能看见" />
+  <LanguageData Keyword="CP_DES_028" English="Found a wounded survivor. Go to support him!" Chinese="发现一个受伤被围的幸存者，快去支援他" />
+  <LanguageData Keyword="CP_DES_029" English="Got the news of the army. Cover the survivors to open the roadblocks." Chinese="得知军队的消息，掩护幸存者打开路障" />
+  <LanguageData Keyword="CP_DES_030" English="It’s time to leave the city of Palm. Take time to transfer supplies." Chinese="是时候离开棕榈市，抓紧时间转移物资" />
+  <LanguageData Keyword="CP_DES_031" English="Find the survivors in the crashed aircraft." Chinese="失事的飞机中可能会有幸存者，找到他。" />
+  <LanguageData Keyword="CP_DES_032" English="The squad returned back to the town after. But the new crisis appeared." Chinese="失去目标的小队回到小镇，却遇到新的危机。" />
+  <LanguageData Keyword="CP_DES_033" English="Someone uses zombies to attack the squad. The squad needs more firepower." Chinese="有人使用丧尸来攻击小队，需要更多的火力。" />
+  <LanguageData Keyword="CP_DES_034" English="The mysterious container landed nearby from the air. Just help cover Elsa to open it." Chinese="神秘集装箱空降在附近，掩护艾尔莎打开它。" />
+  <LanguageData Keyword="CP_DES_035" English="The army is rescuing the survivors. Set smoke to help guide the army." Chinese="军队在救援幸存者，设置烟雾来引导他们。" />
+  <LanguageData Keyword="CP_DES_036" English="Everything here is a conspiracy. The smoke has revealed our location." Chinese="这一切都是阴谋，烟雾暴露了我们的位置。" />
+  <LanguageData Keyword="CP_DES_037" English="To escape from the mysterious enemy’s attack, we have to go back to the tunnel." Chinese="为了躲避神秘敌人的攻击，我们只能回到隧道。" />
+  <LanguageData Keyword="CP_DES_038" English="The abandoned train should be able to move still. Find the train and leave here." Chinese="曾经使用的列车应该还能工作，找到它离开这里。" />
+  <LanguageData Keyword="CP_DES_039" English="The train is protected by zombies. Kill them and activate the train." Chinese="列车被丧尸包围，清理丧尸重启列车。" />
+  <LanguageData Keyword="CP_DES_040" English="Eliminate all the zombies on the train to stop the train from running off the rail." Chinese="清理车上的丧尸，阻止列车脱轨。" />
+  <LanguageData Keyword="CP_DES_041" English="Go to the hospital with Anthony to find Dr. Andrea's research report." Chinese="和安东尼一起去医院寻找andrea博士的研究报告。" />
+  <LanguageData Keyword="CP_DES_042" English="check out the hospital with Anthony to find clues." Chinese="和安东尼分头查看医院寻找线索。" />
+  <LanguageData Keyword="CP_DES_043" English="visitors appeared when investigating rooms. Just entertain them." Chinese="调查房间时出现了访客，好好招待它们。" />
+  <LanguageData Keyword="CP_DES_044" English="without getting any information, Frank decided to have a look at the ward." Chinese="没有得到信息，Frank决定去病房看看。" />
+  <LanguageData Keyword="CP_DES_045" English="Just got some useful information. Frank decided to check the lab." Chinese="得到了一些的有用的信息，Frank决定去查看实验室。" />
+  <LanguageData Keyword="CP_DES_046" English="the operating room seems to have some clues. But zombies are coming again." Chinese="手术室似乎也有些线索，而热情的丧尸又来了。" />
+  <LanguageData Keyword="CP_DES_047" English="the local guards seemed to be alarmed when investigating the raw material stocks." Chinese="调查原料库存时候，似乎惊动了本地警卫。" />
+  <LanguageData Keyword="CP_DES_048" English="Anthony suddenly sent a rescue request." Chinese="正在查看的时候，Anthony突然发来救援请求。" />
+  <LanguageData Keyword="CP_DES_049" English="Didn't find Anthony at the third floor of the underground." Chinese="在地下三层时候，没有发现Anthony。" />
+  <LanguageData Keyword="CP_DES_050" English="No report was found and Anthony was lost. But the hospital was already crumbling." Chinese="没有找到报告也没有找到Anthony,但此时医院已经摇摇欲坠。" />
+  <LanguageData Keyword="CP_DES_051" English="After escaping from the hospital, Frank was ready to go back to hiding." Chinese="从医院逃出来后，Frank准备先回去藏身点。" />
+  <LanguageData Keyword="CP_DES_052" English="Frank and Dowen met and decided to go to the security area to get some supplies." Chinese="Frank和Dowen相遇，决定去安全区拿些补给。" />
+  <LanguageData Keyword="CP_DES_053" English="Dowen went to search for the missing Anthony, and Frank went on her own." Chinese="Dowen去寻找失踪的Anthony,Frank独自上路。" />
+  <LanguageData Keyword="CP_DES_054" English="Surrounded by zombies in the safe area, let them taste the bullets." Chinese="安全区的大门被僵尸包围，让他们尝尝子弹的滋味。" />
+  <LanguageData Keyword="CP_DES_055" English="There were so many zombies that Frank decided to escape to the subway station." Chinese="僵尸太多了，Frank决定逃进地铁站。" />
+  <LanguageData Keyword="CP_DES_056" English="Things are not quite right. Get in touch with Amy and get to know the situation." Chinese="事情有点不太对，和Amy取得联系，了解现在的情况。" />
+  <LanguageData Keyword="CP_DES_057" English="After knowing the situation, Amy asked Frank to go to exit one." Chinese="了解情况后，Amy让Frank前往1号出口。" />
+  <LanguageData Keyword="CP_DES_058" English="At the end of the subway there is no way to go. Frank can only take a detour." Chinese="地铁的尽头无路可走，Frank只能冒险绕路前进了。" />
+  <LanguageData Keyword="CP_DES_059" English="Contact Amy again. The rescue is in place. Hurry up to exit one." Chinese="和Amy再次取得联系，救援已经就位，快点前去1号出口。" />
+  <LanguageData Keyword="CP_DES_060" English="The exit is near, but the zombie is coming again." Chinese="出口近在眼前，但热情的僵尸又来了。" />
+  <LanguageData Keyword="CP_DES_061" English="Kill 150 Zombies If You Can!" Chinese="有本事你杀完150个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_062" English="Kill 151 Zombies If You Can!" Chinese="有本事你杀完151个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_063" English="Kill 152 Zombies If You Can!" Chinese="有本事你杀完152个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_064" English="Kill 153 Zombies If You Can!" Chinese="有本事你杀完153个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_065" English="Kill 154 Zombies If You Can!" Chinese="有本事你杀完154个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_066" English="Kill 155 Zombies If You Can!" Chinese="有本事你杀完155个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_067" English="Kill 156 Zombies If You Can!" Chinese="有本事你杀完156个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_068" English="Kill 157 Zombies If You Can!" Chinese="有本事你杀完157个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_069" English="Kill 158 Zombies If You Can!" Chinese="有本事你杀完158个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_070" English="Kill 159 Zombies If You Can!" Chinese="有本事你杀完159个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_071" English="Kill 160 Zombies If You Can!" Chinese="有本事你杀完160个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_072" English="Kill 161 Zombies If You Can!" Chinese="有本事你杀完161个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_073" English="Kill 162 Zombies If You Can!" Chinese="有本事你杀完162个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_074" English="Kill 163 Zombies If You Can!" Chinese="有本事你杀完163个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_075" English="Kill 164 Zombies If You Can!" Chinese="有本事你杀完164个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_076" English="Kill 165 Zombies If You Can!" Chinese="有本事你杀完165个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_077" English="Kill 166 Zombies If You Can!" Chinese="有本事你杀完166个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_078" English="Kill 167 Zombies If You Can!" Chinese="有本事你杀完167个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_079" English="Kill 168 Zombies If You Can!" Chinese="有本事你杀完168个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_080" English="Kill 169 Zombies If You Can!" Chinese="有本事你杀完169个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_081" English="Kill 170 Zombies If You Can!" Chinese="有本事你杀完170个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_082" English="Kill 171 Zombies If You Can!" Chinese="有本事你杀完171个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_083" English="Kill 172 Zombies If You Can!" Chinese="有本事你杀完172个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_084" English="Kill 173 Zombies If You Can!" Chinese="有本事你杀完173个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_085" English="Kill 174 Zombies If You Can!" Chinese="有本事你杀完174个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_086" English="Kill 175 Zombies If You Can!" Chinese="有本事你杀完175个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_087" English="Kill 176 Zombies If You Can!" Chinese="有本事你杀完176个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_088" English="Kill 177 Zombies If You Can!" Chinese="有本事你杀完177个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_089" English="Kill 178 Zombies If You Can!" Chinese="有本事你杀完178个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_090" English="Kill 179 Zombies If You Can!" Chinese="有本事你杀完179个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_091" English="Kill 180 Zombies If You Can!" Chinese="有本事你杀完180个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_092" English="Kill 181 Zombies If You Can!" Chinese="有本事你杀完181个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_093" English="Kill 182 Zombies If You Can!" Chinese="有本事你杀完182个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_094" English="Kill 183 Zombies If You Can!" Chinese="有本事你杀完183个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_095" English="Kill 184 Zombies If You Can!" Chinese="有本事你杀完184个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_096" English="Kill 185 Zombies If You Can!" Chinese="有本事你杀完185个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_097" English="Kill 186 Zombies If You Can!" Chinese="有本事你杀完186个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_098" English="Kill 187 Zombies If You Can!" Chinese="有本事你杀完187个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_099" English="Kill 188 Zombies If You Can!" Chinese="有本事你杀完188个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_100" English="Kill 189 Zombies If You Can!" Chinese="有本事你杀完189个僵尸啊!" />
+  <LanguageData Keyword="CP_DES_1001" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_2001" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_2002" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_2003" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_2004" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_2005" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_2006" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_3001" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_5001" English="Test the power of this sniper rifle." Chinese="检验一下这把狙击枪的威力。" />
+  <LanguageData Keyword="CP_DES_5002" English="There are two zombies nearby, kill them!" Chinese="附近又出现了两只僵尸，干掉他们！" />
+  <LanguageData Keyword="CP_DES_5003" English="Three zombies found you. Kill them!" Chinese="有三只僵尸发现你了，干掉他们。" />
+  <LanguageData Keyword="CP_DES_5004" English="Poor office workers become zombies after they die. Let's extricate them from this condition." Chinese="可怜的上班族死后变成了僵尸，帮助他们解脱。" />
+  <LanguageData Keyword="CP_DES_5005" English="This street is full of zombies. Kill them!" Chinese="街道上布满了僵尸，干掉他们。" />
+  <LanguageData Keyword="CP_DES_5006" English="Some zombies got weapons, they are very dangerous." Chinese="有一些僵尸得到了武器，他们非常危险。" />
+  <LanguageData Keyword="CP_DES_5007" English="Damn! Some zombies are mutated. You have to attack their heads to kill them thoroughly." Chinese="该死！有一些僵尸变异了，你必须攻击他们的头部才能彻底杀死它们。" />
+  <LanguageData Keyword="CP_DES_5008" English="Three variant zombies appeared again! Blow their heads off!" Chinese="又出现了三只变异的僵尸！打爆他们的头！" />
+  <LanguageData Keyword="CP_DES_5009" English="You were discovered by zombies. Kill them quickly!" Chinese="你被僵尸发现了，快干掉他们。" />
+  <LanguageData Keyword="CP_DES_5010" English="Kill those zombies! Kill the zombies which can move first and the number of your bullets." Chinese="猎杀时间到了，干掉那些僵尸，注意先消灭会移动的僵尸以及你的弹药数量。" />
+  <LanguageData Keyword="CP_DES_5011" English="Zombies with weapons appearing again! Kill them!" Chinese="又有拿着武器的僵尸出现了！干掉他们。" />
+  <LanguageData Keyword="CP_DES_5012" English="Try it on the head of a armor zombie or your bullet hard." Chinese="试试是盔甲僵尸的头硬还是你的子弹硬。" />
+  <LanguageData Keyword="CP_DES_5013" English="Our weapon supply box was attacked by zombies! Protect our supply box!" Chinese="我们的武器补给箱受到了僵尸的攻击！保护我们的补给箱。" />
+  <LanguageData Keyword="CP_DES_5014" English="There is a zombie who wants to look at the sky. He climbs up to the highest floor." Chinese="有只僵尸想眺望天空，它爬到了最高的楼上去了。" />
+  <LanguageData Keyword="CP_DES_5015" English="The sharpshooter's rules of conduct first: Never use two bullets to fight a battle." Chinese="狙击手的行事准则其一：能用一颗子弹解决的战斗绝不用两颗。" />
+  <LanguageData Keyword="CP_DES_5016" English="The sharpshooter's rules of conduct second: Shoot head first." Chinese="狙击手的行事准则其二：能打头绝不打身体。" />
+  <LanguageData Keyword="CP_DES_5017" English="Armor zombies are tricky? Shoot his head!" Chinese="盔甲僵尸很棘手？打爆他的头。" />
+  <LanguageData Keyword="CP_DES_5018" English="These zombies are endless. Let them see our power." Chinese="这些僵尸真是没完没了，给他们点厉害尝尝。" />
+  <LanguageData Keyword="CP_DES_5019" English="This mission organization only gave you 1 minute, but it's not hard to you, who is a sharpshooter." Chinese="这次任务组织只给了1分钟的时间，但这难不倒身为神枪手的你。" />
+  <LanguageData Keyword="CP_DES_5020" English="This street are full of zombies, pay attention to the zombies that run very fast." Chinese="街道上布满了僵尸，注意那些奔跑速度极快的僵尸。" />
+  <LanguageData Keyword="CP_DES_5021" English="Zombies hide, find them and shoot their heads." Chinese="僵尸躲了起来，找到他们，打爆他们的头。" />
+  <LanguageData Keyword="CP_DES_5022" English="This zombie can avoids bullets ! Quickly shoot his head!" Chinese="这只僵尸居然会躲避子弹！！快打爆他的头。" />
+  <LanguageData Keyword="CP_DES_5023" English="Shoot! Shoot! Shoot their head!" Chinese="爆头！爆头！打爆僵尸的头！" />
+  <LanguageData Keyword="CP_DES_5024" English="Double kill！Note that you have only one shot！" Chinese="一箭双雕，注意，你只有一发子弹的机会！" />
+  <LanguageData Keyword="CP_DES_5025" English="What? Kill two zombies in 20 seconds! I just need 10 seconds!" Chinese="什么？居然要我20秒内爆头击杀两只僵尸！我需要10秒钟！" />
+  <LanguageData Keyword="CP_DES_5026" English="Double kill！" Chinese="大批僵尸朝基地去了！阻止他们！" />
+  <LanguageData Keyword="CP_DES_6001" English="kill zombie" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="CP_DES_6002" English="null" Chinese="杀死所有僵尸" />
+  <LanguageData Keyword="TEST_6" English="商城礼包名称" Chinese="商城礼包名称" />
+  <LanguageData Keyword="STORE_NAME_01" English="MANY GOLD COINS" Chinese="很多金币" />
+  <LanguageData Keyword="STORE_NAME_02" English="A LOT OF GOLD COINS" Chinese="大量金币" />
+  <LanguageData Keyword="STORE_NAME_03" English="PILES OF GOLD COINS" Chinese="金币成山" />
+  <LanguageData Keyword="STORE_NAME_04" English="SOME DIAMONDS" Chinese="一些钻石" />
+  <LanguageData Keyword="STORE_NAME_05" English="MANY DIAMONDS" Chinese="很多钻石" />
+  <LanguageData Keyword="STORE_NAME_06" English="DIAMOND BOX" Chinese="大量钻石" />
+  <LanguageData Keyword="STORE_NAME_07" English="A LOT OF DNA" Chinese="很多DNA" />
+  <LanguageData Keyword="STORE_NAME_08" English="A BOX OF DNA" Chinese="一盒DNA" />
+  <LanguageData Keyword="STORE_NAME_09" English="DNA WORLD" Chinese="DNA世界" />
+  <LanguageData Keyword="STORE_NAME_10" English="VIP" Chinese="VIP会员" />
+  <LanguageData Keyword="STORE_NAME_11" English="DOUBLE GOLD COIN DNA" Chinese="双倍金币DNA" />
+  <LanguageData Keyword="STORE_NAME_12" English="NOVICE GIFT PACK" Chinese="新手礼包" />
+  <LanguageData Keyword="STORE_NAME_13" English="DAILY BOX" Chinese="每日箱子" />
+  <LanguageData Keyword="STORE_NAME_14" English="DAILY GOLD COIN" Chinese="每日金币" />
+  <LanguageData Keyword="STORE_NAME_15" English="DAILY DNA" Chinese="每日DNA" />
+  <LanguageData Keyword="STORE_NAME_16" English="ZOMBIE KILLER BAG" Chinese="僵尸杀手" />
+  <LanguageData Keyword="STORE_NAME_17" English="HARVESTER PACKAGE" Chinese="收割机" />
+  <LanguageData Keyword="STORE_NAME_18" English="DEATH MESSENGER" Chinese="死亡使者" />
+  <LanguageData Keyword="STORE_NAME_19" English="TERMINATOR PACKAGE" Chinese="终结者" />
+  <LanguageData Keyword="STORE_NAME_20" English="SPECIAL EQUIPMENT" Chinese="特种装备" />
+  <LanguageData Keyword="STORE_NAME_21" English="BATTLE PACK" Chinese="战斗包" />
+  <LanguageData Keyword="STORE_NAME_22" English="RESURRECTION PACKAGE" Chinese="复活包" />
+  <LanguageData Keyword="STORE_NAME_23" English="M1911 (PISTOL)" Chinese="M1911(手枪)" />
+  <LanguageData Keyword="STORE_NAME_24" English="FAMAS (RIFLE)" Chinese="FAMAS(步枪)" />
+  <LanguageData Keyword="STORE_NAME_25" English="M4 (RIFLE)" Chinese="M4(步枪)" />
+  <LanguageData Keyword="STORE_NAME_26" English="UMP (MICRO PUNCH)" Chinese="UMP(微冲)" />
+  <LanguageData Keyword="STORE_NAME_27" English="AK47 (RIFLE)" Chinese="AK47(步枪)" />
+  <LanguageData Keyword="STORE_NAME_28" English="MP5 (MINIATURE PUNCH)" Chinese="MP5(微冲)" />
+  <LanguageData Keyword="STORE_NAME_29" English="BREN (RIFLE)" Chinese="BREN(步枪)" />
+  <LanguageData Keyword="STORE_NAME_30" English="SUPER DISCOUNT" Chinese="超值优惠" />
+  <LanguageData Keyword="STORE_NAME_31" English="GOLD COIN KINGDOM" Chinese="金币王国" />
+  <LanguageData Keyword="STORE_NAME_32" English="GOLD COIN WORLD" Chinese="金币世界" />
+  <LanguageData Keyword="STORE_NAME_33" English="DIAMOND KINGDOM" Chinese="钻石王国" />
+  <LanguageData Keyword="STORE_NAME_34" English="DIAMOND WORLD" Chinese="钻石世界" />
+  <LanguageData Keyword="STORE_NAME_35" English="DNA KINGDOM" Chinese="DNA王国" />
+  <LanguageData Keyword="STORE_NAME_36" English="BREN PACKAGE" Chinese="BREN礼包" />
+  <LanguageData Keyword="STORE_NAME_37" English="SPAS12 PACKAGE" Chinese="SPAS12礼包" />
+  <LanguageData Keyword="STORE_NAME_38" English="M92F PACKAGE" Chinese="M92F礼包" />
+  <LanguageData Keyword="STORE_NAME_39" English="M32 PACKAGE" Chinese="M32礼包" />
+  <LanguageData Keyword="STORE_NAME_40" English="DAILY SUPPLIES" Chinese="每日物资" />
+  <LanguageData Keyword="STORE_NAME_41" English="MP5" Chinese="MP5" />
+  <LanguageData Keyword="STORE_NAME_43" English="Conquest package" Chinese="闯关礼包" />
+  <LanguageData Keyword="STORE_NAME_44" English="Halloween Gift" Chinese="万圣节礼包" />
+  <LanguageData Keyword="TEST_7" English="商城礼包描述" Chinese="商城礼包描述" />
+  <LanguageData Keyword="STORE_DES_01" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_02" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_03" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_04" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_05" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_06" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_07" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_08" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_09" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_10" English="INSTANTLY GET 500 DIAMONDS\n80 diamonds per day (30 days)\nDouble physical strength" Chinese="立即获得500钻石\n每天获得80钻石(持续30天)\n可以获得双倍体力" />
+  <LanguageData Keyword="STORE_DES_11" English="YOU WELL GET\n200% CHECKPOINT GOLD COINS\n200% CHECKPOINT DNA" Chinese="永久获得\n200%关卡获得金币\n200%关卡获得DNA" />
+  <LanguageData Keyword="STORE_DES_12" English="BREN(MACHINE GUN)\n+1000 DIAMOND" Chinese="BREN(机枪)\n+1000钻石" />
+  <LanguageData Keyword="STORE_DES_13" English="GET 5 GOLD BOXES" Chinese="获得5个金箱子" />
+  <LanguageData Keyword="STORE_DES_14" English="+6000GOLD" Chinese="+6000金币" />
+  <LanguageData Keyword="STORE_DES_15" English="+2200DNA" Chinese="+2200DNA" />
+  <LanguageData Keyword="STORE_DES_16" English="SPAS12(SHOTGUN)\n+10000 GOLD" Chinese="SPAS12(霰弹)\n+10000金币" />
+  <LanguageData Keyword="STORE_DES_17" English="M32(GRENADES)\nM92F(PISTOL)\n+50000 GOLD" Chinese="M32(榴弹)\nM92F(手枪)\n+50000金币" />
+  <LanguageData Keyword="STORE_DES_18" English="KSG(SHOTGUN)\n+1000 DIAMOND\n+20000 GOLD" Chinese="KSG(霰弹)\n+1000钻石\n+20000金币" />
+  <LanguageData Keyword="STORE_DES_19" English="DAUN(CHARACTER)\n+M60(MACHINE GUN)\n+10000 DIAMOND\n+300000 GOLD" Chinese="道恩(主角)\M60(机枪)\n+10000钻石\n+300000金币" />
+  <LanguageData Keyword="STORE_DES_20" English="SPECIAL FORCES PACKAGE\n+2000 DIAMOND\n+50000 GOLD" Chinese="特种兵套装\n+2000钻石\n+50000金币" />
+  <LanguageData Keyword="STORE_DES_21" English="+20 MEDICAL PACKAGE\n+10 ADRENALINE\n+20 SCREAMING BOMB\n+20 M18A1 CLAYMORE\n+10 AUTOMATIC FORT" Chinese="+20医疗包\n+10肾上腺素\n+20高级手雷\n+20阔剑地雷\n+10自动炮台" />
+  <LanguageData Keyword="STORE_DES_22" English="+10 Defibrillator" Chinese="+10除颤器" />
+  <LanguageData Keyword="STORE_DES_23" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_24" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_25" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_26" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_27" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_28" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_29" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_30" English="" Chinese="M4(步枪)\n+5000金币" />
+  <LanguageData Keyword="STORE_DES_31" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_32" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_33" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_34" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_35" English="" Chinese="" />
+  <LanguageData Keyword="STORE_DES_36" English="BREN(MACHINE GUN)\n+100 DIAMOND\n+10000 GOLD" Chinese="BREN(机枪)\n+100钻石\n+10000金币" />
+  <LanguageData Keyword="STORE_DES_37" English="SPAS12(SHOTGUN)\n+200 DIAMOND\n+10000 GOLD" Chinese="SPAS12(霰弹)\n+200钻石\n+10000金币" />
+  <LanguageData Keyword="STORE_DES_38" English="M92F(PISTOL)\n+400 DIAMOND\n+20000 GOLD" Chinese="M92F(手枪)\n+400钻石\n+20000金币" />
+  <LanguageData Keyword="STORE_DES_39" English="M32(GRENADES)\n+800 DIAMOND\n+20000 GOLD" Chinese="M32(榴弹)\n+800钻石\n+20000金币" />
+  <LanguageData Keyword="STORE_DES_40" English="For 30 days\n gold box (1 per day)\n+3000 gold coins (1 time per day)" Chinese="持续30天\n金箱子(每天1个)\n+3000金币(每天1次)" />
+  <LanguageData Keyword="STORE_DES_41" English="MP5(Your most correct choice)" Chinese="MP5(你最正确的选择)" />
+  <LanguageData Keyword="STORE_DES_44" English="AK47(RIFLE)\n+LEEENFIELD(SNIPER)\n+20000 GOLD" Chinese="AK47(步枪)\nLEEENFIELD(狙击)\n+20000金币" />
+  <LanguageData Keyword="TEST_8" English="道具名称" Chinese="道具名称" />
+  <LanguageData Keyword="PROP_NAME_001" English="MEDICAL PACKAGE" Chinese="医疗包" />
+  <LanguageData Keyword="PROP_NAME_002" English="ADRENALINE" Chinese="肾上腺素" />
+  <LanguageData Keyword="PROP_NAME_003" English="GRENADE" Chinese="手雷" />
+  <LanguageData Keyword="PROP_NAME_004" English="SCREAMING BOMB" Chinese="尖叫炸弹" />
+  <LanguageData Keyword="PROP_NAME_005" English="LANDMINE" Chinese="地雷" />
+  <LanguageData Keyword="PROP_NAME_006" English="M18A1 CLAYMORE" Chinese="阔剑地雷" />
+  <LanguageData Keyword="PROP_NAME_007" English="BATTERY" Chinese="炮台" />
+  <LanguageData Keyword="TEST_9" English="Description Of Prop" Chinese="道具描述" />
+  <LanguageData Keyword="PROP_DES_001" English="Restore Some Health Values Immediately" Chinese="立即恢复一些生命值" />
+  <LanguageData Keyword="PROP_DES_002" English="You Seem To Be Entering God Time" Chinese="你仿佛进入了上帝时间" />
+  <LanguageData Keyword="PROP_DES_003" English="Be Careful, He Has A Bad Temper." Chinese="小心点,他可是个暴脾气." />
+  <LanguageData Keyword="PROP_DES_004" English="This Grenade Beep To Attract Zombies." Chinese="这种手雷会发出哔哔的声音吸引僵尸." />
+  <LanguageData Keyword="PROP_DES_005" English="Being Trampled By Zombies Will Explode." Chinese="被僵尸踩中就会爆炸." />
+  <LanguageData Keyword="PROP_DES_006" English="We'Ve Improved The Way We Make It. It Looks More Powerful." Chinese="我们改进了制作方法,看起来威力好像更大一些." />
+  <LanguageData Keyword="PROP_DES_007" English="Zombie Mower, Powerful" Chinese="享有&quot;僵尸割草机&quot;外号,火力强劲" />
+  <LanguageData Keyword="TEST_10" English="角色技能" Chinese="角色技能" />
+  <LanguageData Keyword="LAYER_01" English="LEVEL 1" Chinese="第1层" />
+  <LanguageData Keyword="LAYER_02" English="LEVEL 2" Chinese="第2层" />
+  <LanguageData Keyword="LAYER_03" English="LEVEL 3" Chinese="第3层" />
+  <LanguageData Keyword="LAYER_04" English="LEVEL 4" Chinese="第4层" />
+  <LanguageData Keyword="LAYER_05" English="LEVEL 5" Chinese="第5层" />
+  <LanguageData Keyword="RA_NAME_01" English="Pistol Specialization" Chinese="手枪专精" />
+  <LanguageData Keyword="RA_NAME_02" English="Shotgun Specialization" Chinese="霰弹专精" />
+  <LanguageData Keyword="RA_NAME_03" English="Submachine Gun Specialization" Chinese="冲锋枪专精" />
+  <LanguageData Keyword="RA_NAME_04" English="Automatic Rifle Specialization" Chinese="自动步枪专精" />
+  <LanguageData Keyword="RA_NAME_05" English="Tenacity" Chinese="坚韧" />
+  <LanguageData Keyword="RA_NAME_06" English="Haste" Chinese="急速" />
+  <LanguageData Keyword="RA_NAME_07" English="Injury Invincibility" Chinese="受伤无敌" />
+  <LanguageData Keyword="RA_NAME_08" English="Maximum Health" Chinese="生命上限" />
+  <LanguageData Keyword="RA_NAME_09" English="Recovery Addition" Chinese="恢复加成" />
+  <LanguageData Keyword="RA_NAME_10" English="Bomb Addition" Chinese="炸弹加成" />
+  <LanguageData Keyword="RA_NAME_101" English="Boxing" Chinese="拳击" />
+  <LanguageData Keyword="RA_NAME_102" English="Kick" Chinese="脚踹" />
+  <LanguageData Keyword="TEST_11" English="角色技能描述" Chinese="角色技能描述" />
+  <LanguageData Keyword="RA_DES_01" English="Pistol Damage +10%" Chinese="手枪伤害 +10%" />
+  <LanguageData Keyword="RA_DES_02" English="Shotgun Damage +10%" Chinese="霰弹枪伤害 +10%" />
+  <LanguageData Keyword="RA_DES_03" English="Submachine Gun Damage +10%" Chinese="冲锋枪伤害 +10%" />
+  <LanguageData Keyword="RA_DES_04" English="Automatic Rifle Damage +10%" Chinese="自动步枪伤害 +10%" />
+  <LanguageData Keyword="RA_DES_05" English="Maximum Health +15" Chinese="血量上限 +15" />
+  <LanguageData Keyword="RA_DES_06" English="Move Speed +20" Chinese="移动速度 +20" />
+  <LanguageData Keyword="RA_DES_07" English="Injury Invincibility" Chinese="受伤无敌" />
+  <LanguageData Keyword="RA_DES_08" English="Maximum Health" Chinese="生命上限" />
+  <LanguageData Keyword="RA_DES_09" English="Slow Healing" Chinese="缓慢恢复" />
+  <LanguageData Keyword="RA_DES_10" English="Bomb Damage" Chinese="炸弹伤害" />
+  <LanguageData Keyword="RA_DES_101" English="Active Skills: Boxing, Let These Damned Zombies Taste The Fist." Chinese="主动技能:拳击,让这些该死的僵尸尝尝拳头的滋味吧!" />
+  <LanguageData Keyword="RA_DES_102" English="Active Skills: Sweeping, Can Deal With Multiple Zombies At The Same Time, And Fight Them Back!" Chinese="主动技能:横扫,可以同时对付多个僵尸,并且击退他们!" />
+  <LanguageData Keyword="TEST_12" English="主角名称" Chinese="主角名称" />
+  <LanguageData Keyword="RO_NAME_01" English="MONICA" Chinese="莫妮卡" />
+  <LanguageData Keyword="RO_NAME_02" English="FRANCK" Chinese="弗兰克" />
+  <LanguageData Keyword="RO_NAME_03" English="DAUN" Chinese="道恩" />
+  <LanguageData Keyword="RO_NAME_04" English="QIAN KAI" Chinese="杰克森" />
+  <LanguageData Keyword="TEST_13" English="主角描述" Chinese="主角描述" />
+  <LanguageData Keyword="RO_DES_01" English="Jenny, where are you?" Chinese="珍妮,你在哪里?" />
+  <LanguageData Keyword="RO_DES_02" English="Sorry, I have no choice, I will end it all in my own way." Chinese="对不起,我别无选择,我会以我的方式结束这一切." />
+  <LanguageData Keyword="RO_DES_03" English="bring it on! Plants vs. Zombies! Let you taste the taste of my little baby!" Chinese="来吧!丧尸!让你尝尝我小宝贝的滋味!" />
+  <LanguageData Keyword="RO_DES_04" English="BUDDHA-LIKE YOUTH" Chinese="呜呜" />
+  <LanguageData Keyword="TEST_14" English="NPC描述" Chinese="NPC描述" />
+  <LanguageData Keyword="NPC_DES_01" English="MAKE FAKE MEDICINE" Chinese="做假药" />
+  <LanguageData Keyword="NPC_DES_02" English="MAKE FAKE GUNS" Chinese="造假枪" />
+  <LanguageData Keyword="NPC_DES_03" English="MAKE FAKE BULLETS" Chinese="制假弹" />
+  <LanguageData Keyword="NPC_DES_04" English="PSEUDO-SCIENCE" Chinese="伪科学" />
+  <LanguageData Keyword="TEST_15" English="IDLE CONDITION" Chinese="空闲状态" />
+  <LanguageData Keyword="STORE_NAME_1" English="SOME GOLD COINS" Chinese="Some gold coins" />
+  <LanguageData Keyword="TEST_16" English="装备名称" Chinese="装备名称" />
+  <LanguageData Keyword="EQP_NAME_001" English="Baseball cap" Chinese="棒球帽" />
+  <LanguageData Keyword="EQP_NAME_002" English="Baseball backpack" Chinese="棒球背包" />
+  <LanguageData Keyword="EQP_NAME_003" English="Baseball glove" Chinese="棒球手套" />
+  <LanguageData Keyword="EQP_NAME_004" English="Sports cap" Chinese="运动帽" />
+  <LanguageData Keyword="EQP_NAME_005" English="Sports backpack" Chinese="运动背包" />
+  <LanguageData Keyword="EQP_NAME_006" English="Sport gloves" Chinese="运动手套" />
+  <LanguageData Keyword="EQP_NAME_007" English="Cowboy hat" Chinese="牛仔帽" />
+  <LanguageData Keyword="EQP_NAME_008" English="Cowboy backpack" Chinese="牛仔背包" />
+  <LanguageData Keyword="EQP_NAME_009" English="Cowboy gloves" Chinese="牛仔手套" />
+  <LanguageData Keyword="EQP_NAME_010" English="Soldier cap" Chinese="士兵帽" />
+  <LanguageData Keyword="EQP_NAME_011" English="Soldier backpack" Chinese="士兵背包" />
+  <LanguageData Keyword="EQP_NAME_012" English="Soldier gloves" Chinese="士兵手套" />
+  <LanguageData Keyword="EQP_NAME_013" English="Protective helmet" Chinese="防护头盔" />
+  <LanguageData Keyword="EQP_NAME_014" English="Protective backpack" Chinese="防护背包" />
+  <LanguageData Keyword="EQP_NAME_015" English="protective gloves" Chinese="防护手套" />
+  <LanguageData Keyword="EQP_NAME_016" English="Motorcycle helmet" Chinese="摩托头盔" />
+  <LanguageData Keyword="EQP_NAME_017" English="Motorcycle backpack" Chinese="摩托背包" />
+  <LanguageData Keyword="EQP_NAME_018" English="Motorcycle gloves" Chinese="摩托手套" />
+  <LanguageData Keyword="EQP_NAME_019" English="Hard helmet" Chinese="坚硬头盔" />
+  <LanguageData Keyword="EQP_NAME_020" English="Hard backpack" Chinese="坚硬背包" />
+  <LanguageData Keyword="EQP_NAME_021" English="Hard gloves" Chinese="坚硬手套" />
+  <LanguageData Keyword="EQP_NAME_022" English="Combat helmet" Chinese="作战头盔" />
+  <LanguageData Keyword="EQP_NAME_023" English="Combat backpack" Chinese="作战背包" />
+  <LanguageData Keyword="EQP_NAME_024" English="Combat gloves" Chinese="作战手套" />
+  <LanguageData Keyword="EQP_NAME_025" English="Battle helmet" Chinese="战斗头盔" />
+  <LanguageData Keyword="EQP_NAME_026" English="Combat backpack" Chinese="战斗背包" />
+  <LanguageData Keyword="EQP_NAME_027" English="Fighting gloves" Chinese="战斗手套" />
+  <LanguageData Keyword="EQP_NAME_028" English="Special helmet" Chinese="特种头盔" />
+  <LanguageData Keyword="EQP_NAME_029" English="Special Backpack" Chinese="特种背包" />
+  <LanguageData Keyword="EQP_NAME_030" English="Special gloves" Chinese="特种手套" />
+  <LanguageData Keyword="TEST_17" English="装备描述" Chinese="装备描述" />
+  <LanguageData Keyword="EQP_DES_001" English="EQUIPMENT 1-1" Chinese="装备1-1" />
+  <LanguageData Keyword="EQP_DES_002" English="EQUIPMENT 1-2" Chinese="装备1-2" />
+  <LanguageData Keyword="EQP_DES_003" English="EQUIPMENT 1-3" Chinese="装备1-3" />
+  <LanguageData Keyword="EQP_DES_004" English="EQUIPMENT 2-1" Chinese="装备2-1" />
+  <LanguageData Keyword="EQP_DES_005" English="EQUIPMENT 2-2" Chinese="装备2-2" />
+  <LanguageData Keyword="EQP_DES_006" English="EQUIPMENT 2-3" Chinese="装备2-3" />
+  <LanguageData Keyword="EQP_DES_007" English="EQUIPMENT 3-1" Chinese="装备3-1" />
+  <LanguageData Keyword="EQP_DES_008" English="EQUIPMENT 3-2" Chinese="装备3-2" />
+  <LanguageData Keyword="EQP_DES_009" English="EQUIPMENT 3-3" Chinese="装备3-3" />
+  <LanguageData Keyword="EQP_DES_010" English="EQUIPMENT 4-1" Chinese="装备4-1" />
+  <LanguageData Keyword="EQP_DES_011" English="EQUIPMENT 4-2" Chinese="装备4-2" />
+  <LanguageData Keyword="EQP_DES_012" English="EQUIPMENT 4-3" Chinese="装备4-3" />
+  <LanguageData Keyword="EQP_DES_013" English="EQUIPMENT 5-1" Chinese="装备5-1" />
+  <LanguageData Keyword="EQP_DES_014" English="EQUIPMENT 5-2" Chinese="装备5-2" />
+  <LanguageData Keyword="EQP_DES_015" English="EQUIPMENT 5-3" Chinese="装备5-3" />
+  <LanguageData Keyword="EQP_DES_016" English="EQUIPMENT 6-1" Chinese="装备6-1" />
+  <LanguageData Keyword="EQP_DES_017" English="EQUIPMENT 6-2" Chinese="装备6-2" />
+  <LanguageData Keyword="EQP_DES_018" English="EQUIPMENT 6-3" Chinese="装备6-3" />
+  <LanguageData Keyword="EQP_DES_019" English="EQUIPMENT 7-1" Chinese="装备7-1" />
+  <LanguageData Keyword="EQP_DES_020" English="EQUIPMENT 7-2" Chinese="装备7-2" />
+  <LanguageData Keyword="EQP_DES_021" English="EQUIPMENT 7-3" Chinese="装备7-3" />
+  <LanguageData Keyword="EQP_DES_022" English="EQUIPMENT 8-1" Chinese="装备8-1" />
+  <LanguageData Keyword="EQP_DES_023" English="EQUIPMENT 8-2" Chinese="装备8-2" />
+  <LanguageData Keyword="EQP_DES_024" English="EQUIPMENT 8-3" Chinese="装备8-3" />
+  <LanguageData Keyword="EQP_DES_025" English="EQUIPMENT 9-1" Chinese="装备9-1" />
+  <LanguageData Keyword="EQP_DES_026" English="EQUIPMENT 9-2" Chinese="装备9-2" />
+  <LanguageData Keyword="EQP_DES_027" English="EQUIPMENT 9-3" Chinese="装备9-3" />
+  <LanguageData Keyword="EQP_DES_028" English="EQUIPMENT 10-1" Chinese="装备10-1" />
+  <LanguageData Keyword="EQP_DES_029" English="EQUIPMENT 10-2" Chinese="装备10-2" />
+  <LanguageData Keyword="EQP_DES_030" English="EQUIPMENT 10-3" Chinese="装备10-3" />
+  <LanguageData Keyword="TEST_18" English="武器名称" Chinese="武器名称" />
+  <LanguageData Keyword="WEPAON_NAME_001" English="P99" Chinese="P99" />
+  <LanguageData Keyword="WEPAON_NAME_002" English="M10" Chinese="M10" />
+  <LanguageData Keyword="WEPAON_NAME_003" English="FN" Chinese="FN" />
+  <LanguageData Keyword="WEPAON_NAME_004" English="M1911" Chinese="M1911" />
+  <LanguageData Keyword="WEPAON_NAME_005" English="FAMAS" Chinese="FAMAS" />
+  <LanguageData Keyword="WEPAON_NAME_006" English="BREN" Chinese="BREN" />
+  <LanguageData Keyword="WEPAON_NAME_007" English="M4" Chinese="M4" />
+  <LanguageData Keyword="WEPAON_NAME_008" English="UMP" Chinese="UMP" />
+  <LanguageData Keyword="WEPAON_NAME_009" English="SPAS12" Chinese="SPAS12" />
+  <LanguageData Keyword="WEPAON_NAME_010" English="M92F" Chinese="M92F" />
+  <LanguageData Keyword="WEPAON_NAME_011" English="AK47" Chinese="AK47" />
+  <LanguageData Keyword="WEPAON_NAME_012" English="M32" Chinese="M32" />
+  <LanguageData Keyword="WEPAON_NAME_013" English="MP5" Chinese="MP5" />
+  <LanguageData Keyword="WEPAON_NAME_014" English="KSG" Chinese="KSG" />
+  <LanguageData Keyword="WEPAON_NAME_015" English="M60" Chinese="M60" />
+  <LanguageData Keyword="WEPAON_NAME_016" English="DE" Chinese="DE" />
+  <LanguageData Keyword="WEPAON_NAME_017" English="HUDSON" Chinese="HUDSON" />
+  <LanguageData Keyword="WEPAON_NAME_018" English="HK416" Chinese="HK416" />
+  <LanguageData Keyword="WEPAON_NAME_019" English="SCAL" Chinese="SCAL" />
+  <LanguageData Keyword="WEPAON_NAME_020" English="SPAS12L" Chinese="SPAS12L" />
+  <LanguageData Keyword="WEPAON_NAME_021" English="M629" Chinese="M629" />
+  <LanguageData Keyword="WEPAON_NAME_022" English="VECTOR" Chinese="VECTOR" />
+  <LanguageData Keyword="WEPAON_NAME_023" English="LEWIS" Chinese="LEWIS" />
+  <LanguageData Keyword="WEPAON_NAME_024" English="G36" Chinese="G36" />
+  <LanguageData Keyword="WEPAON_NAME_025" English="UTS15" Chinese="UTS15" />
+  <LanguageData Keyword="WEPAON_NAME_026" English="H30" Chinese="H30" />
+  <LanguageData Keyword="WEPAON_NAME_027" English="P90" Chinese="P90" />
+  <LanguageData Keyword="WEPAON_NAME_028" English="QBZ95" Chinese="QBZ95" />
+  <LanguageData Keyword="WEPAON_NAME_029" English="M249" Chinese="M249" />
+  <LanguageData Keyword="WEPAON_NAME_030" English="WINCHERSTER" Chinese="WINCHERSTER" />
+  <LanguageData Keyword="WEPAON_NAME_101" English="AWP" Chinese="AWP" />
+  <LanguageData Keyword="WEPAON_NAME_102" English="SR02" Chinese="SR02" />
+  <LanguageData Keyword="WEPAON_NAME_103" English="LEEENFIELD" Chinese="LEEENFIELD" />
+  <LanguageData Keyword="TEST_19" English="武器描述" Chinese="武器描述" />
+  <LanguageData Keyword="WEPAON_DES_001" English="P99 (pistol)" Chinese="P99 (pistol)" />
+  <LanguageData Keyword="WEPAON_DES_002" English="M10 (Submachine gun)" Chinese="M10 (Submachine gun)" />
+  <LanguageData Keyword="WEPAON_DES_003" English="FN (Shotgun)" Chinese="FN (Shotgun)" />
+  <LanguageData Keyword="WEPAON_DES_004" English="M1911 (pistol)" Chinese="M1911 (pistol)" />
+  <LanguageData Keyword="WEPAON_DES_005" English="FAMAS (rifle)" Chinese="FAMAS (rifle)" />
+  <LanguageData Keyword="WEPAON_DES_006" English="BREN (machine gun)" Chinese="BREN (machine gun)" />
+  <LanguageData Keyword="WEPAON_DES_007" English="M4 (rifle)" Chinese="M4 (rifle)" />
+  <LanguageData Keyword="WEPAON_DES_008" English="UMP (Submachine gun)" Chinese="UMP (Submachine gun)" />
+  <LanguageData Keyword="WEPAON_DES_009" English="SPAS12 (Shotgun)" Chinese="SPAS12 (Shotgun)" />
+  <LanguageData Keyword="WEPAON_DES_010" English="M92F (pistol)" Chinese="M92F (pistol)" />
+  <LanguageData Keyword="WEPAON_DES_011" English="AK47 (rifle)" Chinese="AK47 (rifle)" />
+  <LanguageData Keyword="WEPAON_DES_012" English="M32 (Grenade)" Chinese="M32 (Grenade)" />
+  <LanguageData Keyword="WEPAON_DES_013" English="MP5 (rifle)" Chinese="MP5 (rifle)" />
+  <LanguageData Keyword="WEPAON_DES_014" English="KSG (Shotgun)" Chinese="KSG (Shotgun)" />
+  <LanguageData Keyword="WEPAON_DES_015" English="M60 (machine gun)" Chinese="M60 (machine gun)" />
+  <LanguageData Keyword="WEPAON_DES_016" English="DE" Chinese="DE" />
+  <LanguageData Keyword="WEPAON_DES_017" English="HUDSON" Chinese="HUDSON" />
+  <LanguageData Keyword="WEPAON_DES_018" English="HK416" Chinese="HK416" />
+  <LanguageData Keyword="WEPAON_DES_019" English="SCAL" Chinese="SCAL" />
+  <LanguageData Keyword="WEPAON_DES_020" English="SPAS12L" Chinese="SPAS12L" />
+  <LanguageData Keyword="WEPAON_DES_021" English="M629" Chinese="M629" />
+  <LanguageData Keyword="WEPAON_DES_022" English="VECTOR" Chinese="VECTOR" />
+  <LanguageData Keyword="WEPAON_DES_023" English="LEWIS" Chinese="LEWIS" />
+  <LanguageData Keyword="WEPAON_DES_024" English="G36" Chinese="G36" />
+  <LanguageData Keyword="WEPAON_DES_025" English="UTS15" Chinese="UTS15" />
+  <LanguageData Keyword="WEPAON_DES_026" English="H30" Chinese="H30" />
+  <LanguageData Keyword="WEPAON_DES_027" English="P90" Chinese="P90" />
+  <LanguageData Keyword="WEPAON_DES_028" English="QBZ95" Chinese="QBZ95" />
+  <LanguageData Keyword="WEPAON_DES_029" English="M249" Chinese="M249" />
+  <LanguageData Keyword="WEPAON_DES_030" English="WINCHERSTER" Chinese="WINCHERSTER" />
+  <LanguageData Keyword="WEPAON_DES_101" English="AWP" Chinese="AWP" />
+  <LanguageData Keyword="WEPAON_DES_102" English="SR02" Chinese="SR02" />
+  <LanguageData Keyword="WEPAON_DES_103" English="LEEENFIELD" Chinese="LEEENFIELD" />
+  <LanguageData Keyword="PART_NAME_01" English="bullet" Chinese="子弹" />
+  <LanguageData Keyword="PART_NAME_02" English="barrel" Chinese="枪管" />
+  <LanguageData Keyword="PART_NAME_03" English="Sight" Chinese="准镜" />
+  <LanguageData Keyword="PART_NAME_04" English="magazine" Chinese="弹匣" />
+  <LanguageData Keyword="PART_NAME_05" English="Buttstock" Chinese="枪托" />
+  <LanguageData Keyword="PART_NAME_06" English="bolt" Chinese="枪栓" />
+  <LanguageData Keyword="PART_NAME_07" English="silencer" Chinese="消音器" />
+  <LanguageData Keyword="TEST_20" English="套装名称" Chinese="套装名称" />
+  <LanguageData Keyword="SET_NAME_01" English="Baseball uniform" Chinese="棒球套" />
+  <LanguageData Keyword="SET_NAME_02" English="Sports sleeve" Chinese="运动套" />
+  <LanguageData Keyword="SET_NAME_03" English="cowboy" Chinese="牛仔套" />
+  <LanguageData Keyword="SET_NAME_04" English="soldier" Chinese="士兵套" />
+  <LanguageData Keyword="SET_NAME_05" English="protective suit" Chinese="防护套" />
+  <LanguageData Keyword="SET_NAME_06" English="motorcycle" Chinese="摩托套" />
+  <LanguageData Keyword="SET_NAME_07" English="hard" Chinese="环保套" />
+  <LanguageData Keyword="SET_NAME_08" English="Combat suit" Chinese="作战套" />
+  <LanguageData Keyword="SET_NAME_09" English="Battle pack" Chinese="战斗套" />
+  <LanguageData Keyword="SET_NAME_10" English="Special forces" Chinese="特种套" />
+  <LanguageData Keyword="TEST_21" English="技能名称" Chinese="技能名称" />
+  <LanguageData Keyword="TALENT_NAME_01" English="PICKING RANGE" Chinese="拾取范围" />
+  <LanguageData Keyword="TALENT_NAME_02" English="PENETRATE" Chinese="穿透子弹" />
+  <LanguageData Keyword="TALENT_NAME_03" English="ALERT RANGE" Chinese="预警范围" />
+  <LanguageData Keyword="TALENT_NAME_04" English="EXPLOSION RANGE" Chinese="爆炸范围" />
+  <LanguageData Keyword="TALENT_NAME_05" English="MULTI KILL" Chinese="连杀金币" />
+  <LanguageData Keyword="TALENT_NAME_06" English="GOD TIME" Chinese="上帝时间" />
+  <LanguageData Keyword="TALENT_NAME_07" English="BULLET COPY" Chinese="零耗子弹" />
+  <LanguageData Keyword="TALENT_NAME_08" English="INSTANT RELOAD" Chinese="瞬间换弹" />
+  <LanguageData Keyword="TALENT_NAME_09" English="BLAST DAMAGE" Chinese="爆炸伤害" />
+  <LanguageData Keyword="TALENT_NAME_10" English="BULLETS INCREASE" Chinese="携弹增加" />
+  <LanguageData Keyword="TALENT_NAME_11" English="SCOPE OF BATTERY" Chinese="炮台范围" />
+  <LanguageData Keyword="TALENT_NAME_12" English="AIM ACCELERATION" Chinese="瞄准加速" />
+  <LanguageData Keyword="TALENT_NAME_13" English="DOUBLE GOLDS" Chinese="金币双倍" />
+  <LanguageData Keyword="TALENT_NAME_14" English="ELITE ADDITION" Chinese="精英附加" />
+  <LanguageData Keyword="TALENT_NAME_15" English="BATTERY DAMAGE" Chinese="炮台伤害" />
+  <LanguageData Keyword="TALENT_NAME_16" English="DOUBLE DNA" Chinese="DNA双倍" />
+  <LanguageData Keyword="TALENT_NAME_17" English="DIAMOND INCREASE" Chinese="钻石增加" />
+  <LanguageData Keyword="TALENT_NAME_18" English="HEADSHOT DAMAGE" Chinese="爆头伤害" />
+  <LanguageData Keyword="TALENT_NAME_19" English="COMMON ADDITION" Chinese="普通附加" />
+  <LanguageData Keyword="TALENT_NAME_20" English="CRITICAL CHANCE" Chinese="暴击概率" />
+  <LanguageData Keyword="TEST_22" English="技能说明" Chinese="技能说明" />
+  <LanguageData Keyword="TALENT_DES_01" English="Increase The Scope Of Picking Up Dropped Items." Chinese="增加拾取掉落物的范围" />
+  <LanguageData Keyword="TALENT_DES_02" English="There Is A Chance For The Bullet To Penetrate." Chinese="一定概率子弹穿透" />
+  <LanguageData Keyword="TALENT_DES_03" English="Increase the warning range of zombies." Chinese="增加对僵尸的预警范围" />
+  <LanguageData Keyword="TALENT_DES_04" English="Increase The Range Of Grenades." Chinese="增加手雷的爆炸范围" />
+  <LanguageData Keyword="TALENT_DES_05" English="You Can Get More Golds For A Series Of Kills." Chinese="连续击杀可获得更多的金币." />
+  <LanguageData Keyword="TALENT_DES_06" English="Increases The Duration Of Adrenaline." Chinese="增加肾上腺素的持续时间" />
+  <LanguageData Keyword="TALENT_DES_07" English="There'S A Chance You Won'T Use Bullets." Chinese="一定概率不消耗子弹" />
+  <LanguageData Keyword="TALENT_DES_08" English="Each Reload Has A Chance To Be Instant." Chinese="一定概率瞬间更换弹匣" />
+  <LanguageData Keyword="TALENT_DES_09" English="Increases The Percentage Of Grenade Damage." Chinese="增加手雷的伤害百分比" />
+  <LanguageData Keyword="TALENT_DES_10" English="Increase The Number Of Bullets Of Specified Gun." Chinese="增加指定枪械携带子弹总数" />
+  <LanguageData Keyword="TALENT_DES_11" English="Increase The Attack Range Of Battery." Chinese="增加炮台的攻击范围" />
+  <LanguageData Keyword="TALENT_DES_12" English="Increase Move Speed While Aiming." Chinese="减少瞄准时对移速的影响." />
+  <LanguageData Keyword="TALENT_DES_13" English="There'S A Chance To Double The Amount Of Gold You Pick Up" Chinese="一定概率拾取金币获得双倍" />
+  <LanguageData Keyword="TALENT_DES_14" English="Increase The Damage To The Elite Zombies." Chinese="增加对精英僵尸的伤害" />
+  <LanguageData Keyword="TALENT_DES_15" English="Increases The Attack Speed Of The Battery." Chinese="增加炮台的攻击速度" />
+  <LanguageData Keyword="TALENT_DES_16" English="There'S A Chance To Double The Dna You Pick Up." Chinese="一定概率拾取DNA获得双倍" />
+  <LanguageData Keyword="TALENT_DES_17" English="Increase The Maximum Number Of Diamonds Available Per Day." Chinese="增加每日可获得钻石的上限" />
+  <LanguageData Keyword="TALENT_DES_18" English="Increases Headshot Damage." Chinese="增加爆头伤害" />
+  <LanguageData Keyword="TALENT_DES_19" English="Increases Damage To Normal Zombies." Chinese="增加对普通僵尸的伤害" />
+  <LanguageData Keyword="TALENT_DES_20" English="Increases The Damage Bonus Of Your Critical Hits" Chinese="增加致命一击的伤害" />
+  <LanguageData Keyword="TEST_23" English="枪械道具碎片" Chinese="枪械道具图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_01" English="P99 DRAWING" Chinese="P99 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_02" English="M10 DRAWING" Chinese="M10 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_03" English="FN DRAWING" Chinese="FN 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_04" English="M1911 DRAWING" Chinese="M1911 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_05" English="FAMAS DRAWING" Chinese="FAMAS 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_06" English="BREN DRAWING" Chinese="BREN 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_07" English="M4 DRAWING" Chinese="M4 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_08" English="UMP DRAWING" Chinese="UMP 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_09" English="SPAS12 DRAWING" Chinese="SPAS12 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_10" English="M92F DRAWING" Chinese="M92F 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_11" English="AK47 DRAWING" Chinese="AK47 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_12" English="M32 DRAWING" Chinese="M32 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_13" English="MP5 DRAWING" Chinese="MP5 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_14" English="KSG DRAWING" Chinese="KSG 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_15" English="M60 DRAWING" Chinese="M60 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_16" English="DE DRAWING" Chinese="DE 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_17" English="HUDSON DRAWING" Chinese="HUDSON 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_18" English="HK416 DRAWING" Chinese="HK416 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_19" English="SCAL DRAWING" Chinese="SCAL 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_20" English="SPAS12L DRAWING" Chinese="SPAS12L 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_21" English="M629 DRAWING" Chinese="M629 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_22" English="VECTOR DRAWING" Chinese="VECTOR 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_23" English="LEWIS DRAWING" Chinese="LEWIS 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_24" English="G36 DRAWING" Chinese="G36 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_25" English="UTS15 DRAWING" Chinese="UTS15 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_26" English="H30 DRAWING" Chinese="H30 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_27" English="P90 DRAWING" Chinese="P90 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_28" English="QBZ95 DRAWING" Chinese="QBZ95 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_29" English="M249 DRAWING" Chinese="M249 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_30" English="WINCHERSTER DRAWING" Chinese="WINCHERSTER 图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_31" English="MEDICAL PACKAGE DRAWING" Chinese="急救药图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_32" English="ADRENALINE DEBRIS DRAWING" Chinese="肾上腺素图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_33" English="GRENADE DEBRIS DRAWING" Chinese="手雷图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_34" English="ADVANCED GRENADE DEBRIS DRAWING" Chinese="高级手雷图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_35" English="LANDMINE DEBRIS DRAWING" Chinese="地雷图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_36" English="ADVANCED LAND MINE DEBRIS DRAWING" Chinese="高级地雷图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_37" English="BATTERY DEBRIS DRAWING" Chinese="炮台图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_101" English="AWP DRAWING" Chinese="AWP图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_102" English="SR02 DRAWING" Chinese="SR02图纸" />
+  <LanguageData Keyword="DEBRIS_NAME_103" English="LEEENFIELD DRAWING" Chinese="LEEENFIELD图纸" />
+  <LanguageData Keyword="TEST_24" English="枪械道具碎片描述" Chinese="枪械道具图纸描述" />
+  <LanguageData Keyword="DEBRIS_DES_01" English="PISTOL 1 DEBRIS" Chinese="手枪1图纸" />
+  <LanguageData Keyword="DEBRIS_DES_02" English="MINI SUBMACHINE GUNS 1 DEBRIS" Chinese="微冲1图纸" />
+  <LanguageData Keyword="DEBRIS_DES_03" English="SHOTGUN 1 DEBRIS" Chinese="霰弹1图纸" />
+  <LanguageData Keyword="DEBRIS_DES_04" English="PISTOL 2 DEBRIS" Chinese="手枪2图纸" />
+  <LanguageData Keyword="DEBRIS_DES_05" English="RIFLE 2 DEBRIS" Chinese="步枪2图纸" />
+  <LanguageData Keyword="DEBRIS_DES_06" English="MACHINE GUN 3 DEBRIS" Chinese="机枪3图纸" />
+  <LanguageData Keyword="DEBRIS_DES_07" English="RIFLE 3 DEBRIS" Chinese="步枪3图纸" />
+  <LanguageData Keyword="DEBRIS_DES_08" English="MINI SUBMACHINE GUNS 3 DEBRIS" Chinese="微冲3图纸" />
+  <LanguageData Keyword="DEBRIS_DES_09" English="SHOTGUN 3 DEBRIS" Chinese="霰弹3图纸" />
+  <LanguageData Keyword="DEBRIS_DES_10" English="PISTOL 4 DEBRIS" Chinese="手枪4图纸" />
+  <LanguageData Keyword="DEBRIS_DES_11" English="RIFLE 4 DEBRIS" Chinese="步枪4图纸" />
+  <LanguageData Keyword="DEBRIS_DES_12" English="HOWITZER 4 DEBRIS" Chinese="榴弹4图纸" />
+  <LanguageData Keyword="DEBRIS_DES_13" English="MINI SUBMACHINE GUNS 5 DEBRIS" Chinese="微冲5图纸" />
+  <LanguageData Keyword="DEBRIS_DES_14" English="SHOTGUN 5 DEBRIS" Chinese="霰弹5图纸" />
+  <LanguageData Keyword="DEBRIS_DES_15" English="MACHINE GUN 5 DEBRIS" Chinese="机枪5图纸" />
+  <LanguageData Keyword="DEBRIS_DES_16" English="PISTOL 6 DEBRIS" Chinese="手枪6图纸" />
+  <LanguageData Keyword="DEBRIS_DES_17" English="SHOTGUN 6 DEBRIS" Chinese="霰弹6图纸" />
+  <LanguageData Keyword="DEBRIS_DES_18" English="RIFLE 6 DEBRIS" Chinese="步枪6图纸" />
+  <LanguageData Keyword="DEBRIS_DES_19" English="RIFLE 7 DEBRIS" Chinese="步枪7图纸" />
+  <LanguageData Keyword="DEBRIS_DES_20" English="SHOTGUN 7 DEBRIS" Chinese="霰弹7图纸" />
+  <LanguageData Keyword="DEBRIS_DES_21" English="PISTOL 7 DEBRIS" Chinese="手枪7图纸" />
+  <LanguageData Keyword="DEBRIS_DES_22" English="MINI SUBMACHINE GUNS 8 DEBRIS" Chinese="微冲8图纸" />
+  <LanguageData Keyword="DEBRIS_DES_23" English="MACHINE GUN 8 DEBRIS" Chinese="机枪8图纸" />
+  <LanguageData Keyword="DEBRIS_DES_24" English="RIFLE 8 DEBRIS" Chinese="步枪8图纸" />
+  <LanguageData Keyword="DEBRIS_DES_25" English="SHOTGUN 9 DEBRIS" Chinese="霰弹9图纸" />
+  <LanguageData Keyword="DEBRIS_DES_26" English="HOWITZER 9 DEBRIS" Chinese="榴弹9图纸" />
+  <LanguageData Keyword="DEBRIS_DES_27" English="MINI SUBMACHINE GUNS 9 DEBRIS" Chinese="微冲9图纸" />
+  <LanguageData Keyword="DEBRIS_DES_28" English="RIFLE 10 DEBRIS" Chinese="步枪10图纸" />
+  <LanguageData Keyword="DEBRIS_DES_29" English="MACHINE GUN 10 DEBRIS" Chinese="机枪10图纸" />
+  <LanguageData Keyword="DEBRIS_DES_30" English="SHOTGUN 10 DEBRIS" Chinese="霰弹10图纸" />
+  <LanguageData Keyword="DEBRIS_DES_31" English="FIRST-AID MEDICINE DEBRIS" Chinese="急救药图纸" />
+  <LanguageData Keyword="DEBRIS_DES_32" English="ADRENALINE DEBRIS" Chinese="肾上腺素图纸" />
+  <LanguageData Keyword="DEBRIS_DES_33" English="GRENADE DEBRIS" Chinese="手雷图纸" />
+  <LanguageData Keyword="DEBRIS_DES_34" English="ADVANCED GRENADE DEBRIS" Chinese="高级手雷图纸" />
+  <LanguageData Keyword="DEBRIS_DES_35" English="LANDMINE DEBRIS" Chinese="地雷图纸" />
+  <LanguageData Keyword="DEBRIS_DES_36" English="ADVANCED LAND MINE DEBRIS" Chinese="高级地雷图纸" />
+  <LanguageData Keyword="DEBRIS_DES_37" English="BATTERY DEBRIS" Chinese="炮台图纸" />
+  <LanguageData Keyword="DEBRIS_DES_101" English="AWP DEBRIS" Chinese="AWP图纸" />
+  <LanguageData Keyword="DEBRIS_DES_102" English="SR02 DEBRIS" Chinese="SR02图纸" />
+  <LanguageData Keyword="DEBRIS_DES_103" English="LEEENFIELD DEBRIS" Chinese="LEEENFIELD图纸" />
+  <LanguageData Keyword="TEST_25" English="套装属性名称" Chinese="套装属性名称" />
+  <LanguageData Keyword="HEALTH" English="HEALTH" Chinese="生命" />
+  <LanguageData Keyword="MOVE_SPEED" English="MOVE SPEED" Chinese="移动速度" />
+  <LanguageData Keyword="DODGE" English="DODGE" Chinese="躲闪" />
+  <LanguageData Keyword="MELEE_DEFENSE" English="MELEE DEFENSE" Chinese="近战防御" />
+  <LanguageData Keyword="EXPLODE_DEFENSE" English="EXPLODE DEFENSE" Chinese="爆炸防御" />
+  <LanguageData Keyword="RANGED_DEFENSE" English="RANGED DEFENSE" Chinese="远程防御" />
+  <LanguageData Keyword="ATTACK" English="ATTACK" Chinese="攻击" />
+  <LanguageData Keyword="TEST_26" English="每日任务描述" Chinese="每日任务描述" />
+  <LanguageData Keyword="IN_PROGRESS" English="IN PROGRESS" Chinese="进行中" />
+  <LanguageData Keyword="GO_TO" English="GO TO" Chinese="前往" />
+  <LanguageData Keyword="DAILY_MISSION" English="DAILY MISSION" Chinese="每日任务" />
+  <LanguageData Keyword="DAILYMISSION_DES_01" English="Facebook sharing" Chinese="facebook分享" />
+  <LanguageData Keyword="DAILYMISSION_DES_02" English="Watch Video #value# Time" Chinese="观看视屏#value#次" />
+  <LanguageData Keyword="DAILYMISSION_DES_03" English="Kill #value# Zombies" Chinese="击杀#value#个僵尸" />
+  <LanguageData Keyword="DAILYMISSION_DES_04" English="Headshot Zombie #value# Times" Chinese="爆头僵尸#value#次" />
+  <LanguageData Keyword="DAILYMISSION_DES_05" English="Open #value# Boxes" Chinese="开启#value#个箱子" />
+  <LanguageData Keyword="DAILYMISSION_DES_06" English="Complete Gold Coin Level" Chinese="完成金币关" />
+  <LanguageData Keyword="DAILYMISSION_DES_07" English="Complete Boss Level" Chinese="完成BOSS关" />
+  <LanguageData Keyword="DAILYMISSION_DES_08" English="Complete Random Level" Chinese="完成随机关" />
+  <LanguageData Keyword="DAILYMISSION_DES_09" English="Kill #value# Elites" Chinese="击杀#value#个精英怪" />
+  <LanguageData Keyword="DAILYMISSION_DES_10" English="Complete All Missions" Chinese="完成当天所有任务" />
+  <LanguageData Keyword="TEST_27" English="签到" Chinese="签到" />
+  <LanguageData Keyword="DAILY_LOGON_AWARD" English="DAILY LOGON AWARD" Chinese="登录奖励" />
+  <LanguageData Keyword="LOGON_THIRTY_DAYS_AWARD" English="Logon 20 Days' Gift" Chinese="登录20天可领取" />
+  <LanguageData Keyword="LOGON_NAME_01" English="DAY 1" Chinese="第1天" />
+  <LanguageData Keyword="LOGON_NAME_02" English="DAY 2" Chinese="第2天" />
+  <LanguageData Keyword="LOGON_NAME_03" English="DAY 3" Chinese="第3天" />
+  <LanguageData Keyword="LOGON_NAME_04" English="DAY 4" Chinese="第4天" />
+  <LanguageData Keyword="LOGON_NAME_05" English="DAY 5" Chinese="第5天" />
+  <LanguageData Keyword="LOGON_NAME_06" English="DAY 6" Chinese="第6天" />
+  <LanguageData Keyword="LOGON_NAME_07" English="DAY 7" Chinese="第7天" />
+  <LanguageData Keyword="LOGON_NAME_08" English="DAY 8" Chinese="第8天" />
+  <LanguageData Keyword="LOGON_NAME_09" English="DAY 9" Chinese="第9天" />
+  <LanguageData Keyword="LOGON_NAME_10" English="DAY 10" Chinese="第10天" />
+  <LanguageData Keyword="LOGON_NAME_11" English="DAY 11" Chinese="第11天" />
+  <LanguageData Keyword="LOGON_NAME_12" English="DAY 12" Chinese="第12天" />
+  <LanguageData Keyword="LOGON_NAME_13" English="DAY 13" Chinese="第13天" />
+  <LanguageData Keyword="LOGON_NAME_14" English="DAY 14" Chinese="第14天" />
+  <LanguageData Keyword="LOGON_NAME_15" English="DAY 15" Chinese="第15天" />
+  <LanguageData Keyword="LOGON_NAME_16" English="DAY 16" Chinese="第16天" />
+  <LanguageData Keyword="LOGON_NAME_17" English="DAY 17" Chinese="第17天" />
+  <LanguageData Keyword="LOGON_NAME_18" English="DAY 18" Chinese="第18天" />
+  <LanguageData Keyword="LOGON_NAME_19" English="DAY 19" Chinese="第19天" />
+  <LanguageData Keyword="LOGON_NAME_20" English="DAY 20" Chinese="第20天" />
+  <LanguageData Keyword="LOGON_NAME_21" English="DAY 21" Chinese="第21天" />
+  <LanguageData Keyword="LOGON_NAME_22" English="DAY 22" Chinese="第22天" />
+  <LanguageData Keyword="LOGON_NAME_23" English="DAY 23" Chinese="第23天" />
+  <LanguageData Keyword="LOGON_NAME_24" English="DAY 24" Chinese="第24天" />
+  <LanguageData Keyword="LOGON_NAME_25" English="DAY 25" Chinese="第25天" />
+  <LanguageData Keyword="LOGON_NAME_26" English="DAY 26" Chinese="第26天" />
+  <LanguageData Keyword="LOGON_NAME_27" English="DAY 27" Chinese="第27天" />
+  <LanguageData Keyword="LOGON_NAME_28" English="DAY 28" Chinese="第28天" />
+  <LanguageData Keyword="LOGON_NAME_29" English="DAY 29" Chinese="第29天" />
+  <LanguageData Keyword="LOGON_NAME_30" English="DAY 30" Chinese="第30天" />
+  <LanguageData Keyword="GUIDETEXT_01" English="Click On The Equipment Button" Chinese="点击该按钮装备" />
+  <LanguageData Keyword="GUIDETEXT_02" English="Click On Equipment Location" Chinese="点击该位置装备" />
+  <LanguageData Keyword="GUIDETEXT_03" English="Choose This Skill" Chinese="点击该技能图标" />
+  <LanguageData Keyword="GUIDETEXT_04" English="Upgrade This Skill" Chinese="点击升级按钮" />
+  <LanguageData Keyword="GUIDETEXT_05" English="Choose This Equipment" Chinese="点击该装备" />
+  <LanguageData Keyword="GUIDETEXT_06" English="Click The Start Button" Chinese="点击开始按钮" />
+  <LanguageData Keyword="GUIDETEXT_07" English="Choose This Weapon" Chinese="点击该武器" />
+  <LanguageData Keyword="GUIDETEXT_08" English="Click On The Equipment Button" Chinese="点击装备按钮" />
+  <LanguageData Keyword="GUIDETEXT_09" English="Insufficient fire, click upgrade" Chinese="火力不足,点击进入升级界面" />
+  <LanguageData Keyword="GUIDETEXT_10" English="Click Box" Chinese="点击箱子按钮" />
+  <LanguageData Keyword="GUIDETEXT_11" English="CLICK BUTTON TO OPEN" Chinese="点击按钮开启" />
+  <LanguageData Keyword="GUIDETEXT_12" English="CLICK BUTTON TO ENTER" Chinese="点击按钮进入" />
+  <LanguageData Keyword="MEDICGUIDE" English="Please click the aperture and use the medicine" Chinese="请点击光圈处，使用药品" />
+  <LanguageData Keyword="SHOULEIGUIDE" English="Please click the diaphragm and use a grenade" Chinese="请点击光圈处，使用手雷" />
+  <LanguageData Keyword="SHOOTGUIDE" English="Please slide the image area to Shoot" Chinese="请滑动右边图片区域，移动准心" />
+  <LanguageData Keyword="MOVEGUIDE" English="Please slide the image area to Move" Chinese="请滑动左边图片区域，移动角色" />
+  <LanguageData Keyword="BATTERYGUIDE" English="Hold down the aperture and use a gun to shoot" Chinese="按住光圈处不放，使用炮台射击" />
+  <LanguageData Keyword="WEAPONGUIDE" English="Please click the aperture and switch the weapon" Chinese="请点击光圈处，切换武器" />
+  <LanguageData Keyword="TIPBOX" English="Need to complete level 3" Chinese="完成第3关开启" />
+  <LanguageData Keyword="UPGRDE_NEXT" English="UPGRDE" Chinese="升级后" />
+  <LanguageData Keyword="NOARMOR" English="NO AMMUNITION" Chinese="弹药用光了" />
+  <LanguageData Keyword="SHOWALL" English="SHOW ALL" Chinese="显示全部" />
+  <LanguageData Keyword="DAILY_LOGON_TIP" English="Click Receive Sign To Reward" Chinese="点击领取签到奖励" />
+  <LanguageData Keyword="ChOOSE_POS" English="CHOOSE POS TO EQUIP" Chinese="请选择装备的位置" />
+  <LanguageData Keyword="FIRSTPAY" English="FIRST PAY REWARD" Chinese="首冲奖励" />
+  <LanguageData Keyword="GET_DEBRIS" English="GET DEBRIS" Chinese="获得图纸" />
+  <LanguageData Keyword="OPEN" English="OPEN" Chinese="开启" />
+  <LanguageData Keyword="PRICE" English="PRICE" Chinese="价格" />
+  <LanguageData Keyword="SUCCESS_UNLOCK" English="SUCCESS UNLOCK" Chinese="成功解锁" />
+  <LanguageData Keyword="BOSS_DES" English="May get the following items" Chinese="可能会获得以下物品" />
+  <LanguageData Keyword="BOSS_TIP" English="Every day at 12:00 and 24:00 refresh" Chinese="每日12:00和24:00刷新" />
+  <LanguageData Keyword="NPC_TIP" English="NPC is being attacked!!" Chinese="NPC正在被攻击!!" />
+  <LanguageData Keyword="LOOK_GOODS" English="VIEW PACKAGE" Chinese="查看商品" />
+  <LanguageData Keyword="Duration" English="Duration Time" Chinese="持续时间" />
+  <LanguageData Keyword="DIALOGUE_001" English="Here also failed to survive, it seems to be careful of." Chinese="这里也没能幸免，看来要小心点了" />
+  <LanguageData Keyword="DIALOGUE_002" English="Maybe I should check the police car." Chinese="也许该调查下那辆警车。" />
+  <LanguageData Keyword="DIALOGUE_003" English="It seems that he has been dead for a long time." Chinese="已经死很久了。" />
+  <LanguageData Keyword="DIALOGUE_004" English="Hey man, what's up?" Chinese="嗨！需要帮助么。" />
+  <LanguageData Keyword="DIALOGUE_005" English="I'm running out of bullets." Chinese="子弹不多了..." />
+  <LanguageData Keyword="DIALOGUE_006" English="I need to save some bullets." Chinese="我需要节省点用。" />
+  <LanguageData Keyword="DIALOGUE_007" English="Oh no, I seem to be trapped here." Chinese="糟糕，好像被困在这里了。" />
+  <LanguageData Keyword="DIALOGUE_008" English="(A burst of gunshots came)" Chinese="（传来一阵枪声）" />
+  <LanguageData Keyword="DIALOGUE_009" English="I can hear gunshots, there's survivors." Chinese="那边有枪声，去看看情况。" />
+  <LanguageData Keyword="DIALOGUE_010" English="Damn! Can someone help me?!" Chinese="该死！有人能帮帮我么！" />
+  <LanguageData Keyword="DIALOGUE_011" English="Thank god! Please help me." Chinese="感谢上帝！请救救我。" />
+  <LanguageData Keyword="DIALOGUE_012" English="It seems to be safe now, thank you." Chinese="看来暂时安全了，谢谢你。" />
+  <LanguageData Keyword="DIALOGUE_013" English="What the hell happened here?" Chinese="这里到底发生了什么？" />
+  <LanguageData Keyword="DIALOGUE_014" English="I don't know. Not a good time to tell stories now." Chinese="不清楚，现在不是说这些的时候。" />
+  <LanguageData Keyword="DIALOGUE_015" English="I know somewhere safe. Just come with me first." Chinese="我知道有个安全的地方，先跟我来。" />
+  <LanguageData Keyword="DIALOGUE_016" English="My name is Monica, are you also a resident of the town?" Chinese="我叫莫妮卡，你也是镇上的居民吗？" />
+  <LanguageData Keyword="DIALOGUE_017" English="Franca, I came to find my daughter" Chinese="弗兰卡，我是来找我的女儿的。" />
+  <LanguageData Keyword="DIALOGUE_018" English="I need time to open the door. Just protect me." Chinese="我需要时间开门，保护我。" />
+  <LanguageData Keyword="DIALOGUE_019" English="Damn, the lock is stuck, we have to detour." Chinese="该死，锁卡住了，我们得绕道。" />
+  <LanguageData Keyword="DIALOGUE_020" English="There should be lots of zombies in front, let's replenish it." Chinese="前面估计还有不少丧尸，先补给一下吧。" />
+  <LanguageData Keyword="DIALOGUE_021" English="This way." Chinese="走这边。" />
+  <LanguageData Keyword="DIALOGUE_022" English="Hurry up, it's almost there." Chinese="快点，前面就到了。" />
+  <LanguageData Keyword="DIALOGUE_023" English="You shall not carry off my precious!" Chinese="你们休想抢走我的宝贝!" />
+  <LanguageData Keyword="DIALOGUE_024" English="Zombies are still gathering." Chinese="丧尸还在聚集。" />
+  <LanguageData Keyword="DIALOGUE_025" English="Retreat quickly!" Chinese="快撤退！" />
+  <LanguageData Keyword="DIALOGUE_026" English="We can't let zombies break into the storage!" Chinese="不能让僵尸闯进仓库！" />
+  <LanguageData Keyword="DIALOGUE_027" English="I'm going to take your precious." Chinese="我去拿你的宝贝。" />
+  <LanguageData Keyword="DIALOGUE_028" English="I'll close the door after you get in. You'd better add the ammo first." Chinese="等你进去我会把门关上，建议你先补充下弹药。" />
+  <LanguageData Keyword="DIALOGUE_029" English="Oh my God, your baby is a tank." Chinese="我的天，你的宝贝是一辆坦克。" />
+  <LanguageData Keyword="DIALOGUE_030" English="It's been scrapped. But all I need is the ammo." Chinese="它已经报废了，我只要弹药。" />
+  <LanguageData Keyword="DIALOGUE_031" English="It seems that these are all." Chinese="看来这些就是全部了。" />
+  <LanguageData Keyword="DIALOGUE_032" English="You did it bro! You're a real man!" Chinese="你办到了！老兄，你可真爷们！" />
+  <LanguageData Keyword="DIALOGUE_033" English="Zombies, try my new toy!" Chinese="丧尸们，尝尝我的新玩具。" />
+  <LanguageData Keyword="DIALOGUE_034" English="Awesome! Time to do business." Chinese="爽翻，该做正事了。" />
+  <LanguageData Keyword="DIALOGUE_035" English="The door of the fast food restaurant was locked. I can't open it." Chinese="打不开，快餐店大门被反锁了。" />
+  <LanguageData Keyword="DIALOGUE_036" English="We can go to the back door from the side alley." Chinese="从旁边的小巷可以绕到后门。" />
+  <LanguageData Keyword="DIALOGUE_037" English="Damn, the back door is locked." Chinese="该死，后门被反锁了。" />
+  <LanguageData Keyword="DIALOGUE_038" English="I have to find an old friend to help." Chinese="看来得找老朋友帮忙了。" />
+  <LanguageData Keyword="DIALOGUE_039" English="The door is in front, come with me." Chinese="大门就在前面，跟我来。" />
+  <LanguageData Keyword="DIALOGUE_040" English="There should be something to open the door." Chinese="大门完好无损，应该有东西能打开它。" />
+  <LanguageData Keyword="DIALOGUE_041" English="Ha, it's here, but it was destroyed." Chinese="哈，在这，不过被人破坏了。" />
+  <LanguageData Keyword="DIALOGUE_042" English="I need time to fix it. Keep zombies away from me." Chinese="我需要时间修好它，别让丧尸靠近我。" />
+  <LanguageData Keyword="DIALOGUE_043" English="I did it!" Chinese="成功了。" />
+  <LanguageData Keyword="DIALOGUE_044" English="That should be the roadblock console." Chinese="那应该是路障控制台。" />
+  <LanguageData Keyword="DIALOGUE_045" English="The door is open, just get in!" Chinese="门开了，快进去。" />
+  <LanguageData Keyword="DIALOGUE_046" English="Damn, the switch doesn't work." Chinese="该死，开关失灵了。" />
+  <LanguageData Keyword="DIALOGUE_047" English="God! What the hell is that!" Chinese="天啦，那是什么鬼东西！" />
+  <LanguageData Keyword="DIALOGUE_048" English="Damn, there's another door!" Chinese="该死，竟然还有一扇门。" />
+  <LanguageData Keyword="DIALOGUE_049" English="Open the door, zombie express!" Chinese="快开门，僵尸快递！" />
+  <LanguageData Keyword="DIALOGUE_050" English="And you can also see my gun." Chinese="打开门，你还能看到我的枪。" />
+  <LanguageData Keyword="DIALOGUE_051" English="Hold on, I'm trying to open it." Chinese="坚持住，我想办法打开它。" />
+  <LanguageData Keyword="DIALOGUE_052" English="The door opened, come on." Chinese="门开了，快过来。" />
+  <LanguageData Keyword="DIALOGUE_053" English="Hi! I'm here." Chinese="嗨！我在这。" />
+  <LanguageData Keyword="DIALOGUE_054" English="Help! Help! I can't open the alley door." Chinese="救救我，小巷门打不开。" />
+  <LanguageData Keyword="DIALOGUE_055" English="You didn't say there was a welcome ceremony." Chinese="你可没说还有欢迎仪式。" />
+  <LanguageData Keyword="DIALOGUE_056" English="The generator controlling the door is out of oil." Chinese="控制门的发电机没油了" />
+  <LanguageData Keyword="DIALOGUE_057" English="Look for oil tanks nearby." Chinese="找找附近有没有油罐。" />
+  <LanguageData Keyword="DIALOGUE_058" English="I installed the bomb." Chinese="我装好炸弹了。" />
+  <LanguageData Keyword="DIALOGUE_059" English="Good job, now find a safe place." Chinese="很好，现在找个安全的地方。" />
+  <LanguageData Keyword="DIALOGUE_060" English="Booooom, haha!" Chinese="咔嘣，哈哈！" />
+  <LanguageData Keyword="DIALOGUE_061" English="Shopping time! Want some dumplings?" Chinese="购物时间，各位要来点饺子么？" />
+  <LanguageData Keyword="DIALOGUE_062" English="Well done. Now bring the food back." Chinese="干得好，现在快把食物带回来。" />
+  <LanguageData Keyword="DIALOGUE_063" English="Be fast. The explosion had alarmed the zombies." Chinese="动作快，爆炸已经惊动了尸群。" />
+  <LanguageData Keyword="DIALOGUE_064" English="Damn, that is Spitter!" Chinese="该死，那是&quot;毒液”！" />
+  <LanguageData Keyword="DIALOGUE_065" English="I can't get it close to the base." Chinese="我们不能让它靠近基地。" />
+  <LanguageData Keyword="DIALOGUE_066" English="Go back to the base, you can't stop the zombies yourself." Chinese="快回基地，你一个人阻止不了尸群。" />
+  <LanguageData Keyword="DIALOGUE_067" English="Just tracked the signal of Monica. Come with me." Chinese="追踪到莫妮卡的信号了，跟我来。" />
+  <LanguageData Keyword="DIALOGUE_068" English="God, this is Monica's radio." Chinese="天啦，这是莫妮卡的无线电。" />
+  <LanguageData Keyword="DIALOGUE_069" English="She must be alive. Follow me." Chinese="他一定还活着，跟我来。" />
+  <LanguageData Keyword="DIALOGUE_070" English="She is there!" Chinese="他在那！" />
+  <LanguageData Keyword="DIALOGUE_071" English="She needs treatment. Cover me!" Chinese="他需要治疗，掩护我。" />
+  <LanguageData Keyword="DIALOGUE_072" English="Thank God, I thought I was dead." Chinese="感谢上帝，我以为死定了。" />
+  <LanguageData Keyword="DIALOGUE_073" English="I just marked the location and now I'll go to install the turret." Chinese="我已经标记出位置，现在去安装炮台。" />
+  <LanguageData Keyword="DIALOGUE_074" English="Just installed one, there's only one to finish." Chinese="一个完成，还剩一个。" />
+  <LanguageData Keyword="DIALOGUE_075" English="We also need gasoline to start motor." Chinese="我们还需要汽油启动电机。" />
+  <LanguageData Keyword="DIALOGUE_076" English="The show begins! Sing it, baby!" Chinese="演出开始！唱起来吧宝贝们！" />
+  <LanguageData Keyword="DIALOGUE_077" English="The subway was closed. Find the way to get in." Chinese="地铁被关闭了，找到进去的方法。" />
+  <LanguageData Keyword="DIALOGUE_078" English="The facilities here are still in operation, but there are quite a few zombies." Chinese="这里的设施还在运作，不过僵尸可不少。" />
+  <LanguageData Keyword="DIALOGUE_079" English="Find the console so that I can hack into the control center." Chinese="找到控制台，我才能黑进控制中心。" />
+  <LanguageData Keyword="DIALOGUE_080" English="I've hacked in. Open Sesame!" Chinese="我黑进来了，芝麻开门！" />
+  <LanguageData Keyword="DIALOGUE_081" English="I found the train and opened the door." Chinese="我找到列车了，快打开车门。" />
+  <LanguageData Keyword="DIALOGUE_082" English="Damn, I need a little time." Chinese="该死，我需要一点时间。" />
+  <LanguageData Keyword="DIALOGUE_083" English="Still not finished? I can't hold it anymore!" Chinese="还没好么？我快坚持不住了！" />
+  <LanguageData Keyword="DIALOGUE_084" English="Almost there!" Chinese="就差一点了！" />
+  <LanguageData Keyword="DIALOGUE_085" English="Done! Just go to the control room and start the train!" Chinese="完成了，快去控制室启动列车！" />
+  <LanguageData Keyword="DIALOGUE_086" English="Hold on, the hell train starts!" Chinese="坐稳扶牢，地狱列车发动！" />
+  <LanguageData Keyword="DIALOGUE_087" English="The train is shaking. Let's check each carriage." Chinese="列车一直在晃动，检查下每个车厢。" />
+  <LanguageData Keyword="DIALOGUE_088" English="Hell! We're not the only passengers on the train!" Chinese="见鬼！车上的乘客可不止我们。" />
+  <LanguageData Keyword="DIALOGUE_089" English="Hurry up, the train may derail at any time!" Chinese="快点，列车随时可能脱轨！" />
+  <LanguageData Keyword="DIALOGUE_090" English="Quiet, I am busy." Chinese="安静，我正忙着。" />
+  <LanguageData Keyword="DIALOGUE_091" English="There is a big guy at the end of the train." Chinese="该死，车尾有个大家伙。" />
+  <LanguageData Keyword="DIALOGUE_092" English="The explosion made a mess here." Chinese="爆炸把这里弄得一团糟。" />
+  <LanguageData Keyword="DIALOGUE_093" English="I need some parts to fix here. Let's have a look at the repair channel." Chinese="我需要一些零件，去维修通道找找。" />
+  <LanguageData Keyword="DIALOGUE_094" English="I found the parts." Chinese="我找到零件了。" />
+  <LanguageData Keyword="DIALOGUE_095" English="Come back! We were besieged by zombies." Chinese="快回来，我们遭到丧尸围攻了。" />
+  <LanguageData Keyword="DIALOGUE_096" English="I need some time. Cover me." Chinese="我需要点时间，保护我。" />
+  <LanguageData Keyword="DIALOGUE_097" English="Nailed it. Start the train now!" Chinese="搞定了，快启动列车！" />
+  <LanguageData Keyword="DIALOGUE_098" English="Dead end. We are trapped." Chinese="死胡同，我们被困住了。" />
+  <LanguageData Keyword="DIALOGUE_099" English="Get in from the pit lane and you can only walk on foot." Chinese="从维修通道绕过去，只能徒步前进。" />
+  <LanguageData Keyword="DIALOGUE_100" English="Beware of the train!" Chinese="小心列车！" />
+  <LanguageData Keyword="DIALOGUE_101" English="Don't be hit, you gonna die." Chinese="见鬼！被撞到就死定。" />
+  <LanguageData Keyword="DIALOGUE_102" English="The staff lounge should have a subway plan." Chinese="员工休息室应该有地铁规划图。" />
+  <LanguageData Keyword="DIALOGUE_103" English="Without a map, we can only wander around." Chinese="没有地图我们只能瞎转悠。" />
+  <LanguageData Keyword="DIALOGUE_104" English="I was blocked by the fence door." Chinese="我被栅栏门挡住了。" />
+  <LanguageData Keyword="DIALOGUE_105" English="Search if there's a key nearby." Chinese="找找附近有没有钥匙。" />
+  <LanguageData Keyword="DIALOGUE_106" English="Not here." Chinese="不在这。" />
+  <LanguageData Keyword="DIALOGUE_107" English="No keys, but I found a computer." Chinese="没有钥匙，但是我找到一台电脑。" />
+  <LanguageData Keyword="DIALOGUE_108" English="Wait, I try to hack in." Chinese="等等，我试试黑进去。" />
+  <LanguageData Keyword="DIALOGUE_109" English="Get it, the door is open." Chinese="搞定，门开了。" />
+  <LanguageData Keyword="DIALOGUE_110" English="The next station is the exit of the city center." Chinese="下个站台就是市中心的出口。" />
+  <LanguageData Keyword="DIALOGUE_111" English="The long underground life comes to an end finally." Chinese="漫长的地下生活就要结束了。" />
+  <LanguageData Keyword="DIALOGUE_112" English="Poor guy." Chinese="可怜的家伙。" />
+  <LanguageData Keyword="DIALOGUE_113" English="Help me open the door to the waiting room." Chinese="帮我打开通往候车厅的门。" />
+  <LanguageData Keyword="DIALOGUE_114" English="Just one more minute." Chinese="给我一点时间。" />
+  <LanguageData Keyword="DIALOGUE_115" English="The door is open. Let's go!" Chinese="门开了，快走。" />
+  <LanguageData Keyword="DIALOGUE_116" English="Welcome to Palm." Chinese="欢迎来到棕榈市。" />
+  <LanguageData Keyword="DIALOGUE_117" English="The Survivor Base is not far from here. Come with me." Chinese="幸存者基地离这不远，快跟我来。" />
+  <LanguageData Keyword="DIALOGUE_118" English="Moment please." Chinese="稍等一会。" />
+  <LanguageData Keyword="DIALOGUE_119" English="Opened. Let's go." Chinese="打开了，快走。" />
+  <LanguageData Keyword="DIALOGUE_120" English="The disaster devitalized the city gradually." Chinese="灾难发生后，这个城市就失去了生命。" />
+  <LanguageData Keyword="DIALOGUE_121" English="This is the sweet home." Chinese="就是这，甜蜜的家。" />
+  <LanguageData Keyword="DIALOGUE_122" English="I need time to open the door. Wait." Chinese="我需要点时间开门，等我一会。" />
+  <LanguageData Keyword="DIALOGUE_123" English="The zombies are coming up. Hurry up!" Chinese="丧尸围上来了，快点。" />
+  <LanguageData Keyword="DIALOGUE_124" English="The door is open, come over!" Chinese="门开了，快过来！" />
+  <LanguageData Keyword="DIALOGUE_125" English="Just hold on!" Chinese="坚持住！" />
+  <LanguageData Keyword="DIALOGUE_126" English="Set smoke signal in these places." Chinese="在这些地方设置信号烟雾。" />
+  <LanguageData Keyword="DIALOGUE_127" English="I hope that survivors can see it." Chinese="希望有幸存者能看见。" />
+  <LanguageData Keyword="DIALOGUE_128" English="Just completed one. Only two are left." Chinese="一个完成，还剩两个。" />
+  <LanguageData Keyword="DIALOGUE_129" English="The last one." Chinese="还剩最后一个。" />
+  <LanguageData Keyword="DIALOGUE_130" English="All done. I hope this will work." Chinese="全部完成，希望这能起效。" />
+  <LanguageData Keyword="DIALOGUE_131" English="We arrived. Just found some gasoline here." Chinese="我们到了，这里还有些汽油。" />
+  <LanguageData Keyword="DIALOGUE_132" English="Great, we need some empty oil drums." Chinese="很好，我们需要一些空油桶。" />
+  <LanguageData Keyword="DIALOGUE_133" English="These should be enough to use." Chinese="这些应该足够我们用的了。" />
+  <LanguageData Keyword="DIALOGUE_134" English="Now check the gas station." Chinese="现在去检查下加油站，快点。" />
+  <LanguageData Keyword="DIALOGUE_135" English="Kill it! Or the gas station will be destroyed!" Chinese="干掉它！别让它毁了加油站！" />
+  <LanguageData Keyword="DIALOGUE_136" English="Thank God. We need to load with oil and returned to the car." Chinese="感谢上帝，快装满油带回车上。" />
+  <LanguageData Keyword="DIALOGUE_137" English="It's time to install the bomb." Chinese="该去安装炸弹了。" />
+  <LanguageData Keyword="DIALOGUE_138" English="Find gasoline and start the generator. Nothing new." Chinese="找到汽油，启动发电机，毫无新意。" />
+  <LanguageData Keyword="DIALOGUE_139" English="Stand aside please, big guy." Chinese="让一让，大家伙。" />
+  <LanguageData Keyword="DIALOGUE_140" English="It takes time to open the door. Cover me." Chinese="打开门需要点时间，保护我。" />
+  <LanguageData Keyword="DIALOGUE_141" English="Finished. Time to go back to the ground." Chinese="完成，该回地面了。" />
+  <LanguageData Keyword="DIALOGUE_142" English="Overturn the wreckage of the army tank." Chinese="翻翻军队坦克的残骸。" />
+  <LanguageData Keyword="DIALOGUE_143" English="Maybe you can find clues to all of this." Chinese="也许能找到这一切的线索。" />
+  <LanguageData Keyword="DIALOGUE_144" English="Be careful! A group of zombie is coming!" Chinese="小心，又来了一群！" />
+  <LanguageData Keyword="DIALOGUE_145" English="I need time to fix it. Don't let the zombies approach me." Chinese="我需要时间修好它，别让丧尸靠近我。" />
+  <LanguageData Keyword="DIALOGUE_146" English="Great!  It works." Chinese="完成，它开始工作了。" />
+  <LanguageData Keyword="DIALOGUE_147" English="I found the wrecked helicopter." Chinese="找到失事直升机了。" />
+  <LanguageData Keyword="DIALOGUE_148" English="Check it before the zombies' coming." Chinese="在丧尸围上来前检查下。" />
+  <LanguageData Keyword="DIALOGUE_149" English="The driver is dead, but I found the black box." Chinese="驾驶员死了，不过我找到了黑匣子。" />
+  <LanguageData Keyword="DIALOGUE_150" English="Very good, now let's take the original way back." Chinese="很好，现在原路返回。" />
+  <LanguageData Keyword="DIALOGUE_151" English="Are you sure that this car can still move?" Chinese="你确定这辆烂车还能动？" />
+  <LanguageData Keyword="DIALOGUE_152" English="I can revive it in less than two minutes. " Chinese="用不了两分 钟，我能让它复活。" />
+  <LanguageData Keyword="DIALOGUE_153" English="Haha! Nailed it." Chinese="哈哈！搞定了。" />
+  <LanguageData Keyword="DIALOGUE_154" English="We are surrounded!" Chinese="我们被包围了！" />
+  <LanguageData Keyword="DIALOGUE_155" English="Thank God, I thought I was the only one left." Chinese="谢天谢地，我还以为只剩我一个了。" />
+  <LanguageData Keyword="DIALOGUE_156" English="That's it, the subway station is just across the roadblock." Chinese="就是这，地铁站就在路障对面。" />
+  <LanguageData Keyword="DIALOGUE_157" English="The console can remove the roadblock and protect me." Chinese="控制台可以打开路障，保护我。" />
+  <LanguageData Keyword="DIALOGUE_158" English="I need some time to restart it." Chinese="我需要点时间重启它。" />
+  <LanguageData Keyword="DIALOGUE_159" English="Finished, the door opened." Chinese="完成，门开啦。" />
+  <LanguageData Keyword="DIALOGUE_160" English="We cannot leave these supplies." Chinese="我们不能丢下这些物资。" />
+  <LanguageData Keyword="DIALOGUE_161" English="Move them to the train and hurry." Chinese="快把它们搬到车上，抓紧时间。" />
+  <LanguageData Keyword="DIALOGUE_162" English="This is really heavy." Chinese="天，这可真重。" />
+  <LanguageData Keyword="DIALOGUE_163" English="Damn, I don't have time to entertain it." Chinese="该死，我可没时间招待它。" />
+  <LanguageData Keyword="DIALOGUE_164" English="This is the last chest." Chinese="这是最后一箱了。" />
+  <LanguageData Keyword="DIALOGUE_165" English="Go to start the train now." Chinese="现在去启动列车。" />
+  <LanguageData Keyword="DIALOGUE_166" English="Goodbye, Palm." Chinese="再见了，棕榈市。" />
+  <LanguageData Keyword="DIALOGUE_167" English="Be careful! The passengers turned into zombies." Chinese="小心！乘客都变成是僵尸了。" />
+  <LanguageData Keyword="DIALOGUE_168" English="Hi bro!Help me!" Chinese="兄弟！帮个忙！" />
+  <LanguageData Keyword="DIALOGUE_169" English="Sorry, my bullets are running out." Chinese="抱歉，我也没多少子弹了。" />
+  <LanguageData Keyword="DIALOGUE_170" English="Let's make a deal!If you help me kill these zombies, I will send you some ammunition!" Chinese="我们做个交易，你帮我搞定僵尸，我送你一些军火。" />
+  <LanguageData Keyword="DIALOGUE_171" English="All right.I will leave some bullets to ensure that you keep your promises." Chinese="可以，我会留一些子弹来保证你说话算话。" />
+  <LanguageData Keyword="DIALOGUE_172" English="Now you can fulfill your promise." Chinese="现在你可以兑现你的诺言了。" />
+  <LanguageData Keyword="DIALOGUE_173" English="Don't worry,bro.I am a black market businessman.We always keep our promises." Chinese="兄弟不要急，我是一名黑市商人，叫做Anthony,你知道我们一向信守承诺。" />
+  <LanguageData Keyword="DIALOGUE_174" English="Frank。" Chinese="Frank。" />
+  <LanguageData Keyword="DIALOGUE_175" English="follow me.My brother and I are separated.Let's find some ammunition first." Chinese="你跟我来，我和我的保安队长走散了。我们运输物资的车辆就在前面，先去那边拿一些补给。" />
+  <LanguageData Keyword="DIALOGUE_176" English="Don't play tricks." Chinese="我会一直注意你的。" />
+  <LanguageData Keyword="DIALOGUE_177" English="We must solve these troubles。hurry up!Using fragmentation grenade!" Chinese="我们必须解决这些麻烦。给，这是破片手榴弹。" />
+  <LanguageData Keyword="DIALOGUE_178" English="OK" Chinese="OK" />
+  <LanguageData Keyword="DIALOGUE_179" English="Damn!Police car siren rang！" Chinese="该死！这警车警报器怎么响了！" />
+  <LanguageData Keyword="DIALOGUE_180" English="Ready to fight." Chinese="准备作战吧。" />
+  <LanguageData Keyword="DIALOGUE_181" English="There are ammunition here.Free to use!" Chinese="弹药在这里，免费派送！" />
+  <LanguageData Keyword="DIALOGUE_182" English="Thanks bro.This gun is a reward for you.Here's some ammunition. You can take it." Chinese="兄弟谢了，这把枪就当是给你的报酬，这里还有些弹药，你能拿多少就拿多少。" />
+  <LanguageData Keyword="DIALOGUE_183" English="Thank you. What do you plan to do next?" Chinese="谢谢，你之后有什么打算？" />
+  <LanguageData Keyword="DIALOGUE_184" English="I'm going to find my brother.If you can help me, I will give you a handsome reward." Chinese="我要找到和我一起来收货的兄弟，如果你能来帮忙，我一定给你丰厚的报酬。" />
+  <LanguageData Keyword="DIALOGUE_185" English="All right." Chinese="一言为定！" />
+  <LanguageData Keyword="DIALOGUE_186" English="The emergency contact point is here.The front is our warehouse." Chinese="应急联络点就在这里，你去仓库看看。" />
+  <LanguageData Keyword="DIALOGUE_187" English="You can get some materials from the warehouse.I'll be waiting for you here." Chinese="仓库有不少物资，有需要的话可以随便拿。我在这里等你。" />
+  <LanguageData Keyword="DIALOGUE_188" English="All right." Chinese="好的。" />
+  <LanguageData Keyword="DIALOGUE_189" English="Put the gun down." Chinese="放下枪，举起手!" />
+  <LanguageData Keyword="DIALOGUE_190" English="..." Chinese="。。。" />
+  <LanguageData Keyword="DIALOGUE_191" English="Stop!Stop!Stop, dawn, he's not the enemy!" Chinese="停下!停下!停下，道恩，他不是敌人！" />
+  <LanguageData Keyword="DIALOGUE_192" English="Put that gun down, dawn. He's not an enemy." Chinese="快把枪放下，道恩，他不是敌人。" />
+  <LanguageData Keyword="DIALOGUE_193" English="Let's say goodbye here.Next we need to deal with something." Chinese="那么我们就在这里道别吧。接下来我们需要去处理一些事情。" />
+  <LanguageData Keyword="DIALOGUE_194" English="If you need anything in the future, you can come to City C to find me." Chinese="以后如果有什么需要的话你可以来C市找我。" />
+  <LanguageData Keyword="DIALOGUE_195" English="All right, if I go to City C." Chinese="好的，如果我去C市的话。" />
+  <LanguageData Keyword="DIALOGUE_196" English="Hi bro.I didn't get your name?" Chinese="对了，兄弟，我还不知道你叫什么。" />
+  <LanguageData Keyword="DIALOGUE_197" English="Frank。" Chinese="Frank。" />
+  <LanguageData Keyword="DIALOGUE_198" English="Frank？My name is Dowen.Good luck." Chinese="Frank？。。。哦，我叫Dowen，很高兴认识你，那么祝你好运！" />
+  <LanguageData Keyword="DIALOGUE_199" English="..." Chinese="。。。" />
+  <LanguageData Keyword="DIALOGUE_200" English="The door is locked. Go and look for the keys nearby." Chinese="门被锁住了，去附近找找钥匙。" />
+  <LanguageData Keyword="DIALOGUE_201" English="The key is found. Go back and open the door." Chinese="钥匙找到了，回去开门吧。" />
+  <LanguageData Keyword="DIALOGUE_202" English="There's no road ahead.Go around the alley" Chinese="没路了，从巷子里绕过去吧。" />
+  <LanguageData Keyword="DIALOGUE_203" English="Dawn!This door is an electronic door!" Chinese="这玩意居然是电子门！" />
+  <LanguageData Keyword="DIALOGUE_204" English="lucky!ID card is right next to it." Chinese="嗯！ID卡就在旁边。。。朋友，借用一下。" />
+  <LanguageData Keyword="DIALOGUE_205" English="Dawn!The generator has no electricity.I need some fuel to start the generator." Chinese="该死！没电了！找些燃料来启动发电机。" />
+  <LanguageData Keyword="DIALOGUE_206" English="Dawn!I was surrounded!" Chinese="该死！被困住了！" />
+  <LanguageData Keyword="DIALOGUE_207" English="Ha!Zombie ward!" Chinese="僵尸病房？" />
+  <LanguageData Keyword="DIALOGUE_208" English="Ha!Do zombies need surgery?？" Chinese="哈！僵尸也需要做手术？" />
+  <LanguageData Keyword="DIALOGUE_209" English="I finally found the pharmacy.Oh!It seems that there are zombies to welcome me." Chinese="终于找到药房了。。。看来还有僵尸来欢迎我。" />
+  <LanguageData Keyword="DIALOGUE_604.1" English="Frank, let's split up. I'll go check the first floor." Chinese="Frank，我们两个分头行动，我先去一楼看一下。" />
+  <LanguageData Keyword="DIALOGUE_604.2" English="The files Dr.Andrea left should be in her lab. You can try to find the entrance to the lab." Chinese="Andrea博士留下的文件应该在她实验室里，你看看能否找到入口。" />
+  <LanguageData Keyword="DIALOGUE_604.3" English="Be careful when you search the second floor. You'd better steer clear of some zombies. Good luck!" Chinese="你在二层搜索时候尽量小心点，有些丧尸能绕开就尽量绕开，祝你好运！" />
+  <LanguageData Keyword="DIALOGUE_604.4" English="OK, good luck!" Chinese="好的，祝你好运！" />
+  <LanguageData Keyword="DIALOGUE_605" English="Damn it!" Chinese="我操，该死的！" />
+  <LanguageData Keyword="DIALOGUE_601.1" English="This hospital is close to the outbreak point. Our target is to find the files Dr.Andrea left." Chinese="这所医院里离爆发点比较接近，我们的目标是找到Andrea博士研究文件。" />
+  <LanguageData Keyword="DIALOGUE_601.2" English="You'd better hurry up and leave here as soon as possible. Follow me." Chinese="最好动作快点然后赶紧撤离。跟我来。" />
+  <LanguageData Keyword="DIALOGUE_602.1" English="Hmmm… I can't open the door." Chinese="啧，正门打不开。" />
+  <LanguageData Keyword="DIALOGUE_602.2" English="It seems that I can only get out from the emergency exit." Chinese="看来只能从紧急出口绕一下了。" />
+  <LanguageData Keyword="DIALOGUE_603.1" English="Oh shit! There are more zombies in the hall! I should have thought of that!" Chinese="妈的！我早该想到的大厅会有更多的丧尸！" />
+  <LanguageData Keyword="DIALOGUE_603.2" English="Let's get rid of these first!" Chinese="先干掉眼前的这些！" />
+  <LanguageData Keyword="DIALOGUE_606" English="Not here. Go check the other side." Chinese="看来不是这里，去另一边看看吧。" />
+  <LanguageData Keyword="DIALOGUE_607.1" English="Damn butcher!" Chinese="该死的屠夫！" />
+  <LanguageData Keyword="DIALOGUE_607.2" English="Still not here. Go see the Consulting Room." Chinese="看来不是这边，去边上的诊疗室看看吧。" />
+  <LanguageData Keyword="DIALOGUE_608.1" English="Frank! Come help me!" Chinese="Frank!快来帮帮我！" />
+  <LanguageData Keyword="DIALOGUE_608.2" English="What! What happened?" Chinese="什么？出什么状况了？" />
+  <LanguageData Keyword="DIALOGUE_608.3" English="I'm in the lab on the third floor of the underground. Out the door is the poisonous gas. Zombies are behind me! I can't hold it anymore!" Chinese="我在地下三层的实验室这里，门口有毒气，后面有丧尸，我快撑不住了！" />
+  <LanguageData Keyword="DIALOGUE_608.4" English="Hold on! I'm in the hall of the ground floor. I'll be there right now!" Chinese="坚持住！我在一层大厅，我马上就到！" />
+  <LanguageData Keyword="DIALOGUE_609.1" English="The damn elevator is finally here!" Chinese="这该死的电梯终于来了！" />
+  <LanguageData Keyword="DIALOGUE_609.2" English="Hold on! Hold on Anthony! Here I am!" Chinese="坚持住，坚持住！Anthony我来了！" />
+  <LanguageData Keyword="DIALOGUE_610.1" English="It seems that there's one elevator available." Chinese="看起来还有一部电梯可使用。" />
+  <LanguageData Keyword="DIALOGUE_610.2" English="I have to hold on for 30 seconds until the elevator resumes running!" Chinese="电梯恢复运行还需要三十秒我必须撑下去！" />
+  <LanguageData Keyword="DIALOGUE_55001_1" English="Anthony! Where are you?" Chinese="Anthony!你在什么位置？" />
+  <LanguageData Keyword="DIALOGUE_55001_2" English="I'm safe now and I've got the report. I found that there're bio-chemistry petri dishes on the floor you stay." Chinese="我已经拿到资料了,我发现你所处的那一层有生化培养皿。" />
+  <LanguageData Keyword="DIALOGUE_55001_3" English="I'm not convenient now. You need to help destroy that floor." Chinese="我现在不方便,你需要帮我把那一层摧毁掉。" />
+  <LanguageData Keyword="DIALOGUE_55001_4" English="Sure. See you later!" Chinese="可以，待会联系。" />
+  <LanguageData Keyword="DIALOGUE_53001_1" English="Damn! I can't find Anthony! But the hospital is crumbling. I need to get out of here right now." Chinese="该死的，找不到Anthony。但是现在医院快要塌了，我必须快点逃离这里。" />
+  <LanguageData Keyword="DIALOGUE_624.1" English="Goddamn it, it finally escaped.I don't know how Anthony is doing. There's something wrong with it." Chinese="该死的，终于逃出来了，也不知道Anthony怎么样了，这件事有些不对劲。。。" />
+  <LanguageData Keyword="DIALOGUE_624.2" English="... Hello? Frank, how is your situation now?" Chinese="呲呲......喂？Frank，你那边现在情况如何？" />
+  <LanguageData Keyword="DIALOGUE_624.3" English="Amy? The situation is worse. Wait till we meet again. I am now in H City, and I will go back to Q city through the underground railway." Chinese="Amy？情况比较糟糕，等见面再说吧。我现在在H市，等会通过地下铁路回Q市。" />
+  <LanguageData Keyword="DIALOGUE_624.4" English="OK, I'll be waiting for you in the first place. Please be careful." Chinese="好的，我会在另一头等你，请小心。" />
+  <LanguageData Keyword="DIALOGUE_625.1" English="Dowen? Why are you here?" Chinese="Dowen?你怎么来了？" />
+  <LanguageData Keyword="DIALOGUE_625.2" English="I got your news before coming to H city. I happened to be in the neighborhood and pick you up. What about Anthony?" Chinese="我之前得到你们来H市的消息，正好我在附近，顺便过来接你们。Anthony呢？" />
+  <LanguageData Keyword="DIALOGUE_625.3" English="The situation is more complicated, and Anthony is missing. Find a safe place first and I'll tell you more about it." Chinese="情况比较复杂，Anthony不见了。先找个安全的地方我再跟你细说。" />
+  <LanguageData Keyword="DIALOGUE_625.4" English="Let's go first. The building through the back is my safety house." Chinese="那先走吧，穿过后面那栋大楼就到了我的安全屋了。" />
+  <LanguageData Keyword="DIALOGUE_626.1" English="Wait, it's not right!" Chinese="等等，情况不对！" />
+  <LanguageData Keyword="DIALOGUE_626.2" English="Damn! Damn! How come it suddenly comes out so much!" Chinese="该死！该死！怎么突然冒出这么多！" />
+  <LanguageData Keyword="DIALOGUE_626.3" English="Go! Step on it! Get out of the way!" Chinese="走！快走！往后面撤离！" />
+  <LanguageData Keyword="DIALOGUE_627.1" English="Just a moment, I'll relieve the threshold." Chinese="稍等，我来解除门限。" />
+  <LanguageData Keyword="DIALOGUE_627.2" English="Brother, hurry up, more and more zombies!" Chinese="兄弟快点，丧尸越来越多了！" />
+  <LanguageData Keyword="DIALOGUE_615.1" English="There's not much food and fresh water. We should go out and look for some." Chinese="食物和淡水不多了，该出去找一些了，" />
+  <LanguageData Keyword="DIALOGUE_615.2" English="Two zombies, I have to get ready. Maybe there will be more." Chinese="两只丧尸，我得做好准备也许之后还有更多。" />
+  <LanguageData Keyword="DIALOGUE_616" English="After the warm-up exercise, it's time to work hard." Chinese="热身运动做完，是时候干点正事了。" />
+  <LanguageData Keyword="DIALOGUE_617" English="I still need to find some ammunition." Chinese="看来我还需要去找一些弹药。" />
+  <LanguageData Keyword="DIALOGUE_618.1" English="The zombies are attracted." Chinese="丧尸都被吸引过来了！" />
+  <LanguageData Keyword="DIALOGUE_618.2" English="There are gunshots!" Chinese="有枪声！" />
+  <LanguageData Keyword="DIALOGUE_619.1" English="Someone was besieged by zombies!" Chinese="有人在被丧尸围攻！" />
+  <LanguageData Keyword="DIALOGUE_619.2" English="Please! Help me!" Chinese="拜托！帮个忙！" />
+  <LanguageData Keyword="DIALOGUE_620" English="Go find something." Chinese="去找点物资吧。" />
+  <LanguageData Keyword="DIALOGUE_621.1" English="My car is there, I cleaned up the nearby zombies, and ended up sending me a good thing." Chinese="我的车就在那里，先清理了附近的丧尸，结束了我送你个好东西。" />
+  <LanguageData Keyword="DIALOGUE_621.2" English="Yes, start acting." Chinese="可以，开始行动吧。" />
+  <LanguageData Keyword="DIALOGUE_622.1" English="Fragment grenade" Chinese="破片手榴弹了解下" />
+  <LanguageData Keyword="DIALOGUE_622.2" English="Okay, thank you." Chinese="好，谢谢。" />
+  <LanguageData Keyword="DIALOGUE_623" English="Take it, this is a good thank you." Chinese="拿去吧，这是说好的谢礼。" />
+  <LanguageData Keyword="DIALOGUE_264" English="There are gunshots in front of them, is it Anthony them." Chinese="前方有枪声，莫非是Anthony他们。" />
+  <LanguageData Keyword="DIALOGUE_265" English="Damn, the zombie blocked my way." Chinese="该死，僵尸挡住了我的去路" />
+  <LanguageData Keyword="DIALOGUE_266" English="Frank? Great, come over and help me kill these zombies." Chinese="Frank?太好了，快过来帮我干死这群僵尸。" />
+  <LanguageData Keyword="DIALOGUE_267" English="Where is Anthony, why is he not with you?" Chinese="Anthony呢，他怎么没跟你在一起？" />
+  <LanguageData Keyword="DIALOGUE_268" English="He and the other party went to get the goods, did not let me follow. It should be right in front." Chinese="他和对方的去拿货了，没让我跟着。应该就在前面。" />
+  <LanguageData Keyword="DIALOGUE_269" English="Anthony! You wait, I will come right away. Frank, cover me." Chinese="Anthony！你等下，我马上过来。Frank，帮我看着下。" />
+  <LanguageData Keyword="DIALOGUE_270" English="These bastards actually dare to hang me! I want to kill them!" Chinese="这帮孙子居然敢坑我！我™要弄死他们！啊！" />
+  <LanguageData Keyword="DIALOGUE_271" English="Dowen thank you for coming. Thank you, Frank." Chinese="Dowen幸亏你来的即时。也谢谢你了Frank。" />
+  <LanguageData Keyword="DIALOGUE_272" English="You are welcome." Chinese="不客气。" />
+  <LanguageData Keyword="DIALOGUE_273" English="I want the guys of the &quot;executive officer&quot; to pay the price!" Chinese="我要让“执行官”的那群家伙付出代价！" />
+  <LanguageData Keyword="DIALOGUE_274" English="If you are injured, just wait here, let's go." Chinese="你受伤了就在这等着吧，我们去开路。" />
+  <LanguageData Keyword="DIALOGUE_275" English="Ok." Chinese="好吧。" />
+  <LanguageData Keyword="DIALOGUE_276" English="Dowen! key!" Chinese="Dowen！钥匙！" />
+  <LanguageData Keyword="DIALOGUE_277" English="Lost in the car." Chinese="丢车里了。" />
+  <LanguageData Keyword="DIALOGUE_278" English="Damn it! Forget it, blow it up. cover me." Chinese="该死！算了，炸开吧。掩护我。" />
+  <LanguageData Keyword="DIALOGUE_279" English="Here, the front is my safe house, let's get some supplies." Chinese="这边，前面就是我的安全屋，我们去拿点补给。" />
+  <LanguageData Keyword="DIALOGUE_280" English="That's it, hurry up and replenish it." Chinese="就是这，快点补给吧。" />
+  <LanguageData Keyword="DIALOGUE_281" English="What are you going to do next, I am going to find Anthony." Chinese="接下来你打算怎么做，我要去找Anthony。" />
+  <LanguageData Keyword="DIALOGUE_282" English="I will go with you." Chinese="我和你一起去。" />
+  <LanguageData Keyword="DIALOGUE_283" English="Let me go, things are a bit evil, you should go with Amy first." Chinese="我自己去吧，事情有点邪门，你先去和Amy会和。" />
+  <LanguageData Keyword="DIALOGUE_284" English="Be careful." Chinese="那你小心点。" />
+  <LanguageData Keyword="DIALOGUE_285" English="Damn it! Someone ambushed me!" Chinese="该死！有人阴我！" />
+  <LanguageData Keyword="DIALOGUE_286" English="The door is open!" Chinese="门开了！" />
+  <LanguageData Keyword="DIALOGUE_287" English="Damn it! There are zombies, I have to escape to the subway!" Chinese="该死！还有僵尸，我得逃到地铁里去！" />
+  <LanguageData Keyword="DIALOGUE_288" English="Oh, Shit!" Chinese="哦，Shit!" />
+  <LanguageData Keyword="DIALOGUE_289" English="Someone wants to kill me, I have to get in touch with Amy!" Chinese="有人想干掉我，我得赶快和Amy取得联系！" />
+  <LanguageData Keyword="DIALOGUE_290" English="I have to find a way to get in touch with Amy." Chinese="我得想办法和Amy取得联系。" />
+  <LanguageData Keyword="DIALOGUE_291" English="This has a computer! Maybe I can use this computer to contact Amy." Chinese="一台电脑？或许我可以用这台电脑来联系Amy。" />
+  <LanguageData Keyword="DIALOGUE_292" English="...zi..." Chinese="嘶。。。嘶。。。" />
+  <LanguageData Keyword="DIALOGUE_293" English="Hey! Hey! Can someone hear it?" Chinese="喂！喂！有人能听到吗？" />
+  <LanguageData Keyword="DIALOGUE_294" English="Frank? Thank goodness, where are you now?" Chinese="Frank？谢天谢地，你现在在哪？" />
+  <LanguageData Keyword="DIALOGUE_295" English="I was trapped in the subway, and the zombies kept gathering towards me!" Chinese="我被困在地铁里，僵尸不停的朝我聚集！" />
+  <LanguageData Keyword="DIALOGUE_296" English="Someone wants to kill you, you are going to the exit, I will send someone to pick you up." Chinese="有人想利用僵尸除掉你，你快去1号出站口，我派人去接你。" />
+  <LanguageData Keyword="DIALOGUE_297" English="I have to find a way out." Chinese="我得找到出去的路。" />
+  <LanguageData Keyword="DIALOGUE_298" English="Damn it! The door is blocked!" Chinese="该死！门被挡住了！" />
+  <LanguageData Keyword="DIALOGUE_299" English="Haha! This zombie has a key!" Chinese="哈哈！这个僵尸身上有钥匙！" />
+  <LanguageData Keyword="DIALOGUE_300" English="You want to kill me! no way!" Chinese="想干掉我？没那么容易！" />
+  <LanguageData Keyword="DIALOGUE_301" English="Shit! I'm surrounded!" Chinese="Shit!被包围了！" />
+  <LanguageData Keyword="DIALOGUE_302" English="There's a way!" Chinese="这里有路！" />
+  <LanguageData Keyword="DIALOGUE_303" English="Ha! Wherever I go, zombies welcome me!" Chinese="哈！走到哪都有僵尸欢迎我！" />
+  <LanguageData Keyword="DIALOGUE_304" English="Another computer? Contact Amy and get some information." Chinese="又一台电脑？和Amy联系一下，了解些情况。" />
+  <LanguageData Keyword="DIALOGUE_305" English="...hiss...hiss..." Chinese="嘶。。。嘶。。。" />
+  <LanguageData Keyword="DIALOGUE_306" English="Amy, how are you doing there?" Chinese="Amy，你那边准备的怎么样？" />
+  <LanguageData Keyword="DIALOGUE_307" English="Those who pick you up are already in place." Chinese="接你的人已经就位了。" />
+  <LanguageData Keyword="DIALOGUE_308" English="OK" Chinese="OK" />
+  <LanguageData Keyword="DIALOGUE_309" English="Damn! These zombies are really chasing!" Chinese="该死！这些僵尸还真是穷追不舍！" />
+  <LanguageData Keyword="DIALOGUE_310" English="It's almost on the way to the exit." Chinese="就快到出口了。" />
+  <LanguageData Keyword="DIALOGUE_311" English="The road is blocked! I have to find the subway card!" Chinese="路被拦住了！我得找到地铁卡！" />
+  <LanguageData Keyword="DIALOGUE_312" English="Damn! Not this one!" Chinese="该死！不是这张！" />
+  <LanguageData Keyword="DIALOGUE_313" English="The subway card is not here!" Chinese="地铁卡不在这！" />
+  <LanguageData Keyword="DIALOGUE_314" English="I found it!!" Chinese="找到了！！" />
+  <LanguageData Keyword="DIALOGUE_315" English="Hi! Here it is! Finally, come on!" Chinese="喂！在这！终于来了，快上车！" />
+  <LanguageData Keyword="DIALOGUE_316" English="Want to surround me? Taste the bullet!" Chinese="想包围我？尝尝子弹的滋味吧！" />
+  <LanguageData Keyword="DIALOGUE_317" English="What is the taste of bullets, zombies?" Chinese="僵尸们，子弹的滋味如何？" />
+  <LanguageData Keyword="DIALOGUE_628" English="Well done!That's it. Take the needed supplies to the door first. " Chinese="做的好！就是这样，把需要的物资先拿到门口。" />
+  <LanguageData Keyword="DIALOGUE_629.1" English="Hurry back to C City, Dowen, you drive. " Chinese="赶快回C市吧，Dowen你来开车。" />
+  <LanguageData Keyword="DIALOGUE_629.2" English="OK。" Chinese="好。" />
+  <LanguageData Keyword="DIALOGUE_335" English="The base is in front, follow me." Chinese="基地就在前面，跟着我。" />
+  <LanguageData Keyword="DIALOGUE_336" English="OK。" Chinese="好。" />
+  <LanguageData Keyword="DIALOGUE_337" English="It seems that your base is not safe." Chinese="看来你们的基地并不安全。" />
+  <LanguageData Keyword="DIALOGUE_338" English="It's just a small accident." Chinese="这只是个小意外。" />
+  <LanguageData Keyword="DIALOGUE_339" English="Damn! This is a dead end!" Chinese="该死！这是一条死路！" />
+  <LanguageData Keyword="DIALOGUE_340" English="Excellent! There's a way!" Chinese="太好了！这里有路！" />
+  <LanguageData Keyword="DIALOGUE_341" English="I'll go ahead and see if there is any supply." Chinese="去前面找找看有没有补给。" />
+  <LanguageData Keyword="DIALOGUE_342" English="Oh shit!Butcher!" Chinese="该死！屠夫！" />
+  <LanguageData Keyword="DIALOGUE_343" English="Here again? It's endless. I have to get out of here!" Chinese="又来了！真是没完没了！我得赶紧离开这里！" />
+  <LanguageData Keyword="DIALOGUE_344" English="The jackpot! Two venom" Chinese="中大奖了！两只毒液" />
+  <LanguageData Keyword="DIALOGUE_345" English="Did I wash my face when I went out this morning? What a bad luck!" Chinese="我今天早上出门没洗脸吗？真倒霉！" />
+  <LanguageData Keyword="DIALOGUE_631" English="Finally arrive P city, first check the situation nearby." Chinese="终于到达了了P城，先查看一下附近的情况。" />
+  <LanguageData Keyword="DIALOGUE_632.1" English="To our brothers at the front.As the zombie siege grows more violent, the main door key to the second checkpoint is not lost." Chinese="致前线的兄弟们。由于丧尸围攻越加迅猛，为了防止第二关卡的正门钥匙丢失。" />
+  <LanguageData Keyword="DIALOGUE_632.2" English="So the spare key was placed in a small box at the temporary storage point on the right.Put it back in place after use." Chinese="所以将备用钥匙放在了右边的临时物资储存点的一个小箱子内。使用过后请放回原位。" />
+  <LanguageData Keyword="DIALOGUE_633" English="Need the fast food restaurant key" Chinese="需要【快餐店钥匙】" />
+  <LanguageData Keyword="DIALOGUE_634" English="Need [key 03]" Chinese="需要【钥匙03】" />
+  <LanguageData Keyword="DIALOGUE_635" English="Need [key 01]" Chinese="需要【钥匙01】" />
+  <LanguageData Keyword="DIALOGUE_636" English="Need [administrator ID] card" Chinese="需要【管理员ID】卡" />
+  <LanguageData Keyword="DIALOGUE_637" English="Obtained the fast food restaurant key" Chinese="获得了【快餐店钥匙】" />
+  <LanguageData Keyword="DIALOGUE_638" English="Got [key 03]" Chinese="获得了【钥匙03】" />
+  <LanguageData Keyword="DIALOGUE_639" English="Got [key 01]" Chinese="获得了【钥匙01】" />
+  <LanguageData Keyword="DIALOGUE_640" English="The [administrator ID] card was obtainedcard" Chinese="获得了【管理员ID】卡" />
+  <LanguageData Keyword="DIALOGUE_641" English="Explore the current area and find the way to the heart of the shelter." Chinese="探索当前的区域，找到通往避难所中心的路。" />
+  <LanguageData Keyword="DIALOGUE_642.1" English="Notice;The recent influx of zombies from M city is increasing" Chinese="通告；近日从M市涌来的丧尸越来越多。" />
+  <LanguageData Keyword="DIALOGUE_642.2" English="After discussion, it was decided to abandon the second stronghold and go to the third" Chinese="经过讨论，决定放弃第二据点，前往第三据点。" />
+  <LanguageData Keyword="DIALOGUE_642.5" English="The doors to the other two evacuation points are temporarily closed except for the stairs" Chinese="除楼梯外另外两个撤离点的大门暂时关闭" />
+  <LanguageData Keyword="DIALOGUE_642.4" English="The emergency staircase keys on the second floor are on the top of the building." Chinese="二层的应急楼梯钥匙放在了楼顶的据点台子上。" />
+  <LanguageData Keyword="DIALOGUE_642.3" English="It is recommended that everyone evacuate from the second floor and try to recover materials when evacuating." Chinese="建议大家从二层的应急撤离，撤离的时尽量回收物资。" />
+  <LanguageData Keyword="DIALOGUE_643" English="The door won't open from this side" Chinese="这扇门从这边打不开" />
+  <LanguageData Keyword="DIALOGUE_644" English="Now it's time to put down the emergency stairway" Chinese="现在可以放下应急通道的楼梯了" />
+  <LanguageData Keyword="DIALOGUE_645" English="Now you can open the back door of the restaurant" Chinese="现在可以打开餐厅的后门了" />
+  <LanguageData Keyword="DIALOGUE_646" English="Now you can open the back door" Chinese="现在可以打开后门了" />
+  <LanguageData Keyword="DIALOGUE_647" English="Now you can open the storeroom" Chinese="现在可以打开储藏室了" />
+  <LanguageData Keyword="TEST_28" English="null" Chinese="怪物名称和描述" />
+  <LanguageData Keyword="ENEMY_NAME_01" English="null" Chinese="普通僵尸" />
+  <LanguageData Keyword="ENEMY_NAME_02" English="null" Chinese="快速僵尸" />
+  <LanguageData Keyword="ENEMY_NAME_03" English="null" Chinese="护盾僵尸" />
+  <LanguageData Keyword="ENEMY_NAME_04" English="null" Chinese="长手僵尸" />
+  <LanguageData Keyword="ENEMY_NAME_05" English="null" Chinese="重装精英" />
+  <LanguageData Keyword="ENEMY_NAME_06" English="null" Chinese="自爆精英" />
+  <LanguageData Keyword="ENEMY_NAME_07" English="null" Chinese="远程精英" />
+  <LanguageData Keyword="ENEMY_NAME_08" English="null" Chinese="暴君BOSS" />
+  <LanguageData Keyword="ENEMY_NAME_09" English="null" Chinese="自爆BOSS" />
+  <LanguageData Keyword="ENEMY_NAME_10" English="null" Chinese="大刀BOSS" />
+  <LanguageData Keyword="ENEMY_DES_01" English="null" Chinese="普通僵尸" />
+  <LanguageData Keyword="ENEMY_DES_02" English="null" Chinese="快速僵尸" />
+  <LanguageData Keyword="ENEMY_DES_03" English="null" Chinese="护盾僵尸" />
+  <LanguageData Keyword="ENEMY_DES_04" English="null" Chinese="长手僵尸" />
+  <LanguageData Keyword="ENEMY_DES_05" English="null" Chinese="重装精英" />
+  <LanguageData Keyword="ENEMY_DES_06" English="null" Chinese="自爆精英" />
+  <LanguageData Keyword="ENEMY_DES_07" English="null" Chinese="远程精英" />
+  <LanguageData Keyword="ENEMY_DES_08" English="null" Chinese="暴君BOSS" />
+  <LanguageData Keyword="ENEMY_DES_09" English="null" Chinese="自爆BOSS" />
+  <LanguageData Keyword="ENEMY_DES_10" English="null" Chinese="大刀BOSS" />
+  <LanguageData Keyword="ERROR_COMPENSATE" English="Update Compensation" Chinese="更新补偿" />
+  <LanguageData Keyword="DAILY_LIMITED_TITLE" English="DAILY LIMIT" Chinese="每日限定" />
+  <LanguageData Keyword="DAILY_LIMITED_TIP" English="YOU CAN BUY ONCE EVERYDAY" Chinese="每天可以购买一次" />
+  <LanguageData Keyword="TEST_29" English="备用" Chinese="备用" />
+  <LanguageData Keyword="RECEIVE" English="RECEIVE" Chinese="领取" />
+  <LanguageData Keyword="COMPLETE" English="COMPLETE" Chinese="完成" />
+  <LanguageData Keyword="SEE_DETAILS" English="See Details" Chinese="查看详情" />
+  <LanguageData Keyword="DIALOGUE_630" English="The zombies are coming. Hold on!" Chinese="丧尸围上来了，坚持住！" />
+  <LanguageData Keyword="SCOPE_SLIDER_DESC" English="ZOOM" Chinese="缩放" />
+  <LanguageData Keyword="SNIPE_INTRO_PAGE_BTN" English="CONFIRM" Chinese="确定" />
+  <LanguageData Keyword="SNIPE_INTRO_PAGE_TARGET" English="TARGET" Chinese="目标" />
+</LanguageDatas>

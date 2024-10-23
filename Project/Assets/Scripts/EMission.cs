@@ -1,0 +1,13 @@
+using System;
+
+public enum EMission
+{
+	NONE = -1,
+	KILL_ENEMY,
+	PROTECT_NPC,
+	TRANSPORT_ITEM,
+	HOLD_IN_POSITION,
+	REACH_POSITION,
+	COLLECT_ITEM,
+	KILL_WAVE
+}

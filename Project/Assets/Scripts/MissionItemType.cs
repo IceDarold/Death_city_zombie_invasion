@@ -1,0 +1,11 @@
+using System;
+
+public enum MissionItemType
+{
+	TRANSPORT_ITEM,
+	TRANSPORT_SUBMIT,
+	HOLD_TARGET,
+	REACH_TARGET,
+	COLLIECT_ITEM,
+	NPC_PATHPOINT
+}

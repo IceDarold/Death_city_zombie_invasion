@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: b1f2c6f17c85f7e4eb5d9da71ec9244a
+  - enabled: 1
+    path: Assets/Scenes/loading.unity
+    guid: 4ed8d81b3b9c78c498c3448e5d3bcd36
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 70c3ce2e69d406d4c87a74ff7dbfb5a6
+  - enabled: 1
+    path: Assets/Demo_ChengShi/SceneCity.unity
+    guid: 0d48f3e2a6fc8594890111199d61458f
+  - enabled: 1
+    path: Assets/Demo_DiTie/Demo_DiTie_Scene_02_03.unity
+    guid: 6f2868a74f5f6ba45beac31e0983a250
+  - enabled: 1
+    path: Assets/Demo_DiTie/Demo_DiTie_Scene_01_06.unity
+    guid: 4ddca1d382304754ba897014ed28d1f6
+  - enabled: 1
+    path: Assets/Demo_DiTie/Demo_DiTie_Scene_04.unity
+    guid: 61b46709449906548ae04759500fbe53
+  - enabled: 1
+    path: Assets/Demo_DiTie/Demo_DiTie_Scene_05.unity
+    guid: 904a7b50a98da4e43a6ffbedd9b94097
+  - enabled: 1
+    path: Assets/Demo_DiTie/Demo_DiTie_Scene_07_10.unity
+    guid: 336a546edbca56c41afa656c1a040886
+  - enabled: 1
+    path: Assets/Demo_Boss/Boss.unity
+    guid: bfce01f4cb49f2144b70f7e8033160b9
+  - enabled: 1
+    path: Assets/Demo_YiYuan/Demo_YiYuan.unity
+    guid: 79488285e1dacd34eb7a8feef34c38e7
+  - enabled: 1
+    path: Assets/Demo_YiYuan/YiYuan_Scene_2.unity
+    guid: 3d101d607997e134f95530e289973e7b
+  - enabled: 1
+    path: Assets/Demo_YiYuan/YiYuan_Scene_4.unity
+    guid: 26b8a24a98c7b64469083ce2c069847e
+  - enabled: 1
+    path: Assets/Demo_YiYuan/YiYuan_Scene_5.unity
+    guid: 7307f50b5cc369743854d6c78bb154df
+  - enabled: 1
+    path: Assets/Demo_YiYuan/YiYuan_Scene_6.unity
+    guid: 6eff68de166459e429c8538fd67a5141
+  - enabled: 1
+    path: Assets/Demo_YiYuan/YiYuan_Scene_7.unity
+    guid: ca46f90064238124daa3f343ee9e4b49
+  - enabled: 1
+    path: Assets/QianKai/CarMode/RacingScene.unity
+    guid: fe93fa664ce625f4e86e2f003ce2bc8a
+  - enabled: 1
+    path: Assets/Demo_Juji/JuJi_Scene_1.unity
+    guid: d021d940c5139c04082831dec20cc368
+  - enabled: 1
+    path: Assets/Demo_Juji/JuJi_Scene_2_1.unity
+    guid: 7def3a13968b6aa4eaffe976225b429f
+  - enabled: 1
+    path: Assets/Demo_Juji/JuJi_Scene_3_1.unity
+    guid: 69785161912027441a402d2282002479
+  - enabled: 1
+    path: Assets/Demo_Juji/JuJi_Scene_3_2.unity
+    guid: d25a59d3e26a2ea45b99c52b0adbe59a
+  - enabled: 1
+    path: Assets/Demo_Juji/JuJi_Scene_4.unity
+    guid: e779390de09ebf04d9a2ae5c3cc84406

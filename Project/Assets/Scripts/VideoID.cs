@@ -1,0 +1,16 @@
+using System;
+
+public enum VideoID
+{
+	UIENDLESSACCOUNT = -10,
+	UIArena,
+	UIDaily,
+	UILottery,
+	UINOTENOUGH,
+	UIREVIVE,
+	UIDOUBLE,
+	UISHOP,
+	UILEVEL,
+	UISELECTGUN,
+	NONE
+}

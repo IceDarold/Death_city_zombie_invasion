@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DailyMissions>
+	<DailyMission ID="2" Describe="DAILYMISSION_DES_02" Type="3" TargetValue="1" LevelRange="5,100" AwardID="2" AwardCount="10"/>
+	<DailyMission ID="3" Describe="DAILYMISSION_DES_03" Type="4" TargetValue="50" LevelRange="5,100" AwardID="1" AwardCount="200"/>
+	<DailyMission ID="4" Describe="DAILYMISSION_DES_04" Type="5" TargetValue="50" LevelRange="5,100" AwardID="1" AwardCount="300"/>
+	<DailyMission ID="5" Describe="DAILYMISSION_DES_05" Type="6" TargetValue="5" LevelRange="5,100" AwardID="1" AwardCount="300"/>
+	<DailyMission ID="6" Describe="DAILYMISSION_DES_06" Type="7" TargetValue="2" LevelRange="5,100" AwardID="3" AwardCount="200"/>
+	<DailyMission ID="7" Describe="DAILYMISSION_DES_07" Type="8" TargetValue="2" LevelRange="5,100" AwardID="3" AwardCount="500"/>
+	<DailyMission ID="8" Describe="DAILYMISSION_DES_08" Type="9" TargetValue="5" LevelRange="5,100" AwardID="1" AwardCount="200"/>
+	<DailyMission ID="9" Describe="DAILYMISSION_DES_09" Type="10" TargetValue="3" LevelRange="5,100" AwardID="1" AwardCount="200"/>
+	<DailyMission ID="10" Describe="DAILYMISSION_DES_10" Type="1" TargetValue="1" LevelRange="5,100" AwardID="2,1" AwardCount="30,1500"/>
+</DailyMissions>

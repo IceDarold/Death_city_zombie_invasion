@@ -1,0 +1,14 @@
+using System;
+
+public enum EMissionIcon
+{
+	NONE = -1,
+	KILL_ENEMY,
+	PROTECT_NPC,
+	TRANSPORT_ITEM,
+	COLLECTION_ITEM,
+	REACH_POSITION,
+	PLACE_ITEM,
+	TIME_ACTION,
+	KILL_WAVE
+}

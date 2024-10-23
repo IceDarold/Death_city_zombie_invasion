@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1790397000334780130}
+  m_IsPrefabParent: 1
+--- !u!4 &1790397000385111779
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790397000334780130}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 999.9428, y: 1000.113, z: 1100}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790397000334780130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1790397000385111779}
+  - component: {fileID: 1790397002230605540}
+  m_Layer: 0
+  m_Name: "GlobalData"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790397002230605540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790397000334780130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 766c8db7ec2f4f4405986eb7fa525318, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDebug: 0
+  IngoreChange: 0
+  UpdateCompensate: 0
+  CheckpointFinishTimes: 0
+  InGameWeaponIndex: 0
+  selectWeapon: 0
+  selectProp: 0
+  GameGoldCoins: 0
+  GameDNA: 0
+  UnlockWd:
+    ID: 0
+    ItemTag: 0
+    Name: 
+    Describe: 
+    Icon: 
+    Prefab: 
+    DropID: 
+    Level: 0
+    Quality: 0
+    Count: 0
+    Type: 0
+    MaxLevel: 0
+    DebrisID: 0
+    RequiredDebris: 0
+    UnlockType: 0
+    UnlockPrice: 0
+    ProducePrice: 0
+    ProduceTime: 0
+    Parts: 
+    Damage: 0
+    Precise: 0
+    Speed: 0
+    Magazines: 0
+    Bullets: 0
+    ReloadingTime: 0
+    ScopeTimes: 0
+    Weight: 0
+    Range: 0
+    BasicPower: 0
+    UiModel: 
+    isNew: 0
+    State: 0
+  UnlockShowWd:
+    ID: 0
+    ItemTag: 0
+    Name: 
+    Describe: 
+    Icon: 
+    Prefab: 
+    DropID: 
+    Level: 0
+    Quality: 0
+    Count: 0
+    Type: 0
+    MaxLevel: 0
+    DebrisID: 0
+    RequiredDebris: 0
+    UnlockType: 0
+    UnlockPrice: 0
+    ProducePrice: 0
+    ProduceTime: 0
+    Parts: 
+    Damage: 0
+    Precise: 0
+    Speed: 0
+    Magazines: 0
+    Bullets: 0
+    ReloadingTime: 0
+    ScopeTimes: 0
+    Weight: 0
+    Range: 0
+    BasicPower: 0
+    UiModel: 
+    isNew: 0
+    State: 0
+  InGameState: 0
+  PushAdevertisementCounts: 1
+  GameTimes: 0

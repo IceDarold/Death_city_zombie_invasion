@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "M_Blood_Strand_RGBA_02_B"
+  m_Shader: {fileID: 4800000, guid: baf3e1c513fb475b9d64b10981b82f67, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: d73e2ec0b5b34465992cdb768ff1ecac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 449d24a4f29f4168bcde22c98a32d71c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 657571e50bab49b6b419596dbab068a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Reflect:
+        m_Texture: {fileID: 2800000, guid: b229747774394695a93f8860e61cbfb4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVOff:
+        m_Texture: {fileID: 2800000, guid: dd5b0524725e430ab4c94a7db316767b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Columns: 1
+    - _Cutoff: 0.5
+    - _DetailAlphaAffect: 0.5
+    - _DetailBrightAffect: -0.19
+    - _DetailNormalMapScale: 1
+    - _DetailPan: 0.33
+    - _DetailTile: 2.84
+    - _DstBlend: 0
+    - _EdgeMin: 0.05
+    - _EdgeSoft: 0.02
+    - _Glossiness: 0.5
+    - _InvFade: 8
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OffPow: 5
+    - _OffTile: 0.4
+    - _Overbright: 0
+    - _Parallax: 0.02
+    - _Rows: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _ChannelMask: {r: 0, g: 0, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HighlightColor: {r: 0.4705882, g: 0.4705882, b: 0.4705882, a: 1}
+    - _TintColor: {r: 1, g: 0, b: 0, a: 1}

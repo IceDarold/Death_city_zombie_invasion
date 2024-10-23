@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StoreDatas>
+	<StoreData ID="9001" Name="STORE_NAME_01" Describe="STORE_DES_01" Icon="icon_store_01" PushIcon="icon_store_01" Type="1" Tag="1" Priority="1" ChargePoint="1" Discount="0" LimitCount="0" ItemID="1" ItemCount="18000"/>
+	<StoreData ID="9002" Name="STORE_NAME_02" Describe="STORE_DES_02" Icon="icon_store_02" PushIcon="icon_store_01" Type="1" Tag="1" Priority="1" ChargePoint="2" Discount="0" LimitCount="0" ItemID="1" ItemCount="31000"/>
+	<StoreData ID="9003" Name="STORE_NAME_03" Describe="STORE_DES_03" Icon="icon_store_03" PushIcon="icon_store_01" Type="1" Tag="1" Priority="1" ChargePoint="3" Discount="16" LimitCount="0" ItemID="1" ItemCount="72000"/>
+	<StoreData ID="9031" Name="STORE_NAME_31" Describe="STORE_DES_31" Icon="icon_store_03" PushIcon="icon_store_01" Type="1" Tag="1" Priority="1" ChargePoint="31" Discount="0" LimitCount="0" ItemID="1" ItemCount="160000"/>
+	<StoreData ID="9032" Name="STORE_NAME_32" Describe="STORE_DES_32" Icon="icon_store_03" PushIcon="icon_store_01" Type="1" Tag="1" Priority="1" ChargePoint="32" Discount="33" LimitCount="0" ItemID="1" ItemCount="450000"/>
+	<StoreData ID="9004" Name="STORE_NAME_04" Describe="STORE_DES_04" Icon="icon_store_04" PushIcon="icon_store_01" Type="2" Tag="2" Priority="1" ChargePoint="4" Discount="0" LimitCount="0" ItemID="2" ItemCount="500"/>
+	<StoreData ID="9005" Name="STORE_NAME_05" Describe="STORE_DES_05" Icon="icon_store_05" PushIcon="icon_store_01" Type="2" Tag="2" Priority="1" ChargePoint="5" Discount="0" LimitCount="0" ItemID="2" ItemCount="1050"/>
+	<StoreData ID="9006" Name="STORE_NAME_06" Describe="STORE_DES_06" Icon="icon_store_06" PushIcon="icon_store_01" Type="2" Tag="2" Priority="1" ChargePoint="6" Discount="16" LimitCount="0" ItemID="2" ItemCount="2400"/>
+	<StoreData ID="9033" Name="STORE_NAME_33" Describe="STORE_DES_33" Icon="icon_store_06" PushIcon="icon_store_01" Type="2" Tag="2" Priority="1" ChargePoint="33" Discount="0" LimitCount="0" ItemID="2" ItemCount="5400"/>
+	<StoreData ID="9034" Name="STORE_NAME_34" Describe="STORE_DES_34" Icon="icon_store_06" PushIcon="icon_store_01" Type="2" Tag="2" Priority="1" ChargePoint="34" Discount="33" LimitCount="0" ItemID="2" ItemCount="15000"/>
+	<StoreData ID="9007" Name="STORE_NAME_07" Describe="STORE_DES_07" Icon="icon_store_09" PushIcon="icon_store_01" Type="3" Tag="3" Priority="1" ChargePoint="7" Discount="0" LimitCount="0" ItemID="3" ItemCount="10800"/>
+	<StoreData ID="9008" Name="STORE_NAME_08" Describe="STORE_DES_08" Icon="icon_store_10" PushIcon="icon_store_01" Type="3" Tag="3" Priority="1" ChargePoint="8" Discount="16" LimitCount="0" ItemID="3" ItemCount="32400"/>
+	<StoreData ID="9009" Name="STORE_NAME_09" Describe="STORE_DES_09" Icon="icon_store_12" PushIcon="icon_store_01" Type="3" Tag="3" Priority="1" ChargePoint="9" Discount="0" LimitCount="0" ItemID="3" ItemCount="90000"/>
+	<StoreData ID="9035" Name="STORE_NAME_35" Describe="STORE_DES_35" Icon="icon_store_12" PushIcon="icon_store_01" Type="3" Tag="3" Priority="1" ChargePoint="35" Discount="33" LimitCount="0" ItemID="3" ItemCount="387900"/>
+	<StoreData ID="9010" Name="STORE_NAME_10" Describe="STORE_DES_10" Icon="icon_store_13" PushIcon="icon_Push_VIP" Type="4" Tag="1" Priority="95" ChargePoint="10" Discount="0" LimitCount="0" ItemID="101,2" ItemCount="1,500"/>
+	<StoreData ID="9011" Name="STORE_NAME_11" Describe="STORE_DES_11" Icon="icon_store_14" PushIcon="icon_Push_double" Type="4" Tag="1" Priority="96" ChargePoint="11" Discount="0" LimitCount="0" ItemID="201" ItemCount="1"/>
+	<StoreData ID="9013" Name="STORE_NAME_13" Describe="STORE_DES_13" Icon="icon_box_golden" PushIcon="icon_box_golden" Type="5" Tag="1" Priority="1" ChargePoint="42" Discount="0" LimitCount="1" ItemID="403" ItemCount="5"/>
+	<StoreData ID="9014" Name="STORE_NAME_14" Describe="STORE_DES_14" Icon="icon_store_17" PushIcon="icon_store_01" Type="5" Tag="1" Priority="1" ChargePoint="14" Discount="0" LimitCount="1" ItemID="1" ItemCount="6000"/>
+	<StoreData ID="9015" Name="STORE_NAME_15" Describe="STORE_DES_15" Icon="icon_store_18" PushIcon="icon_store_01" Type="5" Tag="1" Priority="1" ChargePoint="15" Discount="0" LimitCount="1" ItemID="3" ItemCount="2200"/>
+	<StoreData ID="9016" Name="STORE_NAME_16" Describe="STORE_DES_16" Icon="icon_store_22" PushIcon="icon_Push_ZombieKill" Type="5" Tag="2" Priority="1" ChargePoint="16" Discount="0" LimitCount="0" ItemID="2009,1" ItemCount="1,10000"/>
+	<StoreData ID="9018" Name="STORE_NAME_18" Describe="STORE_DES_18" Icon="icon_store_25" PushIcon="icon_Push_Death" Type="4" Tag="1" Priority="1" ChargePoint="36" Discount="0" LimitCount="0" ItemID="2014,2,1" ItemCount="1,1000,20000"/>
+	<StoreData ID="9020" Name="STORE_NAME_20" Describe="STORE_DES_20" Icon="icon_store_27" PushIcon="icon_store_01" Type="4" Tag="1" Priority="93" ChargePoint="20" Discount="0" LimitCount="0" ItemID="3028,3029,3030,2,1" ItemCount="1,1,1,2000,50000"/>
+	<StoreData ID="9021" Name="STORE_NAME_21" Describe="STORE_DES_21" Icon="icon_store_29" PushIcon="icon_store_01" Type="4" Tag="2" Priority="92" ChargePoint="21" Discount="0" LimitCount="0" ItemID="4001,4002,4004,4006,4007" ItemCount="20,10,20,20,10"/>
+	<StoreData ID="9022" Name="STORE_NAME_22" Describe="STORE_DES_22" Icon="icon_revive" PushIcon="icon_store_01" Type="4" Tag="2" Priority="94" ChargePoint="22" Discount="0" LimitCount="0" ItemID="4" ItemCount="10"/>
+	<StoreData ID="9030" Name="STORE_NAME_30" Describe="STORE_DES_30" Icon="icon_revive" PushIcon="icon_Push_M4" Type="5" Tag="2" Priority="2" ChargePoint="30" Discount="67" LimitCount="0" ItemID="2005,1" ItemCount="1,5000"/>
+	<StoreData ID="9036" Name="STORE_NAME_36" Describe="STORE_DES_36" Icon="icon_store_BREN" PushIcon="icon_Push_BREN" Type="4" Tag="1" Priority="3" ChargePoint="38" Discount="0" LimitCount="0" ItemID="2008,2,1" ItemCount="1,100,10000"/>
+	<StoreData ID="9037" Name="STORE_NAME_37" Describe="STORE_DES_37" Icon="icon_store_SPAS12" PushIcon="icon_Push_spas" Type="4" Tag="1" Priority="4" ChargePoint="39" Discount="0" LimitCount="0" ItemID="2009,2,1" ItemCount="1,200,10000"/>
+	<StoreData ID="9038" Name="STORE_NAME_38" Describe="STORE_DES_38" Icon="icon_store_M92F" PushIcon="icon_Push_M92F" Type="4" Tag="1" Priority="5" ChargePoint="40" Discount="0" LimitCount="0" ItemID="2011,2,1" ItemCount="1,400,20000"/>
+	<StoreData ID="9039" Name="STORE_NAME_39" Describe="STORE_DES_39" Icon="icon_store_M32" PushIcon="icon_Push_M32" Type="4" Tag="1" Priority="6" ChargePoint="41" Discount="0" LimitCount="0" ItemID="2012,2,1" ItemCount="1,800,20000"/>
+	<StoreData ID="9040" Name="STORE_NAME_41" Describe="STORE_DES_41" Icon="Weapon_MP5" PushIcon="Weapon_MP5" Type="5" Tag="2" Priority="2" ChargePoint="37" Discount="0" LimitCount="0" ItemID="2013" ItemCount="1"/>
+	<StoreData ID="9041" Name="STORE_NAME_44" Describe="STORE_DES_44" Icon="Weapon_MP5" PushIcon="Weapon_MP5" Type="5" Tag="2" Priority="2" ChargePoint="44" Discount="0" LimitCount="0" ItemID="2010,2103,1" ItemCount="1,1,20000"/>
+
+	</StoreDatas>

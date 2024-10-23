@@ -1,0 +1,22 @@
+using System;
+
+public enum NPCSTATE
+{
+	NONE = -1,
+	IDLE,
+	DEPEND,
+	JUMP,
+	WALK,
+	RUN,
+	HURT,
+	ATTACK,
+	CLIMB,
+	STEPOUT,
+	OPERATE,
+	HELP,
+	GETUP,
+	DEAD,
+	START_AIM,
+	START_SHOOT,
+	START_OPERATE
+}

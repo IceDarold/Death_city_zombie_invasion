@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "jiatelin_hanmaAvatar"
+  m_AvatarSize: 2176
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 1
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        m_ID: 0000000082a304a18c373136ef0dc62fe9e1612e6bc7cb081dfc69bea7ad6027319d6750920803ce043804b97fa1aa51c5f0a3c8a566c16f64102fa8f741f28a
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0.01379001, y: 1.419457, z: 6.204642E-08}
+          q: {x: 8.146034E-08, y: 0, z: 0, w: 1}
+          s: {x: 1.0774, y: 1.0774, z: 1.0774}
+        - t: {x: -0.05301905, y: 0.6428379, z: 0.9065648}
+          q: {x: 0.7071069, y: 9.415695E-08, z: -0.7071067, w: 9.415697E-08}
+          s: {x: 0.000214451, y: 0.000214451, z: 0.000214451}
+        - t: {x: -27.16504, y: -611.7832, z: 14.12355}
+          q: {x: 0, y: 8.19564E-08, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 51.8042, y: -1682.081, z: 296.0399}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -753.3291, y: -57.08008, z: -557.3953}
+          q: {x: 0.7071068, y: 4.329781E-17, z: -0.7071068, w: 4.329781E-17}
+          s: {x: 4830.564, y: 4830.564, z: 863.4846}
+        - t: {x: 2.607703E-08, y: 0.2312269, z: 0.09419441}
+          q: {x: -8.203938E-28, y: 2.886504E-14, z: 2.842171E-14, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 704.1307, y: -216.1912, z: 248.9059}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.1311, y: -242.6384, z: 360.5016}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.1311, y: -244.2927, z: 477.8418}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.131, y: -244.2927, z: 552.9388}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.1308, y: -244.2927, z: 661.5801}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 1153.348, y: -379.7134, z: -377.4651}
+          q: {x: 0.9396926, y: 0, z: 0, w: -0.3420203}
+          s: {x: 1022.835, y: 1022.835, z: 1022.835}
+        - t: {x: 1388.57, y: -627.2831, z: -1284.13}
+          q: {x: 0.6963643, y: -0.1227879, z: -0.6963642, w: -0.1227879}
+          s: {x: 1022.835, y: 1022.835, z: 1022.835}
+        - t: {x: 1087.703, y: -20.54459, z: 724.194}
+          q: {x: 0.7071069, y: -1.176962E-07, z: -0.7071067, w: -1.176962E-07}
+          s: {x: 4328.077, y: 4328.077, z: 4328.077}
+        - t: {x: -302.8086, y: -648.8467, z: -601.7661}
+          q: {x: 2.170259E-14, y: -3.698089E-15, z: 8.025812E-29, w: 1}
+          s: {x: 1.3096, y: 1.3096, z: 1.3096}
+        - t: {x: -2631.169, y: 57.49023, z: -590.6137}
+          q: {x: -0.5, y: 0.5000005, z: 0.5, w: -0.4999995}
+          s: {x: 4128.367, y: 4128.367, z: 3685.387}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0.01379001, y: 1.419457, z: 6.204642E-08}
+          q: {x: 8.146034E-08, y: 0, z: 0, w: 1}
+          s: {x: 1.0774, y: 1.0774, z: 1.0774}
+        - t: {x: -0.05301905, y: 0.6428379, z: 0.9065648}
+          q: {x: 0.7071069, y: 9.415695E-08, z: -0.7071067, w: 9.415697E-08}
+          s: {x: 0.000214451, y: 0.000214451, z: 0.000214451}
+        - t: {x: -27.16504, y: -611.7832, z: 14.12355}
+          q: {x: 0, y: 8.19564E-08, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 51.8042, y: -1682.081, z: 296.0399}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -753.3291, y: -57.08008, z: -557.3953}
+          q: {x: 0.7071068, y: 4.329781E-17, z: -0.7071068, w: 4.329781E-17}
+          s: {x: 4830.564, y: 4830.564, z: 863.4846}
+        - t: {x: 2.607703E-08, y: 0.2312269, z: 0.09419441}
+          q: {x: -8.203938E-28, y: 2.886504E-14, z: 2.842171E-14, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 704.1307, y: -216.1912, z: 248.9059}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.1311, y: -242.6384, z: 360.5016}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.1311, y: -244.2927, z: 477.8418}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.131, y: -244.2927, z: 552.9388}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 704.1308, y: -244.2927, z: 661.5801}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        - t: {x: 1153.348, y: -379.7134, z: -377.4651}
+          q: {x: 0.9396926, y: 0, z: 0, w: -0.3420203}
+          s: {x: 1022.835, y: 1022.835, z: 1022.835}
+        - t: {x: 1388.57, y: -627.2831, z: -1284.13}
+          q: {x: 0.6963643, y: -0.1227879, z: -0.6963642, w: -0.1227879}
+          s: {x: 1022.835, y: 1022.835, z: 1022.835}
+        - t: {x: 1087.703, y: -20.54459, z: 724.194}
+          q: {x: 0.7071069, y: -1.176962E-07, z: -0.7071067, w: -1.176962E-07}
+          s: {x: 4328.077, y: 4328.077, z: 4328.077}
+        - t: {x: -302.8086, y: -648.8467, z: -601.7661}
+          q: {x: 2.170259E-14, y: -3.698089E-15, z: 8.025812E-29, w: 1}
+          s: {x: 1.3096, y: 1.3096, z: 1.3096}
+        - t: {x: -2631.169, y: 57.49023, z: -590.6137}
+          q: {x: -0.5, y: 0.5000005, z: 0.5, w: -0.4999995}
+          s: {x: 4128.367, y: 4128.367, z: 3685.387}
+    m_SkeletonNameIDArray: 0000000082a304a1ce37c04f51c6d43072b148ec19b267d6819f76d93bce7f40adfe78370e6b1ca9985b1bde9433e5582e62ecc13e36e8ad8f8260a1f7907929
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node:
+            m_ID: 
+            m_AxesArray:
+        m_SkeletonPose:
+          data:
+            m_X:
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles:
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.1454546
+        - 0.1454546
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node:
+        m_ID: 
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X:
+    m_RootMotionSkeletonIndexArray: 
+  m_TOS:
+    0: 
+    147572587: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/Box001/对象009
+    660647335: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/zidan02
+    778166761: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/Box001
+    801508847: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia
+    909195148: jiatelindizuo/jiatelin_zuoyou
+    1348967729: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/zidan03
+    1370136959: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/Circle002
+    1874945701: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/bashou
+    2331132407: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/Cylinder001
+    2701435778: jiatelindizuo
+    2821656676: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/对象008
+    3104061444: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/zidan05
+    3194616861: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/zidan01
+    3366187205: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/Circle001
+    3456305298: jiatelindizuo/jiatelin_zuoyou/Jiatelin_shangxia/zidan04

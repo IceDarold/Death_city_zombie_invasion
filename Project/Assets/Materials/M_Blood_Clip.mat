@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "M_Blood_Clip"
+  m_Shader: {fileID: 4800000, guid: baf3e1c513fb475b9d64b10981b82f67, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: d73e2ec0b5b34465992cdb768ff1ecac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f46ae7152d5c44e59dbc543d0b4aa267, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 6e1685d70220459f9b8b04862eb37c6a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Reflect:
+        m_Texture: {fileID: 2800000, guid: c2bfd09303604b238bdcbdb7e7d37546, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVOff:
+        m_Texture: {fileID: 2800000, guid: dd5b0524725e430ab4c94a7db316767b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Columns: 1
+    - _Cutoff: 0.5
+    - _DetailAlphaAffect: 0.75
+    - _DetailBrightAffect: 0.18
+    - _DetailNormalMapScale: 1
+    - _DetailPan: 0.2
+    - _DetailTile: 0.8
+    - _DstBlend: 0
+    - _EdgeMin: 0.05
+    - _EdgeSoft: 0.02
+    - _Glossiness: 0.5
+    - _InvFade: 8
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OffPow: 2.53
+    - _OffTile: -0.18
+    - _Overbright: 0
+    - _Parallax: 0.02
+    - _Rows: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _ChannelMask: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 0, b: 0, a: 1}
